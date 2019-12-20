@@ -1,0 +1,49 @@
+[ {
+  "id" : 1,
+  "describe" : "看推荐视频",
+  "sunSchedule" : 1,
+  "taskType" : 1,
+  "value" : 0,
+  "rewardState" : 0,
+  "progress" : 0
+}, {
+  "id" : 2,
+  "describe" : "分享给QQ/微信",
+  "sunSchedule" : 1,
+  "taskType" : 2,
+  "value" : 0,
+  "rewardState" : 0,
+  "progress" : 0
+}, {
+  "id" : 3,
+  "describe" : "获得一点线索值",
+  "sunSchedule" : 1,
+  "taskType" : 3,
+  "value" : 0,
+  "rewardState" : 0,
+  "progress" : 0
+}, {
+  "id" : 4,
+  "describe" : "消耗20电量",
+  "sunSchedule" : 20,
+  "taskType" : 4,
+  "value" : 0,
+  "rewardState" : 0,
+  "progress" : 0
+}, {
+  "id" : 5,
+  "describe" : "涨20好感度",
+  "sunSchedule" : 20,
+  "taskType" : 5,
+  "value" : 0,
+  "rewardState" : 0,
+  "progress" : 0
+}, {
+  "id" : 6,
+  "describe" : "获得1个成就碎片",
+  "sunSchedule" : 1,
+  "taskType" : 6,
+  "value" : 0,
+  "rewardState" : 0,
+  "progress" : 0
+} ]

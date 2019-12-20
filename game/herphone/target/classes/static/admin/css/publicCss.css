@@ -1,0 +1,170 @@
+.layui-table-cell{
+     height:38px;
+     line-height: 38px;
+}
+#recoverComment{
+	position: absolute;
+	top:-10px; 
+}
+#customIn{
+  position: absolute;
+  left: 550px;
+  top:168px
+}
+#pcustom{
+  position: absolute;
+  left: 750px;
+}
+#addData{
+  position: relative;
+  width: 1000px;
+  left: 330px;
+  border:1px solid #999;
+  padding:3px;
+  background:#F2F2F2; 
+}
+#sendData{
+  position: relative;
+  width: 1000px;
+  height:260px;
+  left: 330px;
+  border:1px solid #999;
+  border-top: none;
+  padding:3px;
+}
+#content{
+  position: relative;
+  left: 10px;
+}
+#inData{
+	display:block;
+	position: relative;
+	top:-28px;
+	left:62px;
+	width: 420px;
+	max-width: 100%;
+	height: 150px;
+	max-height: 100%;
+	border:1px solid #999;
+  	padding:3px;
+  	overflow:hidden;
+  	text-overflow:ellipsis;
+}
+#acceptPlayer{   
+	position: relative;
+	top:-35px;
+	left:90px;
+	width: 500px;
+  	height:10px;
+}
+#allPlayers{
+	position: relative;
+	top:-62px;
+	left:860px;
+	width: 200px;
+  	height:10px;
+}
+#morePlayers{
+	position: relative;
+	top:-35px;
+	left:860px;
+	width: 200px;
+  	height:10px;
+}
+#selects{
+	position: relative;
+	width: 200px;
+  	height:10px;
+	top:-260px;
+	left:500px;
+}
+/* ------------------------------------------------------------- */
+#dialogBox{
+	width:430px;
+	height: 19px;
+	position: relative;
+	left: 210px;
+}
+#content{
+  position: relative;
+  left: 10px;
+}.main{
+ position: relative;
+ margin: 20px auto;
+ border: 1px solid steelblue;
+ width: 430px;
+ height: 400px;
+}
+.msgInput{
+ display: block;
+ width: 406px;
+ height: 60px;
+ margin: 10px auto;
+ 
+}
+.sendbtn{
+ position: absolute;
+ width: 100px;
+ height: 29px;
+ bottom: 5px;
+ right: 10px;
+}
+.content{
+ list-style: none;
+ width: 410px;
+ height: 280px;
+ margin: 5px auto;
+ border: 1px dotted #D1D3D6;
+ overflow-y: scroll;
+}
+.msgContent{
+ width:auto;
+ max-width: 250px;
+ height: auto;
+ text-align: justify; 
+ word-break: break-all;
+ margin: 5px;
+ padding: 3px;
+ border-radius: 5px;
+}
+ 
+.content .left{
+ float: left;
+ text-align: left;
+ text-align: justify; 
+ background-color: lightgrey;
+}
+.content .right{
+ float: right;
+ text-align:left;
+ text-align: justify; 
+ background-color: yellowgreen;
+}
+#adminTime{
+position: relative;
+left:135px;
+width:140px;
+} 
+#userTime{
+position: relative;
+left:135px;
+width:140px;
+} 
+/* ------------------------------------------------------------- */
+.lowin-brand {
+	overflow: hidden;
+	width: 100px;
+	height: 100px;
+	margin: 0 auto -50px auto;
+	border-radius: 50%;
+	-webkit-box-shadow: 0 4px 40px rgba(0, 0, 0, .07);
+	        box-shadow: 0 4px 40px rgba(0, 0, 0, .07);
+	padding: 10px;
+	background-color: #fff;
+	z-index: 1;
+	position: relative;
+}
+
+.lowin-brand img {
+	width: 100%;
+}

@@ -1,0 +1,56 @@
+[ {
+  "id" : 1001,
+  "costNum" : 10,
+  "shopName" : "备用电池",
+  "commodityIntroduction" : "使用会直接恢复50电量"
+}, {
+  "id" : 3003,
+  "costNum" : 15,
+  "shopName" : "鲜花",
+  "commodityIntroduction" : "可以送给作者增加好感度+10"
+}, {
+  "id" : 3005,
+  "costNum" : 30,
+  "shopName" : "礼盒",
+  "commodityIntroduction" : "可以送给作者增加好感度+20"
+}, {
+  "id" : 3004,
+  "costNum" : 45,
+  "shopName" : "奖杯",
+  "commodityIntroduction" : "可以送给作者增加好感度+30"
+}, {
+  "id" : 1002,
+  "costNum" : 50,
+  "shopName" : "聚能环",
+  "commodityIntroduction" : "使用会将电量上限变为120"
+}, {
+  "id" : 1003,
+  "costNum" : 50,
+  "shopName" : "沙漏",
+  "commodityIntroduction" : "使用会使电量恢复速度*120%"
+}, {
+  "id" : 3001,
+  "costNum" : 75,
+  "shopName" : "战术目镜",
+  "commodityIntroduction" : "可以送给作者增加好感度+50"
+}, {
+  "id" : 3002,
+  "costNum" : 120,
+  "shopName" : "科技目镜",
+  "commodityIntroduction" : "可以送给作者增加好感度+80"
+}, {
+  "id" : 4001,
+  "costNum" : 0,
+  "shopName" : "普通宝箱",
+  "commodityIntroduction" : "探索值获取"
+}, {
+  "id" : 4002,
+  "costNum" : 0,
+  "shopName" : "超级宝箱",
+  "commodityIntroduction" : "探索值获取或成就获取"
+}, {
+  "id" : 4003,
+  "costNum" : 0,
+  "shopName" : "成就宝箱",
+  "commodityIntroduction" : "成就碎片获取"
+} ]

@@ -1,0 +1,41 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>game</artifactId>
+    <groupId>com.kratos.engine.game</groupId>
+    <packaging>pom</packaging>
+    <version>0.0.1</version>
+
+    <name>game</name>
+    <description>游戏逻辑模块</description>
+
+    <parent>
+        <groupId>com.kratos.engine</groupId>
+        <artifactId>kratos-engine</artifactId>
+        <version>0.0.1</version>
+    </parent>
+
+    <modules>
+      <!--  <module>gangster</module>
+        <module>girlfriend</module>
+        <module>fortune</module>
+	  -->
+        <module>herphone</module>
+    </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+        </dependency>
+
+        <!-- 内存数据库h2-->
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+    </dependencies>
+
+</project>

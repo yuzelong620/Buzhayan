@@ -1,0 +1,13 @@
+.poptop{
+	    width: 100%;
+	    height: 60px;
+	    line-height: 60px;
+	    text-align: center;
+	    border-bottom: 1px solid #F2F2F2;
+	    position: relative;
+}
+.poptop h3{
+        font-size:32px;
+        font-weight: 600;
+        color:#749dcf;
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>护眼先锋管理</title>
+  <meta name="renderer" content="webkit">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
+  <link rel="stylesheet" href="layui/css/layui.css" media="all">
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/publicCss.css">
+  <script type="text/javascript" src="js/login.js"></script>
+  <script type="text/javascript" src="js/util.js"></script>
+  <script src="layui/layui.js" charset="utf-8"></script>
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  <script src="js/eyePioneerList.js" charset="utf-8"></script>
+</head>
+<body>
+	<nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid"> 
+    <div class="navbar-header">
+        <a class="navbar-brand" href="eyePioneerList.html">护眼先锋</a>
+    </div>
+    <div class="navbar-form navbar-left" role="search">
+        <div class="form-group">
+            <input id="inDatas" type="date" class="form-control" placeholder="指定时间查询">
+            <button id="buTime" class="btn btn-primary">查询</button>
+        </div>
+        <div class="form-group" style="position: relative;left: 110px;">
+            <input id="inIds" type="text" class="form-control" placeholder="指定ID查询">
+            <button id="buId" class="btn btn-primary">查询</button>
+        </div>
+        <div class="form-group" style="position: relative;left: 190px;">
+            <input id="assignData" type="text" class="form-control" placeholder="ID/手机号设置护眼先锋">
+            <button id="byIdItemTitle" class="btn btn-primary">ID设置</button>
+       		<button id="byPhoneItemTitle" class="btn btn-primary">手机号设置</button>
+        </div>
+        <div class="form-group" style="position: relative;left: 270px;">
+            <input id="inDataAndId" type="date" class="form-control" placeholder="时间">
+            <input id="inIdAndTime" type="text" class="form-control" placeholder="ID">
+            <button id="buIdAndTime" class="btn btn-primary">查询</button>
+        </div>
+    </div>
+    </div>
+	</nav>
+	<table class="layui-hide" id="eyePioneerList" lay-filter="eyePioneerList"></table>
+</body>
+<script type="text/html" id="rem">
+  <a class="layui-btn layui-btn-danger" lay-event="rem">移除</a>
+</script>
+<script type="text/html" id="foulRecord">
+  <a class="layui-btn layui-btn-normal" lay-event="fou">查看违规纪录</a>
+</script>
+<script type="text/javascript" src="js/jquery.sPage.js"></script>
+<script type="text/javascript" src="js/login.js"></script>
+<script type="text/javascript" src="js/util.js"></script>
+</html>

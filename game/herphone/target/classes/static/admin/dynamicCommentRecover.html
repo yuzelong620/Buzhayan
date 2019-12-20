@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>动态评论恢复</title>
+  <meta name="renderer" content="webkit">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
+  <link rel="stylesheet" href="layui/css/layui.css" media="all">
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/publicCss.css">
+  <script type="text/javascript" src="js/login.js"></script>
+  <script type="text/javascript" src="js/util.js"></script>
+  <script src="layui/layui.js" charset="utf-8"></script>
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  <script src="js/dynamicCommentRecover.js" charset="utf-8"></script>
+</head>
+<style>
+.layui-table-cell{
+     height:auto !important;
+     white-space:normal;
+}
+</style>
+<body>
+	<table class="layui-hide" id="dynamicCommentRecover" lay-filter="dynamicCommentRecover"></table>
+</body>
+<script type="text/html" id="recover">
+  <a class="layui-btn layui-btn-normal" lay-event="rec">恢复</a>
+</script>
+</html>

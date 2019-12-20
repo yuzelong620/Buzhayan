@@ -1,0 +1,13 @@
+[ {
+  "id" : 1,
+  "tagDesc" : [ {
+    "key" : "这是我要说的话",
+    "subkey" : 0,
+    "value" : 1
+  }, {
+    "key" : "这是第二，个",
+    "subkey" : 0,
+    "value" : 2
+  } ],
+  "isBest" : true
+} ]

@@ -1,0 +1,6581 @@
+[ {
+  "id" : 1,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10001,
+  "content" : "这款游戏是真的好，新版本添加的消息评论功能，可以让越来越多的单身男女认识彼此，真是太棒了",
+  "likeCount" : 30
+}, {
+  "id" : 2,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10002,
+  "content" : "好游戏啊，超喜欢互动游戏，悬疑剧情解谜向，身临其境与每位主角斗智斗勇，感觉非常棒",
+  "likeCount" : 40
+}, {
+  "id" : 3,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10003,
+  "content" : "游戏是比较新颖的揭秘游戏，代入感也是很强的。超喜欢这个文字对话。",
+  "likeCount" : 45
+}, {
+  "id" : 4,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10004,
+  "content" : "欠债还钱天经地义，这个男的是真的渣啊",
+  "likeCount" : 35
+}, {
+  "id" : 5,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10005,
+  "content" : "这男的是有什问题，还跟女人借钱，真的看不下去了，想打人",
+  "likeCount" : 56
+}, {
+  "id" : 6,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10006,
+  "content" : "话说研发不怕怎么多评论，会有剧透吗。。。",
+  "likeCount" : 42
+}, {
+  "id" : 7,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 7,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10007,
+  "content" : "感觉这人好狠，一点都不喜欢",
+  "likeCount" : 54
+}, {
+  "id" : 8,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 8,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10008,
+  "content" : "（赌十包辣条，这条评论没人点赞）我要进护眼大队",
+  "likeCount" : 27
+}, {
+  "id" : 9,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 9,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10009,
+  "content" : "啊哈哈，天秀，这图片做的真的能以假乱真",
+  "likeCount" : 24
+}, {
+  "id" : 10,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 10,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10010,
+  "content" : "刺激，舒爽，好玩！剧情出的慢没关系，质量我们看的到",
+  "likeCount" : 56
+}, {
+  "id" : 11,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 11,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10011,
+  "content" : "故事画面背景就很让我称赞真的让我受到了一种身临其境的感觉，幽喑迷茫，以至于我是在客厅里面开着灯玩的",
+  "likeCount" : 24
+}, {
+  "id" : 12,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 12,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10012,
+  "content" : "游戏的难度并不大，并且有试错的机会，所以通关还是很轻松的。然后就是游戏这个手绘的画风我十分喜欢",
+  "likeCount" : 26
+}, {
+  "id" : 13,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 13,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10013,
+  "content" : "看到是沈阳人出品的时候立马心潮澎湃赶来评价。这样全新的大量语音与视频的结合超有心意，作为地道的沈阳人真为你们骄傲！",
+  "likeCount" : 40
+}, {
+  "id" : 14,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 14,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10014,
+  "content" : "挺好玩的，我是朋友推荐过来玩的，玩起来还可以吧感觉不错呦可以锻炼一下脑力，反正不错挺好的",
+  "likeCount" : 45
+}, {
+  "id" : 15,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 16,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10015,
+  "content" : "电量限制我感觉挺好的，可以限制一些在线时间，能下线缓缓，想想其他路线或者后续剧情（起码我是如此），官方真是良苦用心啊！",
+  "likeCount" : 35
+}, {
+  "id" : 16,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 17,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10016,
+  "content" : "玩了一个小时，终于通关了。对于这款游戏很满意。只是有一点我不满意，就是死了之后得重来是吧，剧情又长，浪费了很多时间，因此我希望增加快进功能。",
+  "likeCount" : 56
+}, {
+  "id" : 17,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 18,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10017,
+  "content" : "这个东东说话是真的让人不爽，不知道结局是什么样",
+  "likeCount" : 42
+}, {
+  "id" : 18,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 19,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10018,
+  "content" : "剧情不错，有人互粉吗",
+  "likeCount" : 54
+}, {
+  "id" : 19,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 19,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10019,
+  "content" : "点击不同选项引导出不同的剧情，能体验不同的分支，大家快带探索，一起来聊剧情啊",
+  "likeCount" : 42
+}, {
+  "id" : 20,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 20,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10020,
+  "content" : "制作真心不错，有很多结局，不像别家制作的玩一会儿就通关了，不过剧情也蛮简单的，而且内存是真的少，超适合我这种内存少的人",
+  "likeCount" : 62
+}, {
+  "id" : 21,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 26,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10021,
+  "content" : "这款游戏从体验来说，是非常的不错。表示大力支持",
+  "likeCount" : 40
+}, {
+  "id" : 22,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 26,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10022,
+  "content" : "上把发的定位，这回就是为了探究不发定位是什么情况，强迫症。",
+  "likeCount" : 45
+}, {
+  "id" : 23,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 34,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10023,
+  "content" : "终于有好友功能了，还能评论，这游戏研发真心良苦用心，比心",
+  "likeCount" : 35
+}, {
+  "id" : 24,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 40,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10024,
+  "content" : "这游戏细节做的不错，再说，名字就很勾引人哈哈",
+  "likeCount" : 56
+}, {
+  "id" : 25,
+  "gameId" : 0,
+  "chatId" : 0,
+  "talkId" : 48,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10025,
+  "content" : "就喜欢这样三观正的游戏，还有很多东北腔都很搞笑",
+  "likeCount" : 42
+}, {
+  "id" : 26,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10026,
+  "content" : "每个人的生活，都像是一场戏",
+  "likeCount" : 54
+}, {
+  "id" : 27,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10027,
+  "content" : "这个倒是很有创新的说，别人都是文字、对话或者是把制作成为小型漫画来完成的，这个就不得了了，是制作真人拍摄来完成的",
+  "likeCount" : 70
+}, {
+  "id" : 28,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10028,
+  "content" : "这款游戏我非常的推荐，我来给大家介绍一下这款游戏的玩法：……",
+  "likeCount" : 35
+}, {
+  "id" : 29,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10029,
+  "content" : "刚进去看到小罗潮人有点熟悉但想不起来，看到拍摄真人的时候想起来了，这里是跟隔壁...",
+  "likeCount" : 65
+}, {
+  "id" : 30,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10030,
+  "content" : "别觉得网友什么的都不靠谱，从游戏里相识的网友，目的都很单纯，不讲别的，大家一起坐下来开开心心玩游戏，好好享受游戏带来的乐趣。",
+  "likeCount" : 62
+}, {
+  "id" : 31,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10031,
+  "content" : "游戏蛮不错，我是老粉丝了，无论是画风还是玩法都是我所喜爱的！",
+  "likeCount" : 53
+}, {
+  "id" : 32,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 7,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10032,
+  "content" : "我想说的是不眨眼已经够良心的了，自从玩了第一个剧本就彻底喜欢上了这款游戏，游戏画风很可爱，操作没多复杂，你们老是说是模仿其他游戏来的，但起码人家做到了",
+  "likeCount" : 45
+}, {
+  "id" : 33,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 8,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10033,
+  "content" : "我就是来彩虹屁的，就是要夸夸小罗。关注了罗哥很久，一直以为是有生之年系列，没想到不眨眼真弄出来了",
+  "likeCount" : 35
+}, {
+  "id" : 34,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 9,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10034,
+  "content" : "音效方面也没什么问题，我个人觉得还是很OK的，毕竟作为一个测试版，无非就是来实验大众看法",
+  "likeCount" : 56
+}, {
+  "id" : 35,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 10,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10035,
+  "content" : "首先这款游戏是一款互动类悬疑向的游戏，虽然个人对这种题材游戏并不是太喜爱，但是在好游快爆的大力推荐下，还是去下载到了手机中，随后....入坑到无法自拔",
+  "likeCount" : 42
+}, {
+  "id" : 36,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 11,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10036,
+  "content" : "刚刚下载，对于这种略带黑暗和悬疑的游戏很喜欢，有很多细节可供玩家去一一发掘，这里就不进行太多的剧透了",
+  "likeCount" : 54
+}, {
+  "id" : 37,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 13,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10037,
+  "content" : "游戏中有着剧情模块，互动模块以及电量系统等等，这些构成了一个较为完整的一款游戏。",
+  "likeCount" : 27
+}, {
+  "id" : 38,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 14,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10038,
+  "content" : "虽然玩了没多久，但还是首先感慨，游戏真的很用心啊，我喜欢开场。",
+  "likeCount" : 24
+}, {
+  "id" : 39,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 15,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10039,
+  "content" : "剧情向游戏，创意不错，但文案整体维度稍微放得有点低。",
+  "likeCount" : 56
+}, {
+  "id" : 40,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 16,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10040,
+  "content" : "画风我喜，模式我也喜，毕竟是饭后甜点",
+  "likeCount" : 24
+}, {
+  "id" : 41,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 17,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10041,
+  "content" : "比较好玩，可以说值得玩",
+  "likeCount" : 26
+}, {
+  "id" : 42,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 33,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10042,
+  "content" : "几个人物口吻一致性高度趋同，讲真很出戏。",
+  "likeCount" : 40
+}, {
+  "id" : 43,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 42,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10043,
+  "content" : "就是体力机制到后期就有些尴尬了，就经常出现看到激动人心的地方没体力了的情况，对话的模式不得不说身临其境",
+  "likeCount" : 35
+}, {
+  "id" : 44,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 58,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10044,
+  "content" : "这是我玩过的目前最好的文字游戏（仅代表个人意见）",
+  "likeCount" : 56
+}, {
+  "id" : 45,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 64,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10045,
+  "content" : "我本人是十分喜欢看悬疑小说的，不眨眼的玩法可以说是相当舒服",
+  "likeCount" : 42
+}, {
+  "id" : 46,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 74,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10046,
+  "content" : "游戏代入感十分之强，剧情引人入胜，音效上佳",
+  "likeCount" : 54
+}, {
+  "id" : 47,
+  "gameId" : 0,
+  "chatId" : 1,
+  "talkId" : 90,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10047,
+  "content" : "每位角色个性丰满，虽然只是对话，但感觉就像是在面对面交流，到最后才发现，没有谁是完全的坏人。",
+  "likeCount" : 56
+}, {
+  "id" : 48,
+  "gameId" : 0,
+  "chatId" : 2,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10048,
+  "content" : "先是游戏视频很好看，新上架的打印机，有点像电影。",
+  "likeCount" : 83
+}, {
+  "id" : 49,
+  "gameId" : 0,
+  "chatId" : 2,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10049,
+  "content" : "怎么讲呢……挺不错的吧，音乐感觉用耳机的话挺好，有一种身临其境的感觉。",
+  "likeCount" : 30
+}, {
+  "id" : 50,
+  "gameId" : 0,
+  "chatId" : 2,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10050,
+  "content" : "话说研发不氪金，游戏中也没有广告，这么良心，实力雄厚啊。",
+  "likeCount" : 40
+}, {
+  "id" : 51,
+  "gameId" : 0,
+  "chatId" : 2,
+  "talkId" : 3,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10051,
+  "content" : "这本来就是一款剧情类的游戏呀 可能不太适合想要快速推进剧情的玩家，而是更类似于每天的睡前小故事这种",
+  "likeCount" : 45
+}, {
+  "id" : 52,
+  "gameId" : 0,
+  "chatId" : 2,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10052,
+  "content" : "挺独特的游戏，这种游戏类似的是真的少，还是沈阳厂商的，果断支持",
+  "likeCount" : 35
+}, {
+  "id" : 53,
+  "gameId" : 0,
+  "chatId" : 2,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10053,
+  "content" : "电量又出公告看视频的新获取方式，真是非常棒",
+  "likeCount" : 56
+}, {
+  "id" : 54,
+  "gameId" : 0,
+  "chatId" : 2,
+  "talkId" : 5,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10054,
+  "content" : "或许是我自己太菜也或许是游戏原因，一部剧情都是看到最后才恍然大悟，但是个人觉得伏笔设置还是应该再强一点吧…",
+  "likeCount" : 42
+}, {
+  "id" : 55,
+  "gameId" : 0,
+  "chatId" : 2,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10055,
+  "content" : "选项能影响结局，不错",
+  "likeCount" : 54
+}, {
+  "id" : 56,
+  "gameId" : 0,
+  "chatId" : 3,
+  "talkId" : 9,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10056,
+  "content" : "这么好的游戏怎么才出现，哭泣",
+  "likeCount" : 27
+}, {
+  "id" : 57,
+  "gameId" : 0,
+  "chatId" : 3,
+  "talkId" : 10,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10057,
+  "content" : "标点符号运用恰当，好评",
+  "likeCount" : 24
+}, {
+  "id" : 58,
+  "gameId" : 0,
+  "chatId" : 3,
+  "talkId" : 11,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10058,
+  "content" : "我觉得这个游戏还是不错，就是这个线索逻辑有点那啥，故事情节蛮有代入感的。",
+  "likeCount" : 56
+}, {
+  "id" : 59,
+  "gameId" : 0,
+  "chatId" : 3,
+  "talkId" : 13,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10059,
+  "content" : "哈哈还给电话打了码不错",
+  "likeCount" : 24
+}, {
+  "id" : 60,
+  "gameId" : 0,
+  "chatId" : 3,
+  "talkId" : 14,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10060,
+  "content" : "为剧情，为音效，为操作，必给五星好评。",
+  "likeCount" : 26
+}, {
+  "id" : 61,
+  "gameId" : 0,
+  "chatId" : 3,
+  "talkId" : 15,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10061,
+  "content" : "期待更新以及《选剧》更新。",
+  "likeCount" : 40
+}, {
+  "id" : 62,
+  "gameId" : 0,
+  "chatId" : 3,
+  "talkId" : 16,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10062,
+  "content" : "棋盘山？这么有亲切感吗，爱了，不接受反驳",
+  "likeCount" : 45
+}, {
+  "id" : 63,
+  "gameId" : 0,
+  "chatId" : 3,
+  "talkId" : 17,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10063,
+  "content" : "给我点点赞，我也想上热评",
+  "likeCount" : 35
+}, {
+  "id" : 64,
+  "gameId" : 0,
+  "chatId" : 3,
+  "talkId" : 18,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10064,
+  "content" : "一开始给人的感觉有点吓人，不过后面随着剧情深入越来越引人入胜了",
+  "likeCount" : 56
+}, {
+  "id" : 65,
+  "gameId" : 0,
+  "chatId" : 3,
+  "talkId" : 19,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10065,
+  "content" : "就像是在看一部小说一样然后去联想关联找线索。",
+  "likeCount" : 42
+}, {
+  "id" : 66,
+  "gameId" : 0,
+  "chatId" : 3,
+  "talkId" : 21,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10066,
+  "content" : "实在等不及，就一直用游客登录反复刷，哈哈哈哈",
+  "likeCount" : 54
+}, {
+  "id" : 67,
+  "gameId" : 0,
+  "chatId" : 3,
+  "talkId" : 22,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10067,
+  "content" : "刚通关了，过剧情的时候心是悬着的，不过对我而言事情结局并不圆满。也许人生也是一样吧。很多场景让我非常感慨",
+  "likeCount" : 42
+}, {
+  "id" : 68,
+  "gameId" : 0,
+  "chatId" : 3,
+  "talkId" : 23,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10068,
+  "content" : "还没有玩完，先打分为了目前看到的剧情和所有的角色们'_>`",
+  "likeCount" : 62
+}, {
+  "id" : 69,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 0,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10069,
+  "content" : "玩了好几遍，那些游戏人物如同朋友一般，只到完结，内心依旧回想着整个案情",
+  "likeCount" : 40
+}, {
+  "id" : 70,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10070,
+  "content" : "和多位性格迥异的线索人物进行交谈，多角度出发，推理案情，侦破线索",
+  "likeCount" : 45
+}, {
+  "id" : 71,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10071,
+  "content" : "人物性格鲜明，有自己的特色，剧情也不错，而且不肝，不氪，是款不错的游戏",
+  "likeCount" : 35
+}, {
+  "id" : 72,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10072,
+  "content" : "游戏的节奏把握得非常好，到了中间最紧张和刺激，同时也是情节最扑朔迷离之时",
+  "likeCount" : 35
+}, {
+  "id" : 73,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 4,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10073,
+  "content" : "这个太搞笑了吧，啊哈哈哈哈",
+  "likeCount" : 56
+}, {
+  "id" : 74,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10074,
+  "content" : "这个游戏很真实，已经在各大平台五星好评",
+  "likeCount" : 42
+}, {
+  "id" : 75,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10075,
+  "content" : "恰如其分的幽默和趣味",
+  "likeCount" : 54
+}, {
+  "id" : 76,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 7,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10076,
+  "content" : "晚上玩很好的就是电量消耗的有点快",
+  "likeCount" : 70
+}, {
+  "id" : 77,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 8,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10077,
+  "content" : "作为一个准推理小说迷和游戏迷表示游戏做的还是不错的……",
+  "likeCount" : 35
+}, {
+  "id" : 78,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 9,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10078,
+  "content" : "我也是计算机出身，这个思路真的是挺好的……",
+  "likeCount" : 65
+}, {
+  "id" : 79,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 10,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10079,
+  "content" : "感谢这个游戏带给我的体验，真的不错",
+  "likeCount" : 62
+}, {
+  "id" : 80,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 11,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10080,
+  "content" : "我脑子不好啊，推理有时候会不对，我还拉着同学一起玩，和我一起推理。。。",
+  "likeCount" : 53
+}, {
+  "id" : 81,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 12,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10081,
+  "content" : "其实我胆子很小，一开始不敢下载这个游戏因为怂啊ԅ(¯ㅂ¯ԅ)～",
+  "likeCount" : 45
+}, {
+  "id" : 82,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 13,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10082,
+  "content" : "这款游戏让我有些惊讶，剧情，立绘都有真实感，我看评论说结局很意外，是真的。",
+  "likeCount" : 35
+}, {
+  "id" : 83,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 24,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10083,
+  "content" : "懂我的人在哪里，演出了电视剧的赶脚",
+  "likeCount" : 56
+}, {
+  "id" : 84,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 29,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10084,
+  "content" : "等待更新，我还没聊够呢!",
+  "likeCount" : 42
+}, {
+  "id" : 85,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 42,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10085,
+  "content" : "真实的游戏，良心的厂商",
+  "likeCount" : 54
+}, {
+  "id" : 86,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 54,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10086,
+  "content" : "专业性的评论我是说不上来了，就要个赞吧！",
+  "likeCount" : 27
+}, {
+  "id" : 87,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 66,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10087,
+  "content" : "超级喜欢罗哥。诸位拔刀吧!",
+  "likeCount" : 24
+}, {
+  "id" : 88,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 74,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10088,
+  "content" : "太真实了。主播出名不要命啊。。",
+  "likeCount" : 56
+}, {
+  "id" : 89,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 85,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10089,
+  "content" : "罗哥是在暗示着什么吗？不眨眼爆火一把……嘻嘻嘻",
+  "likeCount" : 24
+}, {
+  "id" : 90,
+  "gameId" : 13,
+  "chatId" : 0,
+  "talkId" : 91,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10090,
+  "content" : "看哭了，无辜表情···",
+  "likeCount" : 26
+}, {
+  "id" : 91,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 0,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10091,
+  "content" : "制作组交表情包不杀→_→(这是一个被游戏耽误的表情包开发组x)",
+  "likeCount" : 40
+}, {
+  "id" : 92,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10092,
+  "content" : "推荐给喜欢视频向的悬疑爱好者吧，起码剧情看起来不错",
+  "likeCount" : 35
+}, {
+  "id" : 93,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10093,
+  "content" : "人物设定和塑造上还是比较成功的，人物没有特别纸片化",
+  "likeCount" : 56
+}, {
+  "id" : 94,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10094,
+  "content" : "里面的情节很真实，可能部分内容是以生活经验塑造的吧。",
+  "likeCount" : 42
+}, {
+  "id" : 95,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10095,
+  "content" : "在推理部分，个人感觉好比剧情有拖沓、有推理操作上也是过于简单粗暴，都属于考验记忆力而已。",
+  "likeCount" : 54
+}, {
+  "id" : 96,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 4,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10096,
+  "content" : "两口气玩完之后觉得超棒的！！！",
+  "likeCount" : 56
+}, {
+  "id" : 97,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10097,
+  "content" : "体验很不错，回复对面的语气感觉和我很合 一点都不尴尬！！",
+  "likeCount" : 83
+}, {
+  "id" : 98,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 7,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10098,
+  "content" : "这不小罗吗，公众号叫小罗潮人，怎么私信罗哥",
+  "likeCount" : 30
+}, {
+  "id" : 99,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 9,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10099,
+  "content" : "剧情称得上是扣人心弦了",
+  "likeCount" : 40
+}, {
+  "id" : 100,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 10,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10100,
+  "content" : "玩着玩着是猜出来了一部分 还有一部分真的是万万没往那边细想……",
+  "likeCount" : 45
+}, {
+  "id" : 101,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 13,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10004,
+  "content" : "好结局真的很意外(:з」∠)_目瞪口呆.jpg",
+  "likeCount" : 35
+}, {
+  "id" : 102,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 28,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10005,
+  "content" : "里面的不少对话也能让人感到有些哲理，同意的右边集合",
+  "likeCount" : 56
+}, {
+  "id" : 103,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 35,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10006,
+  "content" : "舍得一身剐，敢把皇帝拉下马",
+  "likeCount" : 30
+}, {
+  "id" : 104,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 49,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10007,
+  "content" : "和对面人聊得很开心，怎么办",
+  "likeCount" : 40
+}, {
+  "id" : 105,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 53,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10008,
+  "content" : "无论是每个人物形象的塑造，还是整体剧情节奏的把握，都非常的棒",
+  "likeCount" : 45
+}, {
+  "id" : 106,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 66,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10009,
+  "content" : "这个厂商成语用的六六六",
+  "likeCount" : 35
+}, {
+  "id" : 107,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 74,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10010,
+  "content" : "不知该写什么，总之这个游戏真的超级棒",
+  "likeCount" : 56
+}, {
+  "id" : 108,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 82,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10011,
+  "content" : "代入感很强，哼",
+  "likeCount" : 42
+}, {
+  "id" : 109,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 87,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10012,
+  "content" : "不喜欢这个人，就是不喜欢，拒绝反驳",
+  "likeCount" : 54
+}, {
+  "id" : 110,
+  "gameId" : 13,
+  "chatId" : 1,
+  "talkId" : 123,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10013,
+  "content" : "随着故事的推进，我真的爱死这个游戏了",
+  "likeCount" : 27
+}, {
+  "id" : 111,
+  "gameId" : 13,
+  "chatId" : 2,
+  "talkId" : 0,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10014,
+  "content" : "与我而言，甚至我觉得于很多玩家而言这绝对不是一堆数据，和游戏聊天的语气一点一点变轻松",
+  "likeCount" : 24
+}, {
+  "id" : 112,
+  "gameId" : 13,
+  "chatId" : 2,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10015,
+  "content" : "游戏很好，我也很投入",
+  "likeCount" : 56
+}, {
+  "id" : 113,
+  "gameId" : 13,
+  "chatId" : 2,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10016,
+  "content" : "虽然玩不全成就，但是结局应该差不多的。",
+  "likeCount" : 24
+}, {
+  "id" : 114,
+  "gameId" : 13,
+  "chatId" : 2,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10017,
+  "content" : "你们可能不知道！我在游戏厂商老板是网红！！！",
+  "likeCount" : 26
+}, {
+  "id" : 115,
+  "gameId" : 13,
+  "chatId" : 2,
+  "talkId" : 3,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10018,
+  "content" : "☆他们只是在利用我们，我们根本就不是什么手机游戏，只是见证者，至少是阴谋的见证者",
+  "likeCount" : 40
+}, {
+  "id" : 116,
+  "gameId" : 13,
+  "chatId" : 2,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10019,
+  "content" : "制作组：恭喜你，你通过了我们的考核，下一部你来写吧!",
+  "likeCount" : 45
+}, {
+  "id" : 117,
+  "gameId" : 13,
+  "chatId" : 2,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10020,
+  "content" : "哈哈哈，我觉得推理的很棒啊！",
+  "likeCount" : 35
+}, {
+  "id" : 118,
+  "gameId" : 13,
+  "chatId" : 2,
+  "talkId" : 7,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10021,
+  "content" : "因为电量少……所以本篇的通关时间拉的比较长(⇀‸↼‶)",
+  "likeCount" : 56
+}, {
+  "id" : 119,
+  "gameId" : 13,
+  "chatId" : 2,
+  "talkId" : 8,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10022,
+  "content" : "因为可以重复探索，我有了充足的时间来和每个人相处，在闲聊的内容里慢慢了解每个主角",
+  "likeCount" : 42
+}, {
+  "id" : 120,
+  "gameId" : 13,
+  "chatId" : 2,
+  "talkId" : 9,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10023,
+  "content" : "推理要素的话，因为是重复探索多结局，所以解谜方面没有什么压力",
+  "likeCount" : 42
+}, {
+  "id" : 121,
+  "gameId" : 13,
+  "chatId" : 2,
+  "talkId" : 18,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10024,
+  "content" : "游戏本篇并没有对角色背景做过多介绍，只在剧情中有一些隐喻，但在各人故事中这些主角的身世就真实发刀了……",
+  "likeCount" : 54
+}, {
+  "id" : 122,
+  "gameId" : 13,
+  "chatId" : 2,
+  "talkId" : 29,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10025,
+  "content" : "只能说这个故事基调确实比想象中沉重",
+  "likeCount" : 56
+}, {
+  "id" : 123,
+  "gameId" : 13,
+  "chatId" : 2,
+  "talkId" : 31,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10026,
+  "content" : "表白游戏里超可爱的小姐姐们，表白制作组的大家",
+  "likeCount" : 83
+}, {
+  "id" : 124,
+  "gameId" : 13,
+  "chatId" : 2,
+  "talkId" : 34,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10027,
+  "content" : "非常好看的小说，值得消磨时间",
+  "likeCount" : 30
+}, {
+  "id" : 125,
+  "gameId" : 13,
+  "chatId" : 2,
+  "talkId" : 34,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10028,
+  "content" : "我很努力的去当解谜游戏去完，发现整个故事还真的滴水不漏…或许是我资历太浅了。",
+  "likeCount" : 40
+}, {
+  "id" : 126,
+  "gameId" : 13,
+  "chatId" : 2,
+  "talkId" : 40,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10029,
+  "content" : "希望开发团队继续做精品！很喜欢这种风格的恐怖游戏。",
+  "likeCount" : 45
+}, {
+  "id" : 127,
+  "gameId" : 1,
+  "chatId" : 0,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10030,
+  "content" : "请问卸载安装之后还会保留我玩的那些内容吗？",
+  "likeCount" : 35
+}, {
+  "id" : 128,
+  "gameId" : 1,
+  "chatId" : 0,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10031,
+  "content" : "体验很好，我很早就想向微信提议，对话框的发送效果应该就像这个游戏那样，或者像手机QQ那样，很好看。",
+  "likeCount" : 56
+}, {
+  "id" : 129,
+  "gameId" : 1,
+  "chatId" : 0,
+  "talkId" : 10,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10032,
+  "content" : "还差最后一点就通关了。心情异常低落和沉重。",
+  "likeCount" : 30
+}, {
+  "id" : 130,
+  "gameId" : 1,
+  "chatId" : 1,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10033,
+  "content" : "我是个很容易进入到游戏世界里面的人。",
+  "likeCount" : 40
+}, {
+  "id" : 131,
+  "gameId" : 1,
+  "chatId" : 1,
+  "talkId" : 7,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10034,
+  "content" : "每一个“认真”去玩的游戏我都会深深的沉浸在游戏设定里面，不管是否有鬼神或者无神论的世界。",
+  "likeCount" : 45
+}, {
+  "id" : 132,
+  "gameId" : 1,
+  "chatId" : 1,
+  "talkId" : 7,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10035,
+  "content" : "这个故事很好，虽然是有点瑕疵，但是真的很好。",
+  "likeCount" : 40
+}, {
+  "id" : 133,
+  "gameId" : 1,
+  "chatId" : 1,
+  "talkId" : 21,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10036,
+  "content" : "心情很沉重，是因为我只能眼睁睁看这事情的发生而什么都做不了。",
+  "likeCount" : 45
+}, {
+  "id" : 134,
+  "gameId" : 1,
+  "chatId" : 1,
+  "talkId" : 21,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10037,
+  "content" : "明知道这只是个游戏但是还是无法控制自己的情绪。",
+  "likeCount" : 35
+}, {
+  "id" : 135,
+  "gameId" : 1,
+  "chatId" : 1,
+  "talkId" : 24,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10038,
+  "content" : "待结束后看情况写一篇文发论坛，文笔应该很烂（笑）。",
+  "likeCount" : 56
+}, {
+  "id" : 136,
+  "gameId" : 1,
+  "chatId" : 2,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10039,
+  "content" : "这无关年龄，而是关于心。孩子妈路过",
+  "likeCount" : 30
+}, {
+  "id" : 137,
+  "gameId" : 1,
+  "chatId" : 2,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10040,
+  "content" : "请你们一定要 一定要 一定要继续做下去。",
+  "likeCount" : 40
+}, {
+  "id" : 138,
+  "gameId" : 1,
+  "chatId" : 2,
+  "talkId" : 6,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10001,
+  "content" : "谢谢研发让我在这个『世界』里面认识到他们。",
+  "likeCount" : 45
+}, {
+  "id" : 139,
+  "gameId" : 1,
+  "chatId" : 3,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10002,
+  "content" : "我很宅，不过我不怕，我有不眨眼",
+  "likeCount" : 35
+}, {
+  "id" : 140,
+  "gameId" : 1,
+  "chatId" : 3,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10003,
+  "content" : "想要跟上作者的判断，生怕点错选项会显得我愚钝。",
+  "likeCount" : 56
+}, {
+  "id" : 141,
+  "gameId" : 1,
+  "chatId" : 3,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10004,
+  "content" : "陪伴我半个暑假的游戏（死宅捂脸）。",
+  "likeCount" : 42
+}, {
+  "id" : 142,
+  "gameId" : 1,
+  "chatId" : 3,
+  "talkId" : 7,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10005,
+  "content" : "努力真实的结局，努力在选项间纠结哪一个会让“你”认可。",
+  "likeCount" : 54
+}, {
+  "id" : 143,
+  "gameId" : 1,
+  "chatId" : 3,
+  "talkId" : 7,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10006,
+  "content" : "与其说是一个推理悬疑游戏，不如说是一本有游戏性的悬疑大片",
+  "likeCount" : 27
+}, {
+  "id" : 144,
+  "gameId" : 1,
+  "chatId" : 3,
+  "talkId" : 11,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10007,
+  "content" : "游戏的模式就是通过阅读找出线索，以及和人物进行各种对话",
+  "likeCount" : 24
+}, {
+  "id" : 145,
+  "gameId" : 1,
+  "chatId" : 3,
+  "talkId" : 12,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10008,
+  "content" : "优点首先是操作简单好上手，情节又很抓人，所以让人很快就沉迷游戏无法自拔。",
+  "likeCount" : 56
+}, {
+  "id" : 146,
+  "gameId" : 1,
+  "chatId" : 3,
+  "talkId" : 199,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10009,
+  "content" : "聊天的过程非常让人舒服，每个人都有鲜明的性格",
+  "likeCount" : 24
+}, {
+  "id" : 147,
+  "gameId" : 1,
+  "chatId" : 3,
+  "talkId" : 310,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10010,
+  "content" : "有一些让人喜欢的点，比如每个人的头像（觉得非常真实）",
+  "likeCount" : 26
+}, {
+  "id" : 148,
+  "gameId" : 1,
+  "chatId" : 3,
+  "talkId" : 501,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10011,
+  "content" : "半夜戴着耳机玩还挺吓人的。",
+  "likeCount" : 40
+}, {
+  "id" : 149,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10012,
+  "content" : "缺点的话就是，游戏主要走剧情，玩家的自由度不高。以及结局太过陡峭",
+  "likeCount" : 45
+}, {
+  "id" : 150,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10013,
+  "content" : "配乐很棒，在阅读的过程中很能烘托气氛",
+  "likeCount" : 35
+}, {
+  "id" : 151,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10014,
+  "content" : "一切都是一场误会，但有人因此失去了生命，有人一辈子要背负仇恨活着。",
+  "likeCount" : 56
+}, {
+  "id" : 152,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10015,
+  "content" : "文字游戏，最重要的就是故事。",
+  "likeCount" : 42
+}, {
+  "id" : 153,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10016,
+  "content" : "说出的话符合人物身份和性格，感受到了团队制作的用心。",
+  "likeCount" : 42
+}, {
+  "id" : 154,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10017,
+  "content" : "评价不错啊，看完评价准备入坑",
+  "likeCount" : 54
+}, {
+  "id" : 155,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 6,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10018,
+  "content" : "这两天几乎一直在玩这个游戏。",
+  "likeCount" : 62
+}, {
+  "id" : 156,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 7,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10019,
+  "content" : "总是想调戏他啊...emm...",
+  "likeCount" : 53
+}, {
+  "id" : 157,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 9,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10020,
+  "content" : "好像真的是不同的人在跟“我”聊天一样，性格区分很明显",
+  "likeCount" : 45
+}, {
+  "id" : 158,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 10,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10021,
+  "content" : "啊啊啊啊啊!怎么有人说出来了，剧透啊(-̩̩̩-̩̩̩-̩̩̩-̩̩̩-̩̩̩___-̩̩̩-̩̩̩-̩̩̩-̩̩̩-̩̩̩)",
+  "likeCount" : 35
+}, {
+  "id" : 159,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 11,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10022,
+  "content" : "几天的沉迷，觉得每个角色都像是一位老友。",
+  "likeCount" : 56
+}, {
+  "id" : 160,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 12,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10023,
+  "content" : "尬聊是最骚的hiahia～",
+  "likeCount" : 42
+}, {
+  "id" : 161,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 13,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10024,
+  "content" : "作为文字推理游戏，这个无疑是很吸引人很精彩的佳作",
+  "likeCount" : 54
+}, {
+  "id" : 162,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 14,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10025,
+  "content" : "游戏很不错.说俗套的有本事出来写个剧本.",
+  "likeCount" : 27
+}, {
+  "id" : 163,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 15,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10026,
+  "content" : "至少我在玩这个游戏的那段时间，感觉自己一点也不孤独。",
+  "likeCount" : 24
+}, {
+  "id" : 164,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 15,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10027,
+  "content" : "结局虽然说是圆了，但是感觉略微仓促，另外感觉“我”的代入感不强",
+  "likeCount" : 56
+}, {
+  "id" : 165,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 36,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10028,
+  "content" : "全成就都是靠一步步挖掘的。",
+  "likeCount" : 24
+}, {
+  "id" : 166,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 87,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10029,
+  "content" : "很多情节不是凭空而来，作者有过所见，有过所闻",
+  "likeCount" : 26
+}, {
+  "id" : 167,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 180,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10030,
+  "content" : "作者的文笔是相当牛的。而且能感觉到",
+  "likeCount" : 40
+}, {
+  "id" : 168,
+  "gameId" : 16,
+  "chatId" : 0,
+  "talkId" : 180,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10031,
+  "content" : "很吸引人，里面的角色有着不一样的性格，有自己不想说出的故事",
+  "likeCount" : 35
+}, {
+  "id" : 169,
+  "gameId" : 16,
+  "chatId" : 1,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10032,
+  "content" : "人物对话不错，有种身临其境的感觉",
+  "likeCount" : 56
+}, {
+  "id" : 170,
+  "gameId" : 16,
+  "chatId" : 1,
+  "talkId" : 2,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10033,
+  "content" : "结局完满的故事里依然能品出苦涩的味道，跌宕起伏的情节里依然有柔缓的人情",
+  "likeCount" : 42
+}, {
+  "id" : 171,
+  "gameId" : 16,
+  "chatId" : 2,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10034,
+  "content" : "这个游戏最大的优点就是人物各异而且非常真实，不接受反驳",
+  "likeCount" : 54
+}, {
+  "id" : 172,
+  "gameId" : 16,
+  "chatId" : 2,
+  "talkId" : 6,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10035,
+  "content" : "与其说我是游戏的主角，不如说我是故事的旁观者。",
+  "likeCount" : 56
+}, {
+  "id" : 173,
+  "gameId" : 16,
+  "chatId" : 3,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10036,
+  "content" : "各个人物性格不同，对话也会有不同的风格，我最喜欢小罗了",
+  "likeCount" : 83
+}, {
+  "id" : 174,
+  "gameId" : 16,
+  "chatId" : 3,
+  "talkId" : 3,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10037,
+  "content" : "个人感觉尚可，确实有些选项的确是一言难尽，但能在我的界线边缘",
+  "likeCount" : 30
+}, {
+  "id" : 175,
+  "gameId" : 15,
+  "chatId" : 0,
+  "talkId" : 0,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10038,
+  "content" : "在如今手游圈钱的时代，能这么用心的做游戏的已经很少了",
+  "likeCount" : 40
+}, {
+  "id" : 176,
+  "gameId" : 15,
+  "chatId" : 0,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10039,
+  "content" : "剧本不错，整个游戏玩下来，有高潮有低谷",
+  "likeCount" : 45
+}, {
+  "id" : 177,
+  "gameId" : 15,
+  "chatId" : 0,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10040,
+  "content" : "如果每一部引人入胜的小说都是这么个看法——可以和书中人物聊天、改变他们的命运，想必是很爽的",
+  "likeCount" : 35
+}, {
+  "id" : 178,
+  "gameId" : 15,
+  "chatId" : 0,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10041,
+  "content" : "有人觉得俗套，不是《不眨眼》的错，而是在此之前有太多故事滥用这样的设定让观众或玩家审美疲劳，消耗了他们的耐心。",
+  "likeCount" : 56
+}, {
+  "id" : 179,
+  "gameId" : 15,
+  "chatId" : 0,
+  "talkId" : 4,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10042,
+  "content" : "首先，告诉各位小可爱，游客登录如果删了游戏就没有存档哦...",
+  "likeCount" : 30
+}, {
+  "id" : 180,
+  "gameId" : 15,
+  "chatId" : 0,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10043,
+  "content" : "让人很快就沉迷游戏无法自拔",
+  "likeCount" : 40
+}, {
+  "id" : 181,
+  "gameId" : 15,
+  "chatId" : 0,
+  "talkId" : 7,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10044,
+  "content" : "佩服编剧的写作功底，还是能让我沉迷的",
+  "likeCount" : 45
+}, {
+  "id" : 182,
+  "gameId" : 15,
+  "chatId" : 0,
+  "talkId" : 8,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10045,
+  "content" : "延续了前辈作品的风格，少了一些莫名其妙的线索体验有所上升。",
+  "likeCount" : 35
+}, {
+  "id" : 183,
+  "gameId" : 15,
+  "chatId" : 0,
+  "talkId" : 9,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10046,
+  "content" : "游戏的画风音效也很棒！很有代入感！配音我觉得稍显做作了",
+  "likeCount" : 56
+}, {
+  "id" : 184,
+  "gameId" : 15,
+  "chatId" : 0,
+  "talkId" : 10,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10047,
+  "content" : "我真心喜欢这个故事，书到用时方恨少，可恨我文笔不佳不足以表达我对这个游戏的喜爱",
+  "likeCount" : 42
+}, {
+  "id" : 185,
+  "gameId" : 15,
+  "chatId" : 0,
+  "talkId" : 60,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10048,
+  "content" : "结局的反转很巧妙，有点牵强但是也能说的通，对于一个游戏而言已经是上上乘之作了。",
+  "likeCount" : 54
+}, {
+  "id" : 186,
+  "gameId" : 15,
+  "chatId" : 0,
+  "talkId" : 103,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10049,
+  "content" : "刚开始玩的时候，进展故事剧情需要 \"电量\"，你过现在还好",
+  "likeCount" : 27
+}, {
+  "id" : 187,
+  "gameId" : 15,
+  "chatId" : 0,
+  "talkId" : 128,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10050,
+  "content" : "游戏真真正正是好游戏，良心作，开发团队用了心了",
+  "likeCount" : 24
+}, {
+  "id" : 188,
+  "gameId" : 15,
+  "chatId" : 0,
+  "talkId" : 173,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10051,
+  "content" : "作为一个游戏，游戏性其实不算很足，但它的故事性弥补了游戏的不足。可见文本的功力。",
+  "likeCount" : 56
+}, {
+  "id" : 189,
+  "gameId" : 15,
+  "chatId" : 0,
+  "talkId" : 174,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10052,
+  "content" : "就像真的经历过一样，和大家都变成了奇怪关系的“朋友”。",
+  "likeCount" : 24
+}, {
+  "id" : 190,
+  "gameId" : 15,
+  "chatId" : 0,
+  "talkId" : 174,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10053,
+  "content" : "游戏不氪金也没有影响游戏体验，研发说年底前不氪金",
+  "likeCount" : 26
+}, {
+  "id" : 191,
+  "gameId" : 15,
+  "chatId" : 1,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10054,
+  "content" : "编剧将每个人的性格特点以及事情的来龙去脉讲的清清楚楚。。。",
+  "likeCount" : 42
+}, {
+  "id" : 192,
+  "gameId" : 15,
+  "chatId" : 1,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10055,
+  "content" : "玩得我要出真感情了",
+  "likeCount" : 42
+}, {
+  "id" : 193,
+  "gameId" : 15,
+  "chatId" : 1,
+  "talkId" : 3,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10056,
+  "content" : "这款游戏吧，是模拟微信聊天的方式进行的，它可以说是很6666666",
+  "likeCount" : 54
+}, {
+  "id" : 194,
+  "gameId" : 15,
+  "chatId" : 1,
+  "talkId" : 17,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10057,
+  "content" : "期待无限精力可以非常有效的加速进程，让剧情更连贯，代入感更强了。",
+  "likeCount" : 56
+}, {
+  "id" : 195,
+  "gameId" : 15,
+  "chatId" : 1,
+  "talkId" : 17,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10058,
+  "content" : "作简单好上手，情节又很抓人",
+  "likeCount" : 83
+}, {
+  "id" : 196,
+  "gameId" : 15,
+  "chatId" : 1,
+  "talkId" : 41,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10059,
+  "content" : "我本来想，玩完就卸掉。不过还是没卸",
+  "likeCount" : 30
+}, {
+  "id" : 197,
+  "gameId" : 15,
+  "chatId" : 1,
+  "talkId" : 62,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10060,
+  "content" : "祝第剧情能更加丰满，祝不眨眼越办越好！",
+  "likeCount" : 40
+}, {
+  "id" : 198,
+  "gameId" : 15,
+  "chatId" : 2,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10001,
+  "content" : "祝研发不断杨帆远航，大吉大利",
+  "likeCount" : 45
+}, {
+  "id" : 199,
+  "gameId" : 15,
+  "chatId" : 2,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10002,
+  "content" : "作者肯定是一个有故事的人，不然你不可能会写的这么好",
+  "likeCount" : 35
+}, {
+  "id" : 200,
+  "gameId" : 15,
+  "chatId" : 3,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10003,
+  "content" : "良心游戏！大赞！",
+  "likeCount" : 56
+}, {
+  "id" : 201,
+  "gameId" : 15,
+  "chatId" : 4,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10004,
+  "content" : "选择哪个选项都不会影响到看完整个故事",
+  "likeCount" : 30
+}, {
+  "id" : 202,
+  "gameId" : 12,
+  "chatId" : 0,
+  "talkId" : 0,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10005,
+  "content" : "有让人一步步跟着剧情的悬念感",
+  "likeCount" : 40
+}, {
+  "id" : 203,
+  "gameId" : 12,
+  "chatId" : 0,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10006,
+  "content" : "编剧没准还要会做表情包（大雾）。",
+  "likeCount" : 45
+}, {
+  "id" : 204,
+  "gameId" : 12,
+  "chatId" : 0,
+  "talkId" : 1,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10007,
+  "content" : "很好玩的一款游戏，我是一个比较不喜欢几周目的人，但是这个剧本让我刷了好几遍，选择不同的选项会引出不同的剧情，有的真的让我毛骨悚然细思极恐，很喜欢这种感觉。",
+  "likeCount" : 40
+}, {
+  "id" : 205,
+  "gameId" : 12,
+  "chatId" : 0,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10008,
+  "content" : "开始还因为无法后退，感觉自己的选择若说错话了不能改很难受。",
+  "likeCount" : 45
+}, {
+  "id" : 206,
+  "gameId" : 12,
+  "chatId" : 0,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10009,
+  "content" : "虽然少了一点解谜类的感觉，但是不影响玩家可以自行推理。",
+  "likeCount" : 35
+}, {
+  "id" : 207,
+  "gameId" : 12,
+  "chatId" : 0,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10010,
+  "content" : "溢美之词我就不多说了，赞赞赞",
+  "likeCount" : 56
+}, {
+  "id" : 208,
+  "gameId" : 12,
+  "chatId" : 0,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10011,
+  "content" : "总是还是很不错的，最棒的在于聊天的形式很有真实感，代入感。",
+  "likeCount" : 30
+}, {
+  "id" : 209,
+  "gameId" : 12,
+  "chatId" : 0,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10012,
+  "content" : "非常适合耐心的妹子和认真的汉子，哈哈哈",
+  "likeCount" : 40
+}, {
+  "id" : 210,
+  "gameId" : 12,
+  "chatId" : 0,
+  "talkId" : 7,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10013,
+  "content" : "比起传统的文学作品，这种新型作品有更多元化的体验。",
+  "likeCount" : 45
+}, {
+  "id" : 211,
+  "gameId" : 12,
+  "chatId" : 0,
+  "talkId" : 8,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10014,
+  "content" : "如果以后那些内容优质的故事，甚至抒情文字，如果都可以包装成这种形式而呈现在读者面前，那将是怎样一番光景啊。",
+  "likeCount" : 35
+}, {
+  "id" : 212,
+  "gameId" : 12,
+  "chatId" : 0,
+  "talkId" : 9,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10015,
+  "content" : "感谢制作组让我遇到这款游戏，期待更新！爱你们么么哒～",
+  "likeCount" : 56
+}, {
+  "id" : 213,
+  "gameId" : 12,
+  "chatId" : 0,
+  "talkId" : 9,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10016,
+  "content" : "这款游戏的界面非常简单明了，说白了就是一个复古版微信",
+  "likeCount" : 42
+}, {
+  "id" : 214,
+  "gameId" : 12,
+  "chatId" : 0,
+  "talkId" : 57,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10017,
+  "content" : "游戏中时适时响起的赞爆的背景音乐",
+  "likeCount" : 54
+}, {
+  "id" : 215,
+  "gameId" : 12,
+  "chatId" : 0,
+  "talkId" : 57,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10018,
+  "content" : "游戏是以小说为基础的探索类游戏（这是我自己胡乱总结的名字没错哈哈哈）",
+  "likeCount" : 27
+}, {
+  "id" : 216,
+  "gameId" : 12,
+  "chatId" : 0,
+  "talkId" : 94,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10019,
+  "content" : "有以往的传媒方式都不具有的更强的交互性。",
+  "likeCount" : 24
+}, {
+  "id" : 217,
+  "gameId" : 12,
+  "chatId" : 0,
+  "talkId" : 94,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10020,
+  "content" : "竟然还有正在输入… 代入感非常强",
+  "likeCount" : 56
+}, {
+  "id" : 218,
+  "gameId" : 12,
+  "chatId" : 1,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10021,
+  "content" : "界面很舒服又好看，对于游戏体验非常好~",
+  "likeCount" : 24
+}, {
+  "id" : 219,
+  "gameId" : 12,
+  "chatId" : 1,
+  "talkId" : 16,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10022,
+  "content" : "希望以后的游戏可以越来越经典而富有内涵，经典到可以像巨著或者老电影一样，流传于世。",
+  "likeCount" : 26
+}, {
+  "id" : 220,
+  "gameId" : 12,
+  "chatId" : 1,
+  "talkId" : 16,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10023,
+  "content" : "主要就是看文，找线索，之后……没错，就是扯淡。。。",
+  "likeCount" : 40
+}, {
+  "id" : 221,
+  "gameId" : 12,
+  "chatId" : 1,
+  "talkId" : 65,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10024,
+  "content" : "比起现在影视作品，这种交互式作品有着书本般的自由。",
+  "likeCount" : 45
+}, {
+  "id" : 222,
+  "gameId" : 12,
+  "chatId" : 1,
+  "talkId" : 101,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10025,
+  "content" : "有能和书中角色对话交流的交互感",
+  "likeCount" : 35
+}, {
+  "id" : 223,
+  "gameId" : 12,
+  "chatId" : 2,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10026,
+  "content" : "精品啊啊啊啊啊！！",
+  "likeCount" : 56
+}, {
+  "id" : 224,
+  "gameId" : 12,
+  "chatId" : 2,
+  "talkId" : 6,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10027,
+  "content" : "如果对方发来的是大段文字，会有一个延迟，非常真实",
+  "likeCount" : 42
+}, {
+  "id" : 225,
+  "gameId" : 12,
+  "chatId" : 3,
+  "talkId" : 0,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10028,
+  "content" : "夸一下文笔，很好，逻辑很棒",
+  "likeCount" : 42
+}, {
+  "id" : 226,
+  "gameId" : 12,
+  "chatId" : 4,
+  "talkId" : 0,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10029,
+  "content" : "第一次我还怕是吓人的东西愣是放到最小的声音……不用怕，没事的，妹子声音好听的很~~~",
+  "likeCount" : 54
+}, {
+  "id" : 227,
+  "gameId" : 10,
+  "chatId" : 0,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10030,
+  "content" : "推理智商还算在线，结局也意想不到。",
+  "likeCount" : 62
+}, {
+  "id" : 228,
+  "gameId" : 10,
+  "chatId" : 0,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10031,
+  "content" : "每天都会玩，每条语音我都认真听",
+  "likeCount" : 53
+}, {
+  "id" : 229,
+  "gameId" : 10,
+  "chatId" : 0,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10032,
+  "content" : "非常NB的一款互动视频解谜游戏",
+  "likeCount" : 45
+}, {
+  "id" : 230,
+  "gameId" : 10,
+  "chatId" : 0,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10033,
+  "content" : "对话发展可以由玩家决定，这一块非常好",
+  "likeCount" : 35
+}, {
+  "id" : 231,
+  "gameId" : 10,
+  "chatId" : 0,
+  "talkId" : 6,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10034,
+  "content" : "很突兀的一点就是，有些时候角色语气对话跟事件的发生好像不是特别吻合。",
+  "likeCount" : 56
+}, {
+  "id" : 232,
+  "gameId" : 10,
+  "chatId" : 1,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10035,
+  "content" : "刚开始玩的时候很随意。体力用完就退，没有什么回味。随着剧情的推进，我就越发想了解每个主角的性格缘由和故事",
+  "likeCount" : 24
+}, {
+  "id" : 233,
+  "gameId" : 10,
+  "chatId" : 1,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10036,
+  "content" : "听说有人打出了全成就，羡慕巴巴，嫉妒巴巴",
+  "likeCount" : 26
+}, {
+  "id" : 234,
+  "gameId" : 10,
+  "chatId" : 1,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10037,
+  "content" : "无论立意还是结构以及人物塑造都很有特色。",
+  "likeCount" : 40
+}, {
+  "id" : 235,
+  "gameId" : 10,
+  "chatId" : 1,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10038,
+  "content" : "对话过程中对面的人物会发语音，没错都是真人，真人啊，还不收费，真怕厂商坚持不住啊",
+  "likeCount" : 45
+}, {
+  "id" : 236,
+  "gameId" : 10,
+  "chatId" : 1,
+  "talkId" : 7,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10039,
+  "content" : "这完全比一本书带给你的体验要好太多好吗！",
+  "likeCount" : 35
+}, {
+  "id" : 237,
+  "gameId" : 10,
+  "chatId" : 1,
+  "talkId" : 8,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10040,
+  "content" : "如果在上课的时候，就会硬生生忍到下课再继续玩",
+  "likeCount" : 56
+}, {
+  "id" : 238,
+  "gameId" : 10,
+  "chatId" : 1,
+  "talkId" : 18,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10041,
+  "content" : "大家剧透啊啊啊啊啊啊，为什么要剧透啊啊啊啊啊啊",
+  "likeCount" : 42
+}, {
+  "id" : 239,
+  "gameId" : 10,
+  "chatId" : 1,
+  "talkId" : 18,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10042,
+  "content" : "和他们聊天，感觉像朋友一样。期待每天的重逢。",
+  "likeCount" : 42
+}, {
+  "id" : 240,
+  "gameId" : 10,
+  "chatId" : 1,
+  "talkId" : 42,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10043,
+  "content" : "官方态度好。",
+  "likeCount" : 54
+}, {
+  "id" : 241,
+  "gameId" : 10,
+  "chatId" : 2,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10044,
+  "content" : "游戏整体不错，细节有好有坏。",
+  "likeCount" : 35
+}, {
+  "id" : 242,
+  "gameId" : 10,
+  "chatId" : 2,
+  "talkId" : 1,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10045,
+  "content" : "这款游戏实在是太对我胃口了，自从BUG修复之后就爱不释手",
+  "likeCount" : 56
+}, {
+  "id" : 243,
+  "gameId" : 10,
+  "chatId" : 2,
+  "talkId" : 12,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10046,
+  "content" : "这游戏真的很妙阿",
+  "likeCount" : 42
+}, {
+  "id" : 244,
+  "gameId" : 10,
+  "chatId" : 2,
+  "talkId" : 21,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10047,
+  "content" : "不舍得一口气把这游戏结束。",
+  "likeCount" : 54
+}, {
+  "id" : 245,
+  "gameId" : 10,
+  "chatId" : 2,
+  "talkId" : 21,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10048,
+  "content" : "基本上适合各类玩家。",
+  "likeCount" : 27
+}, {
+  "id" : 246,
+  "gameId" : 10,
+  "chatId" : 3,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10049,
+  "content" : "刷了两天终于刷通关了",
+  "likeCount" : 24
+}, {
+  "id" : 247,
+  "gameId" : 10,
+  "chatId" : 3,
+  "talkId" : 2,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10050,
+  "content" : "最让我感叹的是故事剧情以及从文字找线索从对话了解每个人这么亲切的解谜方式。",
+  "likeCount" : 56
+}, {
+  "id" : 248,
+  "gameId" : 10,
+  "chatId" : 3,
+  "talkId" : 25,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10051,
+  "content" : "一开始就很有想玩下去欲望，每个人物性格都不同，对话把控的也非常好。",
+  "likeCount" : 24
+}, {
+  "id" : 249,
+  "gameId" : 10,
+  "chatId" : 4,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10052,
+  "content" : "游戏太好玩了，剧情很有意思，玩法也很新颖，基本没有bug。",
+  "likeCount" : 26
+}, {
+  "id" : 250,
+  "gameId" : 10,
+  "chatId" : 4,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10053,
+  "content" : "忍不住赞一句，到底设计团队都是游戏大佬啊！",
+  "likeCount" : 40
+}, {
+  "id" : 251,
+  "gameId" : 10,
+  "chatId" : 4,
+  "talkId" : 5,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10054,
+  "content" : "游戏体验相当不错，交互式的形式做得很有趣味，对话也比较精",
+  "likeCount" : 45
+}, {
+  "id" : 252,
+  "gameId" : 10,
+  "chatId" : 4,
+  "talkId" : 27,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10055,
+  "content" : "因为换了新手机已经没有以前的存档了，更新后又不想重走一次有点纠结",
+  "likeCount" : 35
+}, {
+  "id" : 253,
+  "gameId" : 10,
+  "chatId" : 4,
+  "talkId" : 27,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10056,
+  "content" : "剧情推进合乎逻辑，主要指人物的性格和行为",
+  "likeCount" : 56
+}, {
+  "id" : 254,
+  "gameId" : 9,
+  "chatId" : 0,
+  "talkId" : 0,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10057,
+  "content" : "互动对话模式比较新颖，但是互动有时比较生硬，不过还好",
+  "likeCount" : 42
+}, {
+  "id" : 255,
+  "gameId" : 9,
+  "chatId" : 0,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10058,
+  "content" : "游戏的形式足够新颖，加油",
+  "likeCount" : 42
+}, {
+  "id" : 256,
+  "gameId" : 9,
+  "chatId" : 0,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10059,
+  "content" : "游戏还是蛮喜欢的啦，制作组费心了",
+  "likeCount" : 54
+}, {
+  "id" : 257,
+  "gameId" : 9,
+  "chatId" : 0,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10060,
+  "content" : "优秀是足够的了，制作组加油吧~~",
+  "likeCount" : 62
+}, {
+  "id" : 258,
+  "gameId" : 9,
+  "chatId" : 0,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10061,
+  "content" : "里面的有些情节很撩人啊，其实最怕这种文字类游戏，在给你带入剧情中穿插一些让你不休息的情节，不好忍住啊",
+  "likeCount" : 53
+}, {
+  "id" : 259,
+  "gameId" : 9,
+  "chatId" : 0,
+  "talkId" : 10,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10062,
+  "content" : "人物的塑造比较鲜活细致，游戏的ui界面很舒心",
+  "likeCount" : 45
+}, {
+  "id" : 260,
+  "gameId" : 9,
+  "chatId" : 0,
+  "talkId" : 13,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10063,
+  "content" : "个人其实蛮喜欢这种剧情推理类游戏的",
+  "likeCount" : 35
+}, {
+  "id" : 261,
+  "gameId" : 9,
+  "chatId" : 0,
+  "talkId" : 14,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10064,
+  "content" : "制作优秀的良心之作，对于文字游戏爱好者来说看到这类游戏非常开心了，希望制作组继续加油~",
+  "likeCount" : 56
+}, {
+  "id" : 262,
+  "gameId" : 9,
+  "chatId" : 0,
+  "talkId" : 15,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10065,
+  "content" : "接地气的同时内容也比较合理，不会让人产生尴尬的感觉",
+  "likeCount" : 72
+}, {
+  "id" : 263,
+  "gameId" : 9,
+  "chatId" : 0,
+  "talkId" : 17,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10066,
+  "content" : "玩到结局了，编剧也是不一般，让我玩第二遍",
+  "likeCount" : 103
+}, {
+  "id" : 264,
+  "gameId" : 9,
+  "chatId" : 0,
+  "talkId" : 25,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10067,
+  "content" : "人物性格鲜明，还有好看的视频，不至于让互动变得鸡肋。",
+  "likeCount" : 25
+}, {
+  "id" : 265,
+  "gameId" : 9,
+  "chatId" : 0,
+  "talkId" : 193,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10068,
+  "content" : "断断续续玩了很久很久。这样方式的推理游戏让我感到焕然一新，非常有意思。",
+  "likeCount" : 100
+}, {
+  "id" : 266,
+  "gameId" : 9,
+  "chatId" : 0,
+  "talkId" : 193,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10069,
+  "content" : "总的来说还不错，只是结局略不尽人意",
+  "likeCount" : 101
+}, {
+  "id" : 267,
+  "gameId" : 9,
+  "chatId" : 0,
+  "talkId" : 433,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10070,
+  "content" : "一开始给人的感觉有点吓人，不过后面随着剧情深入越来越引人入胜了",
+  "likeCount" : 27
+}, {
+  "id" : 268,
+  "gameId" : 9,
+  "chatId" : 1,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10071,
+  "content" : "游戏很棒，对于喜欢文字类游戏的玩家来说非常值得一玩",
+  "likeCount" : 24
+}, {
+  "id" : 269,
+  "gameId" : 9,
+  "chatId" : 1,
+  "talkId" : 1,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10072,
+  "content" : "游戏在UI，音乐音效等方面非常棒，玩的时候最好打开声音，配合文字可以说非常带感了",
+  "likeCount" : 56
+}, {
+  "id" : 270,
+  "gameId" : 9,
+  "chatId" : 1,
+  "talkId" : 1,
+  "optionIndex" : 2,
+  "optiondesc" : " ",
+  "playerId" : 10025,
+  "content" : "感谢这个游戏！其实现实生活的我很接近游戏老板，创业什么的事情也挺吻合的，自此为鉴我也学到了不少东西吧。",
+  "likeCount" : 24
+}, {
+  "id" : 271,
+  "gameId" : 9,
+  "chatId" : 1,
+  "talkId" : 43,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10026,
+  "content" : "对话富含的一些道理三观很正让我受益匪浅。",
+  "likeCount" : 26
+}, {
+  "id" : 272,
+  "gameId" : 8,
+  "chatId" : 0,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10027,
+  "content" : "我是觉得很好玩的，有推理的感觉，虽然不完美但还是很不错的",
+  "likeCount" : 40
+}, {
+  "id" : 273,
+  "gameId" : 8,
+  "chatId" : 0,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10028,
+  "content" : "emmmmmm。这是个很有趣的游戏。老实说，我没少玩过这类游戏。但这游戏还是能让人眼前一亮。",
+  "likeCount" : 45
+}, {
+  "id" : 274,
+  "gameId" : 8,
+  "chatId" : 0,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10029,
+  "content" : "有决定人物命运的分支，也就是多结局",
+  "likeCount" : 35
+}, {
+  "id" : 275,
+  "gameId" : 8,
+  "chatId" : 0,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10030,
+  "content" : "多多出这种类型的游戏啊，很新颖，又好玩。",
+  "likeCount" : 56
+}, {
+  "id" : 276,
+  "gameId" : 8,
+  "chatId" : 0,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10031,
+  "content" : "完美的游戏，剧情真的吸引人，让人留恋往返",
+  "likeCount" : 42
+}, {
+  "id" : 277,
+  "gameId" : 8,
+  "chatId" : 0,
+  "talkId" : 5,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10032,
+  "content" : "让我玩下去的很重要的原因，就是我想看看他们到底是怎么想的，怎么做的。",
+  "likeCount" : 42
+}, {
+  "id" : 278,
+  "gameId" : 8,
+  "chatId" : 0,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10033,
+  "content" : "很喜欢玩有剧情的游戏，在tap看到后就下载了",
+  "likeCount" : 54
+}, {
+  "id" : 279,
+  "gameId" : 8,
+  "chatId" : 0,
+  "talkId" : 7,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10034,
+  "content" : "刚通关了，过剧情的时候心是悬着的，不过对我而言事情结局并不圆满。也许人生也是一样吧。很多场景让我非常感慨",
+  "likeCount" : 62
+}, {
+  "id" : 280,
+  "gameId" : 8,
+  "chatId" : 0,
+  "talkId" : 8,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10035,
+  "content" : "与每个人物对话时能感受到不同人的人格魅力。",
+  "likeCount" : 95
+}, {
+  "id" : 281,
+  "gameId" : 8,
+  "chatId" : 0,
+  "talkId" : 9,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10036,
+  "content" : "这个游戏关于人物的塑造很不错的。他们的优点缺点恰到好处，不会让人很讨厌他们，也不会让人觉得他们过于完美",
+  "likeCount" : 88
+}, {
+  "id" : 282,
+  "gameId" : 8,
+  "chatId" : 0,
+  "talkId" : 10,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10037,
+  "content" : "对于游戏整体我还是比较满意的，剧情也可以说一波三折",
+  "likeCount" : 36
+}, {
+  "id" : 283,
+  "gameId" : 8,
+  "chatId" : 0,
+  "talkId" : 11,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10038,
+  "content" : "风格很喜欢，BGM也是很棒的！",
+  "likeCount" : 75
+}, {
+  "id" : 284,
+  "gameId" : 8,
+  "chatId" : 0,
+  "talkId" : 11,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10039,
+  "content" : "视频量很足，情节也还不错√......",
+  "likeCount" : 62
+}, {
+  "id" : 285,
+  "gameId" : 8,
+  "chatId" : 0,
+  "talkId" : 22,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10040,
+  "content" : "从和这些人的闲聊中学到了很多，多交流有好处，现实中可很难如此如意",
+  "likeCount" : 25
+}, {
+  "id" : 286,
+  "gameId" : 8,
+  "chatId" : 0,
+  "talkId" : 22,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10041,
+  "content" : "悬疑氛围也铺垫得很不错，让人想一探究竟。",
+  "likeCount" : 100
+}, {
+  "id" : 287,
+  "gameId" : 8,
+  "chatId" : 0,
+  "talkId" : 40,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10042,
+  "content" : "几个主角让人觉得很没距离感，就像是现实中就有人发生了这样的事在和你交流一样",
+  "likeCount" : 101
+}, {
+  "id" : 288,
+  "gameId" : 8,
+  "chatId" : 0,
+  "talkId" : 100,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10043,
+  "content" : "哇竟然有人跟我想的一样，很开心(つ°ヮ°)つ 这游戏真的很用心，可以说教会了我许多吧～",
+  "likeCount" : 27
+}, {
+  "id" : 289,
+  "gameId" : 8,
+  "chatId" : 0,
+  "talkId" : 119,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10044,
+  "content" : "这竟然是我手机里唯一一款游戏了，而且我竟然也玩了这么长时间，这说明了什么？",
+  "likeCount" : 24
+}, {
+  "id" : 290,
+  "gameId" : 8,
+  "chatId" : 0,
+  "talkId" : 155,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10045,
+  "content" : "今天才开始玩，根本停不下来（如果不是因为体力减得太快得话）",
+  "likeCount" : 56
+}, {
+  "id" : 291,
+  "gameId" : 8,
+  "chatId" : 1,
+  "talkId" : 0,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10046,
+  "content" : "人觉得游戏制作还是挺用心的，值得一玩，可以当看段子一样",
+  "likeCount" : 24
+}, {
+  "id" : 292,
+  "gameId" : 8,
+  "chatId" : 1,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10047,
+  "content" : "十分喜欢这个游戏，希望能和里面的角色有更多的互动",
+  "likeCount" : 26
+}, {
+  "id" : 293,
+  "gameId" : 8,
+  "chatId" : 1,
+  "talkId" : 17,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10048,
+  "content" : "这个游戏给我带来的感触特别多。角色塑造的十分丰满",
+  "likeCount" : 40
+}, {
+  "id" : 294,
+  "gameId" : 8,
+  "chatId" : 1,
+  "talkId" : 32,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10049,
+  "content" : "重新玩了一次，故意选了之前不一样的选项…我怎么这么机智",
+  "likeCount" : 45
+}, {
+  "id" : 295,
+  "gameId" : 8,
+  "chatId" : 1,
+  "talkId" : 72,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10050,
+  "content" : "交互体验还是蛮好的，一天速通了，打个7.5分吧",
+  "likeCount" : 35
+}, {
+  "id" : 296,
+  "gameId" : 8,
+  "chatId" : 1,
+  "talkId" : 74,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10051,
+  "content" : "不得不说这是一款好游戏，每个玩家都会身临其境",
+  "likeCount" : 56
+}, {
+  "id" : 297,
+  "gameId" : 8,
+  "chatId" : 2,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10052,
+  "content" : "系统给的选项让我知道了该用什么聊天态度",
+  "likeCount" : 56
+}, {
+  "id" : 298,
+  "gameId" : 8,
+  "chatId" : 3,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10053,
+  "content" : "我真的很喜欢不眨眼这部游戏，你们的资金有限却依然自己拍摄证明了官方还是宠粉的",
+  "likeCount" : 42
+}, {
+  "id" : 299,
+  "gameId" : 8,
+  "chatId" : 3,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10054,
+  "content" : "我很喜欢不眨眼这款游戏，现在专心等正式版出来",
+  "likeCount" : 42
+}, {
+  "id" : 300,
+  "gameId" : 8,
+  "chatId" : 4,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10055,
+  "content" : "一开始只是无聊，喜欢推理就下了这个不眨眼，一开始玩就全身心投入",
+  "likeCount" : 54
+}, {
+  "id" : 301,
+  "gameId" : 8,
+  "chatId" : 5,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10056,
+  "content" : "人物性格的刻画，文字编绘得真的很棒，人物性格是如此典型又不至于让人讨厌，因为就像是真的活在我们身边的人一样。",
+  "likeCount" : 62
+}, {
+  "id" : 302,
+  "gameId" : 8,
+  "chatId" : 6,
+  "talkId" : 0,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10057,
+  "content" : "人物的形象做的非常非常非常具有个性。",
+  "likeCount" : 53
+}, {
+  "id" : 303,
+  "gameId" : 7,
+  "chatId" : 0,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10058,
+  "content" : "编剧脑洞之大真是令人佩服的五体投地！",
+  "likeCount" : 45
+}, {
+  "id" : 304,
+  "gameId" : 7,
+  "chatId" : 0,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10059,
+  "content" : "这个游戏最迷人的亮点在于人物性格的刻画，一个小团体中的几个人的出身，性格都非常典型",
+  "likeCount" : 35
+}, {
+  "id" : 305,
+  "gameId" : 7,
+  "chatId" : 0,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10060,
+  "content" : "可能还是分人，像我这种喜欢猜的，线索散乱反而提供了猜想的空间，还是挺有趣的。",
+  "likeCount" : 56
+}, {
+  "id" : 306,
+  "gameId" : 7,
+  "chatId" : 0,
+  "talkId" : 5,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10001,
+  "content" : "非常棒的一款游戏，还是多线结局o(╯□╰)o",
+  "likeCount" : 72
+}, {
+  "id" : 307,
+  "gameId" : 7,
+  "chatId" : 0,
+  "talkId" : 12,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10002,
+  "content" : "会觉得这些人真的存在，很真实，有自己的个性，但不是被单纯贴几个标签属性的存在",
+  "likeCount" : 103
+}, {
+  "id" : 308,
+  "gameId" : 7,
+  "chatId" : 0,
+  "talkId" : 21,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10003,
+  "content" : "聊天的过程是能感受到每个人的个性差异但实际又并不了解他们。",
+  "likeCount" : 25
+}, {
+  "id" : 309,
+  "gameId" : 7,
+  "chatId" : 0,
+  "talkId" : 170,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10004,
+  "content" : "QQ登录终于好使了，不容易",
+  "likeCount" : 100
+}, {
+  "id" : 310,
+  "gameId" : 7,
+  "chatId" : 0,
+  "talkId" : 181,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10005,
+  "content" : "当我用qq微信聊天时，我意识到，游戏中的人物和现实中的聊天对象其实是分不开也分不清的，这种感觉很奇妙",
+  "likeCount" : 101
+}, {
+  "id" : 311,
+  "gameId" : 7,
+  "chatId" : 0,
+  "talkId" : 232,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10006,
+  "content" : "这真的是个好游戏。说实在的，常年玩单机掌机的人表示手游能有这个水准，而且很有中国本土的味道",
+  "likeCount" : 27
+}, {
+  "id" : 312,
+  "gameId" : 7,
+  "chatId" : 1,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10007,
+  "content" : "有人觉得选项影响结局过于弱化了，“我”没什么用。我倒是觉得，能从旁观者的角度看这个故事，只是听这个故事不参与，也是另一种风格。",
+  "likeCount" : 24
+}, {
+  "id" : 313,
+  "gameId" : 7,
+  "chatId" : 1,
+  "talkId" : 28,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10008,
+  "content" : "即使是已经编写好的结局，但是聊天还是有趣的",
+  "likeCount" : 56
+}, {
+  "id" : 314,
+  "gameId" : 7,
+  "chatId" : 2,
+  "talkId" : 10,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10009,
+  "content" : "有时候明明跟他聊天他是这样的，在别人眼里却是有另一面，对于我来说，这种真实就是有趣点，也是比单纯小说有趣的地方",
+  "likeCount" : 24
+}, {
+  "id" : 315,
+  "gameId" : 7,
+  "chatId" : 2,
+  "talkId" : 23,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10010,
+  "content" : "我觉得自己很幸运能玩到这个app，",
+  "likeCount" : 26
+}, {
+  "id" : 316,
+  "gameId" : 7,
+  "chatId" : 5,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10011,
+  "content" : "我之前是不喜欢和人线上聊天的，现在既学会了聊天，也能保持心态愉快，这是游戏带给我的意想不到之处。",
+  "likeCount" : 40
+}, {
+  "id" : 317,
+  "gameId" : 7,
+  "chatId" : 5,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10012,
+  "content" : "游戏剧情给了我一点启发 对喔，里面那些语句我们可以运用出来",
+  "likeCount" : 45
+}, {
+  "id" : 318,
+  "gameId" : 7,
+  "chatId" : 5,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10013,
+  "content" : "不得不感慨作者的用心良苦。莎翁也写不出来这么好的剧情",
+  "likeCount" : 35
+}, {
+  "id" : 319,
+  "gameId" : 7,
+  "chatId" : 5,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10014,
+  "content" : "玩了较长时间之后，我渐渐发现除了游戏模式之外，制作者通过画面和音效，确实也塑造了一个非常合适这个游戏剧情的氛围",
+  "likeCount" : 56
+}, {
+  "id" : 320,
+  "gameId" : 7,
+  "chatId" : 5,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10015,
+  "content" : "这款游戏的制作水平确实让我意识到国产移动端也有视频类解谜游戏了",
+  "likeCount" : 42
+}, {
+  "id" : 321,
+  "gameId" : 7,
+  "chatId" : 5,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10022,
+  "content" : "创新的游戏模式加上优秀的游戏氛围，这是我目前对这款游戏最深切的体会吧。",
+  "likeCount" : 42
+}, {
+  "id" : 322,
+  "gameId" : 7,
+  "chatId" : 5,
+  "talkId" : 7,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10023,
+  "content" : "建议各位玩家老爷们还是支持一下吧（在此强调，我不是托，而只是普通玩家）",
+  "likeCount" : 54
+}, {
+  "id" : 323,
+  "gameId" : 6,
+  "chatId" : 0,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10024,
+  "content" : "游戏时长控制的不错，长时间盯着屏幕眼睛疼……",
+  "likeCount" : 62
+}, {
+  "id" : 324,
+  "gameId" : 6,
+  "chatId" : 0,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10025,
+  "content" : "游戏可以免费游玩，比同类解谜推理游戏好很多",
+  "likeCount" : 95
+}, {
+  "id" : 325,
+  "gameId" : 6,
+  "chatId" : 0,
+  "talkId" : 2,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10026,
+  "content" : "心目中最好的推理交互剧情游戏",
+  "likeCount" : 88
+}, {
+  "id" : 326,
+  "gameId" : 6,
+  "chatId" : 0,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10027,
+  "content" : "希望以后的剧本能保持原有水准之余，在结局方面多下点功夫",
+  "likeCount" : 36
+}, {
+  "id" : 327,
+  "gameId" : 6,
+  "chatId" : 0,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10028,
+  "content" : "制作组真的好厉害，下了很大一盘棋啊·",
+  "likeCount" : 75
+}, {
+  "id" : 328,
+  "gameId" : 6,
+  "chatId" : 0,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10029,
+  "content" : "与其说是游戏体验，更多的是扣人心弦的剧情",
+  "likeCount" : 62
+}, {
+  "id" : 329,
+  "gameId" : 6,
+  "chatId" : 0,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10030,
+  "content" : "游戏中，你是一名手机用户，与每个人物沟通，跟着事件的推进，探索隐藏的真相。",
+  "likeCount" : 25
+}, {
+  "id" : 330,
+  "gameId" : 6,
+  "chatId" : 0,
+  "talkId" : 9,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10031,
+  "content" : "玩法不复杂，更多是阅读小说，与角色微信聊天",
+  "likeCount" : 100
+}, {
+  "id" : 331,
+  "gameId" : 6,
+  "chatId" : 0,
+  "talkId" : 18,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10032,
+  "content" : "聊天一方面推进剧情，一方面像交一个朋友一样聊兴趣，侃大山。信件剧情通过找出关键词，探索真相",
+  "likeCount" : 35
+}, {
+  "id" : 332,
+  "gameId" : 6,
+  "chatId" : 0,
+  "talkId" : 34,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10033,
+  "content" : "游戏剧情的氛围，我觉得制作者在这一方面应该下了不少功夫。",
+  "likeCount" : 56
+}, {
+  "id" : 333,
+  "gameId" : 6,
+  "chatId" : 1,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10034,
+  "content" : "文笔极好，逻辑严密且文学性高，为作者疯狂打call。",
+  "likeCount" : 42
+}, {
+  "id" : 334,
+  "gameId" : 6,
+  "chatId" : 1,
+  "talkId" : 7,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10035,
+  "content" : "线索叙事，紧张与感动并存",
+  "likeCount" : 42
+}, {
+  "id" : 335,
+  "gameId" : 6,
+  "chatId" : 1,
+  "talkId" : 21,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10036,
+  "content" : "剧情还不错哦，具体的就不多说了",
+  "likeCount" : 54
+}, {
+  "id" : 336,
+  "gameId" : 6,
+  "chatId" : 1,
+  "talkId" : 39,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10037,
+  "content" : "走进他们的生活，了解他们的过去，跟着他们一起，或悲或喜，或惊恐或轻松。",
+  "likeCount" : 62
+}, {
+  "id" : 337,
+  "gameId" : 6,
+  "chatId" : 2,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10038,
+  "content" : "最初是抱着试试胆子来玩这款游戏，对话的真实当时让我感到很惊奇然后沉迷其中。",
+  "likeCount" : 53
+}, {
+  "id" : 338,
+  "gameId" : 6,
+  "chatId" : 2,
+  "talkId" : 12,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10039,
+  "content" : "这个游戏给我最大的感觉就是‘真实’，内个人物都有自己的特点，自己的性格，仿佛就是 活生生的人。",
+  "likeCount" : 45
+}, {
+  "id" : 339,
+  "gameId" : 6,
+  "chatId" : 2,
+  "talkId" : 30,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10040,
+  "content" : "玩家像玩拼图一样收集剧情碎片，一点一点摸索出看似不相干的几件事之间千丝万缕的联系，最后还原真相，恍然大悟",
+  "likeCount" : 35
+}, {
+  "id" : 340,
+  "gameId" : 6,
+  "chatId" : 2,
+  "talkId" : 57,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10041,
+  "content" : "虽然有些人好像说猜到结局，但是个人还是很意想不到。",
+  "likeCount" : 56
+}, {
+  "id" : 341,
+  "gameId" : 6,
+  "chatId" : 2,
+  "talkId" : 103,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10042,
+  "content" : "这游戏多刷挺长时间，终于有个机会来写个评论。",
+  "likeCount" : 42
+}, {
+  "id" : 342,
+  "gameId" : 6,
+  "chatId" : 2,
+  "talkId" : 152,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10043,
+  "content" : "一定要加油出续集啊，天天等新剧情呢！！！",
+  "likeCount" : 54
+}, {
+  "id" : 343,
+  "gameId" : 6,
+  "chatId" : 2,
+  "talkId" : 183,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10044,
+  "content" : "这个设计很有感觉，并没有吓人的感觉，反而给故事增添了氛围",
+  "likeCount" : 27
+}, {
+  "id" : 344,
+  "gameId" : 6,
+  "chatId" : 3,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10045,
+  "content" : "不得不说…我根本没有推理的天赋…又很喜欢玩推理游戏_(:з」∠)_也许是喜欢那种刺激感吧…",
+  "likeCount" : 24
+}, {
+  "id" : 345,
+  "gameId" : 6,
+  "chatId" : 4,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10046,
+  "content" : "关于游戏里的音效和画面设计，刚开始有点被音效和画面吓到",
+  "likeCount" : 56
+}, {
+  "id" : 346,
+  "gameId" : 5,
+  "chatId" : 0,
+  "talkId" : 0,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10047,
+  "content" : "对话类型的游戏是最近一段时间超级火的，原本以为游戏会和其他同类的差不多，但是玩了一会发现交互性更强一些",
+  "likeCount" : 24
+}, {
+  "id" : 347,
+  "gameId" : 5,
+  "chatId" : 0,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10048,
+  "content" : "通过朋友圈，和语音等等，让每个人的形象都变得很真实",
+  "likeCount" : 26
+}, {
+  "id" : 348,
+  "gameId" : 5,
+  "chatId" : 0,
+  "talkId" : 1,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10049,
+  "content" : "这款游戏的制作水平确实颠覆了本人对移动端文字类游戏的固有成见",
+  "likeCount" : 40
+}, {
+  "id" : 349,
+  "gameId" : 5,
+  "chatId" : 0,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10050,
+  "content" : "说实话，这个故事的背景和内容，居然通过文字和音乐能如此准确地传达给我",
+  "likeCount" : 35
+}, {
+  "id" : 350,
+  "gameId" : 5,
+  "chatId" : 0,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10051,
+  "content" : "剧情在前期十分吸引人，埋下伏笔，给人一种要有大事发生的样子。",
+  "likeCount" : 56
+}, {
+  "id" : 351,
+  "gameId" : 5,
+  "chatId" : 0,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10052,
+  "content" : "剧情紧凑，赞就完了",
+  "likeCount" : 42
+}, {
+  "id" : 352,
+  "gameId" : 5,
+  "chatId" : 0,
+  "talkId" : 5,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10053,
+  "content" : "这游戏真的把很多人物都塑造的非常丰富立体，每个人都那么让人难忘",
+  "likeCount" : 54
+}, {
+  "id" : 353,
+  "gameId" : 5,
+  "chatId" : 0,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10054,
+  "content" : "玩的时间不长，但不得不说这是一款好游戏，有悬念的情节，充满真实性的人物对话，精彩的文笔，还有各种细节都为游戏加分不少",
+  "likeCount" : 56
+}, {
+  "id" : 354,
+  "gameId" : 5,
+  "chatId" : 0,
+  "talkId" : 8,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10055,
+  "content" : "这是我玩过的最有感觉的一款推理游戏",
+  "likeCount" : 83
+}, {
+  "id" : 355,
+  "gameId" : 5,
+  "chatId" : 0,
+  "talkId" : 12,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10056,
+  "content" : "我说这个游戏是目前是国产文字游戏的小小巅峰没人喷吧",
+  "likeCount" : 30
+}, {
+  "id" : 356,
+  "gameId" : 5,
+  "chatId" : 0,
+  "talkId" : 13,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10057,
+  "content" : "我想感谢这款游戏。在此之前我很少接触文字游戏，是这个游戏把我引入了文字游戏的大门。",
+  "likeCount" : 40
+}, {
+  "id" : 357,
+  "gameId" : 5,
+  "chatId" : 0,
+  "talkId" : 13,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10058,
+  "content" : "不管是剧情还是思想都狂甩某些低劣的网络悬疑小说好几条街",
+  "likeCount" : 45
+}, {
+  "id" : 358,
+  "gameId" : 5,
+  "chatId" : 1,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10059,
+  "content" : "在游戏模式和人物塑造方面都十分出彩，这些部分我认为大部分玩家都看到了",
+  "likeCount" : 35
+}, {
+  "id" : 359,
+  "gameId" : 5,
+  "chatId" : 1,
+  "talkId" : 48,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10060,
+  "content" : "绝对良心佳作。",
+  "likeCount" : 56
+}, {
+  "id" : 360,
+  "gameId" : 5,
+  "chatId" : 1,
+  "talkId" : 55,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10061,
+  "content" : "文笔方面也是十分出色，可以看到一定的笔力。",
+  "likeCount" : 30
+}, {
+  "id" : 361,
+  "gameId" : 5,
+  "chatId" : 2,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10062,
+  "content" : "作为一个痴迷游戏和动漫的中老年现充，爱死小罗潮人了",
+  "likeCount" : 40
+}, {
+  "id" : 362,
+  "gameId" : 5,
+  "chatId" : 2,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10063,
+  "content" : "很独特的游戏！独特到想给工作室打钱！",
+  "likeCount" : 45
+}, {
+  "id" : 363,
+  "gameId" : 5,
+  "chatId" : 2,
+  "talkId" : 8,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10064,
+  "content" : "这里就不过多剧透了，希望大家游玩愉快，好评",
+  "likeCount" : 35
+}, {
+  "id" : 364,
+  "gameId" : 5,
+  "chatId" : 2,
+  "talkId" : 24,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10065,
+  "content" : "头三天玩得很悠闲，毕竟有精力限制，没玩两下就得等回复了……",
+  "likeCount" : 56
+}, {
+  "id" : 365,
+  "gameId" : 5,
+  "chatId" : 3,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10066,
+  "content" : "玩法很新颖，很吸引人，尤其是结局反转，真相揭晓，当时我的心真的是狂跳不止啊",
+  "likeCount" : 42
+}, {
+  "id" : 366,
+  "gameId" : 5,
+  "chatId" : 3,
+  "talkId" : 14,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10067,
+  "content" : "人物塑造，玩过之后我才明白为什么要选择写实风的立绘，真实感很强，同时每个人物都有自己的特点，不是单薄的纸片人",
+  "likeCount" : 54
+}, {
+  "id" : 367,
+  "gameId" : 5,
+  "chatId" : 3,
+  "talkId" : 15,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10068,
+  "content" : "第一人称，能够轻易地感受到讲述者的情绪变化",
+  "likeCount" : 56
+}, {
+  "id" : 368,
+  "gameId" : 5,
+  "chatId" : 3,
+  "talkId" : 290,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10069,
+  "content" : "聊天系统看起来有种微信的既视感，大大的提升了真实度",
+  "likeCount" : 42
+}, {
+  "id" : 369,
+  "gameId" : 5,
+  "chatId" : 3,
+  "talkId" : 410,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10070,
+  "content" : "说实话这个故事真的很精彩",
+  "likeCount" : 42
+}, {
+  "id" : 370,
+  "gameId" : 4,
+  "chatId" : 0,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10071,
+  "content" : "聊天的口语化，以及现实生活中的流行词，都体现出了年轻人的特点",
+  "likeCount" : 54
+}, {
+  "id" : 371,
+  "gameId" : 4,
+  "chatId" : 0,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10072,
+  "content" : "轻易地写出叙述性诡计，对推理游戏来说是个很好的选择，不过更重要的是作者的笔力很高，描写的很紧张刺激，真实感很强",
+  "likeCount" : 62
+}, {
+  "id" : 372,
+  "gameId" : 4,
+  "chatId" : 0,
+  "talkId" : 2,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10073,
+  "content" : "游戏性是非常引人入胜",
+  "likeCount" : 53
+}, {
+  "id" : 373,
+  "gameId" : 4,
+  "chatId" : 0,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10074,
+  "content" : "游戏的真实感和代入感很强",
+  "likeCount" : 45
+}, {
+  "id" : 374,
+  "gameId" : 4,
+  "chatId" : 0,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10075,
+  "content" : "人物具有多面性，立体复杂的形象，似乎能在生活中找到对应的人。",
+  "likeCount" : 35
+}, {
+  "id" : 375,
+  "gameId" : 4,
+  "chatId" : 0,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10076,
+  "content" : "用了两个多星期的时间找到了结尾相当不错的良心文字游戏！",
+  "likeCount" : 56
+}, {
+  "id" : 376,
+  "gameId" : 4,
+  "chatId" : 0,
+  "talkId" : 6,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10077,
+  "content" : "剧情虽紧张，但也可以在闲聊中结（tiao）交（xi）妹子",
+  "likeCount" : 72
+}, {
+  "id" : 377,
+  "gameId" : 4,
+  "chatId" : 0,
+  "talkId" : 8,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10078,
+  "content" : "断断续续玩了好久，看着不眨眼的名字还以为看错了呢",
+  "likeCount" : 103
+}, {
+  "id" : 378,
+  "gameId" : 4,
+  "chatId" : 0,
+  "talkId" : 9,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10079,
+  "content" : "改名了，之前叫《手机疑讯》",
+  "likeCount" : 25
+}, {
+  "id" : 379,
+  "gameId" : 4,
+  "chatId" : 0,
+  "talkId" : 10,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10080,
+  "content" : "情节设计的非诚巧妙，打到真结局真的是大吃一惊",
+  "likeCount" : 100
+}, {
+  "id" : 380,
+  "gameId" : 4,
+  "chatId" : 0,
+  "talkId" : 11,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10081,
+  "content" : "玩家可以选择所有的回答（虽然没什么卵用，但确实增加了代入感）",
+  "likeCount" : 101
+}, {
+  "id" : 381,
+  "gameId" : 4,
+  "chatId" : 0,
+  "talkId" : 11,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10082,
+  "content" : "有些对话选项也太调皮了吧23333",
+  "likeCount" : 27
+}, {
+  "id" : 382,
+  "gameId" : 4,
+  "chatId" : 0,
+  "talkId" : 12,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10083,
+  "content" : "虽然我对于游戏里某些细节还有疑问，但我为制作组精妙的剧情，及真人拍摄的视频打call",
+  "likeCount" : 24
+}, {
+  "id" : 383,
+  "gameId" : 4,
+  "chatId" : 0,
+  "talkId" : 13,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10084,
+  "content" : "让人有种真的在聊天的感觉，这一点可以说是我见过的有模拟聊天系统的游戏中最好的。",
+  "likeCount" : 56
+}, {
+  "id" : 384,
+  "gameId" : 4,
+  "chatId" : 0,
+  "talkId" : 15,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10085,
+  "content" : "情节和玩法设计不错，在朋友圈和剧情中一步步推进剧情。",
+  "likeCount" : 24
+}, {
+  "id" : 385,
+  "gameId" : 4,
+  "chatId" : 0,
+  "talkId" : 16,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10086,
+  "content" : "玩过后发现是一个可以和故事里的主角互动的情景剧",
+  "likeCount" : 26
+}, {
+  "id" : 386,
+  "gameId" : 4,
+  "chatId" : 0,
+  "talkId" : 16,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10087,
+  "content" : "这种设计感觉很新奇",
+  "likeCount" : 40
+}, {
+  "id" : 387,
+  "gameId" : 4,
+  "chatId" : 0,
+  "talkId" : 23,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10088,
+  "content" : "玩这个游戏从一开始对每个人的一无所知，到渐渐了解每一个人，非常有意思",
+  "likeCount" : 45
+}, {
+  "id" : 388,
+  "gameId" : 4,
+  "chatId" : 1,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10089,
+  "content" : "仿佛自己也是和这几个一同在一起的好朋友，无聊的时候打开游戏，仿佛随意的和几个好友聊天",
+  "likeCount" : 35
+}, {
+  "id" : 389,
+  "gameId" : 4,
+  "chatId" : 1,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10090,
+  "content" : "简单的一个游戏让我一个孤独的人，久违的体验到了，和朋友聊天的快乐！",
+  "likeCount" : 56
+}, {
+  "id" : 390,
+  "gameId" : 4,
+  "chatId" : 1,
+  "talkId" : 4,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10091,
+  "content" : "每个人都有每个人的性格，也有每个人的小心思。玩游戏的这几天仿佛身临其境，剧情紧张刺激。",
+  "likeCount" : 42
+}, {
+  "id" : 391,
+  "gameId" : 4,
+  "chatId" : 1,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10092,
+  "content" : "随着剧情的发展，一步步解开谜题，与每个人一个个的道别",
+  "likeCount" : 42
+}, {
+  "id" : 392,
+  "gameId" : 4,
+  "chatId" : 1,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10093,
+  "content" : "随着每个人的心情变化，感受每个人对同一件事不同的性格",
+  "likeCount" : 54
+}, {
+  "id" : 393,
+  "gameId" : 4,
+  "chatId" : 1,
+  "talkId" : 6,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10094,
+  "content" : "从游戏形式上来讲，与故事中相关人员的对话和互动非常有趣，而且每个人物的个性鲜明",
+  "likeCount" : 62
+}, {
+  "id" : 394,
+  "gameId" : 4,
+  "chatId" : 1,
+  "talkId" : 8,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10095,
+  "content" : "能看出这个游戏开发团队非常用心在制作和对待每一位玩家",
+  "likeCount" : 95
+}, {
+  "id" : 395,
+  "gameId" : 4,
+  "chatId" : 1,
+  "talkId" : 8,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10096,
+  "content" : "毫不客气的说，这是我这几天以来玩的最入迷的游戏，没有之一。",
+  "likeCount" : 88
+}, {
+  "id" : 396,
+  "gameId" : 4,
+  "chatId" : 1,
+  "talkId" : 22,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10097,
+  "content" : "这款最开始玩的时候觉得很新奇，虽然平时是推理小说爱好者，但是并不是推理小能手",
+  "likeCount" : 36
+}, {
+  "id" : 397,
+  "gameId" : 4,
+  "chatId" : 1,
+  "talkId" : 22,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10098,
+  "content" : "属于跟着剧情走的普通玩家。不过我是个强迫症，所有成就都想收集",
+  "likeCount" : 75
+}, {
+  "id" : 398,
+  "gameId" : 4,
+  "chatId" : 1,
+  "talkId" : 33,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10099,
+  "content" : "很棒的游戏！！！五星好评",
+  "likeCount" : 62
+}, {
+  "id" : 399,
+  "gameId" : 4,
+  "chatId" : 2,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10100,
+  "content" : "这是一款会让人代入感情的游戏。如果这些人物出现在现实生活中，也许真的想和他们成为朋友",
+  "likeCount" : 25
+}, {
+  "id" : 400,
+  "gameId" : 4,
+  "chatId" : 2,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10004,
+  "content" : "很多事情，很多思考，在这个游戏里我居然都找到了答案。",
+  "likeCount" : 100
+}, {
+  "id" : 401,
+  "gameId" : 4,
+  "chatId" : 2,
+  "talkId" : 12,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10005,
+  "content" : "每个人物的个性鲜明，台词也十分考究，让人的代入感很强，仿佛真的有那么一个人在电话那头和你一起分析，聊天。",
+  "likeCount" : 101
+}, {
+  "id" : 402,
+  "gameId" : 4,
+  "chatId" : 2,
+  "talkId" : 20,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10006,
+  "content" : "通关后显示大部分成就只是增可玩性",
+  "likeCount" : 96
+}, {
+  "id" : 403,
+  "gameId" : 4,
+  "chatId" : 2,
+  "talkId" : 29,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10007,
+  "content" : "第一次反转明显感觉到事情不止如此",
+  "likeCount" : 91
+}, {
+  "id" : 404,
+  "gameId" : 4,
+  "chatId" : 2,
+  "talkId" : 39,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10008,
+  "content" : "游戏无疑是佳作，里面的每个角色要么有自己的影子要么有自己身边人的影子",
+  "likeCount" : 46
+}, {
+  "id" : 405,
+  "gameId" : 4,
+  "chatId" : 2,
+  "talkId" : 54,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10009,
+  "content" : "看完后会觉得，每个人的活法无对错之分",
+  "likeCount" : 55
+}, {
+  "id" : 406,
+  "gameId" : 4,
+  "chatId" : 2,
+  "talkId" : 58,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10010,
+  "content" : "这个游戏给我的代入感真的很强，就好像我的的确确是和他们一起经历了这些。",
+  "likeCount" : 68
+}, {
+  "id" : 407,
+  "gameId" : 4,
+  "chatId" : 2,
+  "talkId" : 85,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10011,
+  "content" : "游戏探索完觉得值得深思的地方很多。",
+  "likeCount" : 76
+}, {
+  "id" : 408,
+  "gameId" : 4,
+  "chatId" : 2,
+  "talkId" : 87,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10012,
+  "content" : "迫不及待想要知道后面的剧情却又担心万一不开启日常对话错过了重要信息呢…",
+  "likeCount" : 96
+}, {
+  "id" : 409,
+  "gameId" : 4,
+  "chatId" : 2,
+  "talkId" : 104,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10013,
+  "content" : "关于游戏里的日常对话，可能那些其他的对话是为了调节一下故事沉重的气氛",
+  "likeCount" : 91
+}, {
+  "id" : 410,
+  "gameId" : 4,
+  "chatId" : 2,
+  "talkId" : 129,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10014,
+  "content" : "制作很棒。很用心，感觉也很新颖。",
+  "likeCount" : 46
+}, {
+  "id" : 411,
+  "gameId" : 4,
+  "chatId" : 2,
+  "talkId" : 144,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10015,
+  "content" : "环环相扣这一点上真是太好了",
+  "likeCount" : 55
+}, {
+  "id" : 412,
+  "gameId" : 4,
+  "chatId" : 2,
+  "talkId" : 177,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10016,
+  "content" : "全程没有令人过于懵逼的地方，非常合理",
+  "likeCount" : 68
+}, {
+  "id" : 413,
+  "gameId" : 4,
+  "chatId" : 2,
+  "talkId" : 211,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10017,
+  "content" : "游戏的主线清晰明了，主次分明。",
+  "likeCount" : 76
+}, {
+  "id" : 414,
+  "gameId" : 4,
+  "chatId" : 3,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10051,
+  "content" : "不得不说，这部作品充分满足了我等动手能力差又以看剧情为主的不肝不氪游戏党的愿望",
+  "likeCount" : 68
+}, {
+  "id" : 415,
+  "gameId" : 4,
+  "chatId" : 3,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10052,
+  "content" : "剧情跌宕起伏，联系性强废话少",
+  "likeCount" : 86
+}, {
+  "id" : 416,
+  "gameId" : 4,
+  "chatId" : 3,
+  "talkId" : 2,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10053,
+  "content" : "可以看得出制作组在游戏剧情上下足了功夫",
+  "likeCount" : 42
+}, {
+  "id" : 417,
+  "gameId" : 4,
+  "chatId" : 3,
+  "talkId" : 25,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10054,
+  "content" : "给制作组一个好评，作为一个文字剧情推理类游戏的爱好者，期待制作组的新作!(我!的!N!(X))晚安♡",
+  "likeCount" : 54
+}, {
+  "id" : 418,
+  "gameId" : 4,
+  "chatId" : 3,
+  "talkId" : 25,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10055,
+  "content" : "忽略掉游戏剧情本身，其他的对话选项真的可以当做攻略游戏来玩",
+  "likeCount" : 62
+}, {
+  "id" : 419,
+  "gameId" : 4,
+  "chatId" : 4,
+  "talkId" : 0,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10056,
+  "content" : "不过对于专心剧情的人来说，有时候那些无关痛痒的对话真的很苦恼了",
+  "likeCount" : 95
+}, {
+  "id" : 420,
+  "gameId" : 4,
+  "chatId" : 4,
+  "talkId" : 24,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10057,
+  "content" : "关于游戏本身的话，我觉得就相当于是看了多篇情景剧",
+  "likeCount" : 88
+}, {
+  "id" : 421,
+  "gameId" : 4,
+  "chatId" : 5,
+  "talkId" : 0,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10058,
+  "content" : "最开始因为担心自己做出的选项会对故事情节发展产生影响而找不到真凶，每个选项我都特别仔细的斟酌…",
+  "likeCount" : 36
+}, {
+  "id" : 422,
+  "gameId" : 4,
+  "chatId" : 5,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10059,
+  "content" : "每次我晚上玩的时候忘了自己开了很大的声音…然后看剧情的时候，普通的情节几乎听不到音乐，页面一停在剧情高潮的地方音乐就突然响起来似的…每次都把我吓得够呛…",
+  "likeCount" : 75
+}, {
+  "id" : 423,
+  "gameId" : 4,
+  "chatId" : 5,
+  "talkId" : 12,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10060,
+  "content" : "感谢一下制作人如此良心的一款游戏，全程高能烧脑",
+  "likeCount" : 62
+}, {
+  "id" : 424,
+  "gameId" : 4,
+  "chatId" : 6,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10001,
+  "content" : "游戏的BGM也非常不错",
+  "likeCount" : 25
+}, {
+  "id" : 425,
+  "gameId" : 4,
+  "chatId" : 6,
+  "talkId" : 133,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10002,
+  "content" : "特别是bgm真的是超级棒了！准确到位符合情景！",
+  "likeCount" : 100
+}, {
+  "id" : 426,
+  "gameId" : 4,
+  "chatId" : 6,
+  "talkId" : 133,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10003,
+  "content" : "虽然说有些地方我觉得有不足，但是游戏本身也值浪费我的时间了！",
+  "likeCount" : 35
+}, {
+  "id" : 427,
+  "gameId" : 4,
+  "chatId" : 7,
+  "talkId" : 0,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10004,
+  "content" : "气氛虽然诡异却不是恐怖的粗俗，这个度把握的很好",
+  "likeCount" : 56
+}, {
+  "id" : 428,
+  "gameId" : 4,
+  "chatId" : 7,
+  "talkId" : 7,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10005,
+  "content" : "做解谜游戏是公认的最难最繁琐的，因为，开发者要以自己的智商，去单挑所有玩家的智商！",
+  "likeCount" : 42
+}, {
+  "id" : 429,
+  "gameId" : 3,
+  "chatId" : 0,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10006,
+  "content" : "游戏体验可以说非常棒，每个人都故事之间，都有着千丝万缕的联系",
+  "likeCount" : 42
+}, {
+  "id" : 430,
+  "gameId" : 3,
+  "chatId" : 0,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10007,
+  "content" : "总的来说这是一款相当优秀的游戏！游戏内的人物塑造，事件描述，视频拍摄，都可以算是上成中的上成",
+  "likeCount" : 54
+}, {
+  "id" : 431,
+  "gameId" : 3,
+  "chatId" : 0,
+  "talkId" : 11,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10008,
+  "content" : "BGM好评，夜深人静的时候玩着游戏还是有点渗得慌",
+  "likeCount" : 62
+}, {
+  "id" : 432,
+  "gameId" : 3,
+  "chatId" : 0,
+  "talkId" : 20,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10009,
+  "content" : "偶尔穿插的语音会很契合。角色人设鲜明",
+  "likeCount" : 53
+}, {
+  "id" : 433,
+  "gameId" : 3,
+  "chatId" : 0,
+  "talkId" : 26,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10010,
+  "content" : "不管怎么说这款游戏都是难得的佳作，值得肯定",
+  "likeCount" : 45
+}, {
+  "id" : 434,
+  "gameId" : 3,
+  "chatId" : 0,
+  "talkId" : 34,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10011,
+  "content" : "目前刚开始玩，期待之后的剧本～ 好啦，就酱～",
+  "likeCount" : 26
+}, {
+  "id" : 435,
+  "gameId" : 3,
+  "chatId" : 0,
+  "talkId" : 43,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10012,
+  "content" : "感觉剧情太丰富了，每个人的刻画也很有趣",
+  "likeCount" : 40
+}, {
+  "id" : 436,
+  "gameId" : 3,
+  "chatId" : 0,
+  "talkId" : 43,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10013,
+  "content" : "巧妙的故事设定，新颖的故事情节都很带感",
+  "likeCount" : 35
+}, {
+  "id" : 437,
+  "gameId" : 3,
+  "chatId" : 0,
+  "talkId" : 55,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10014,
+  "content" : "人物个性有的前后反差巨大，有的是磨人的小妖精",
+  "likeCount" : 56
+}, {
+  "id" : 438,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10015,
+  "content" : "我感觉从体验上来说至少是值的。非常新奇！",
+  "likeCount" : 42
+}, {
+  "id" : 439,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10022,
+  "content" : "我担心会不会是因为我的某个推理不当、选项不当，就浪费了电量",
+  "likeCount" : 54
+}, {
+  "id" : 440,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10023,
+  "content" : "游戏难度？不存在的，我什么都改变不了。",
+  "likeCount" : 56
+}, {
+  "id" : 441,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10024,
+  "content" : "我胆子也是比较小，又不肯关BGM，有跟我一样的嘛",
+  "likeCount" : 83
+}, {
+  "id" : 442,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10025,
+  "content" : "文字和人都是会撒谎的。",
+  "likeCount" : 30
+}, {
+  "id" : 443,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10026,
+  "content" : "这一定是情景剧APP",
+  "likeCount" : 40
+}, {
+  "id" : 444,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 7,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10027,
+  "content" : "如果您对悬疑小说有兴趣，这部作品绝不会让您失望的",
+  "likeCount" : 45
+}, {
+  "id" : 445,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 8,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10028,
+  "content" : "可以看出作者们十分想塑造出饱满真实的人物形象，疯狂尬聊，我能感觉到这份努力...",
+  "likeCount" : 35
+}, {
+  "id" : 446,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 9,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10029,
+  "content" : "每个人都有自己独特的特性。有人平凡得经典，有人温润暖心",
+  "likeCount" : 56
+}, {
+  "id" : 447,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 10,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10030,
+  "content" : "完全像是在读一本情节丰富的小说。游戏对人物的塑造真的非常有意思",
+  "likeCount" : 30
+}, {
+  "id" : 448,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 11,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10031,
+  "content" : "觉得多个结局和支线，游戏体验真的很棒！",
+  "likeCount" : 40
+}, {
+  "id" : 449,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 12,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10032,
+  "content" : "我也是个急性子玩家，如果不是因为这次有小伙伴和我一起讨论剧情可能我也会又卸游了ᕙ(`▿´)ᕗ",
+  "likeCount" : 45
+}, {
+  "id" : 450,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 13,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10033,
+  "content" : "剧情真的是跌宕起伏，让人产生无限的遐想",
+  "likeCount" : 35
+}, {
+  "id" : 451,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 14,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10034,
+  "content" : "现在打开游戏发现还有剧情",
+  "likeCount" : 56
+}, {
+  "id" : 452,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 15,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10035,
+  "content" : "这个游戏可以说是我这么些年来少数真的能让我有些惆怅的游戏了",
+  "likeCount" : 42
+}, {
+  "id" : 453,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 16,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10036,
+  "content" : "背景音乐确实被吓到了，胆小的我从一开始就没开过声音。",
+  "likeCount" : 54
+}, {
+  "id" : 454,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 17,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10037,
+  "content" : "我觉得这是一款相对轻松的悬疑手游，就像日常对话一样跟主角聊聊天",
+  "likeCount" : 56
+}, {
+  "id" : 455,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 18,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10038,
+  "content" : "我的社交圈突然多出来了很多人，看似莫名其妙，实则关系密切，我有些不知所措，也充满了疑问",
+  "likeCount" : 42
+}, {
+  "id" : 456,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 19,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10039,
+  "content" : "默默的肝了好几天终于全成就",
+  "likeCount" : 42
+}, {
+  "id" : 457,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 20,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10040,
+  "content" : "在少了复杂的玩法与独特的画风的情况下依然惊艳",
+  "likeCount" : 54
+}, {
+  "id" : 458,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 21,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10041,
+  "content" : "这是我玩过的最棒的悬疑解谜游戏！",
+  "likeCount" : 62
+}, {
+  "id" : 459,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 21,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10042,
+  "content" : "立意比较独特",
+  "likeCount" : 53
+}, {
+  "id" : 460,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 22,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10043,
+  "content" : "虽然剧情比较老套，但结果真的合理（圆谎的借口没痕迹。。。）",
+  "likeCount" : 45
+}, {
+  "id" : 461,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 23,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10044,
+  "content" : "这游戏这几个主角，每个特点都很突出。所以不同性格的人对这几个主角的感受也不同。",
+  "likeCount" : 35
+}, {
+  "id" : 462,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 23,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10045,
+  "content" : "我现在刚玩玩结局，一句不知该不该说，但是评论又不可以剧透，啊啊啊",
+  "likeCount" : 56
+}, {
+  "id" : 463,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 24,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10046,
+  "content" : "言归正传，游戏很好玩，非常非常好玩，以多角度模式叙述了一个离奇的故事",
+  "likeCount" : 72
+}, {
+  "id" : 464,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 36,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10047,
+  "content" : "有很多现实残酷但有道理的理论，每个人都在隐藏一些别人看不到的东西",
+  "likeCount" : 103
+}, {
+  "id" : 465,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 37,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10048,
+  "content" : "结局真的很让我感动，可能有人不明白我感动的点，其实我也不太清楚，但是那是一种来自心灵深处的共鸣（并不是文青女的自白）。",
+  "likeCount" : 25
+}, {
+  "id" : 466,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 38,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10049,
+  "content" : "心中有种难以名状的情感在成长",
+  "likeCount" : 24
+}, {
+  "id" : 467,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 38,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10050,
+  "content" : "个人看来，推理过程没有太重要，因为最后总会引导你走向必然结局",
+  "likeCount" : 26
+}, {
+  "id" : 468,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 66,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10051,
+  "content" : "不知道我的评论会不会有剧透，如果有的话，我先不评论了",
+  "likeCount" : 40
+}, {
+  "id" : 469,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 66,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10052,
+  "content" : "等了这么久，终于可以拥有姓名了！！",
+  "likeCount" : 45
+}, {
+  "id" : 470,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 71,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10053,
+  "content" : "总之是很良心的剧情游戏！！！",
+  "likeCount" : 35
+}, {
+  "id" : 471,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 71,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10054,
+  "content" : "每个游戏角色的人生都有故事，值得你花一天的时间去细细评味。",
+  "likeCount" : 56
+}, {
+  "id" : 472,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 82,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10055,
+  "content" : "游戏还是优秀的 伏笔也多 干扰项也有",
+  "likeCount" : 42
+}, {
+  "id" : 473,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 151,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10056,
+  "content" : "剧情不错，这游戏很值，值得浪费时间",
+  "likeCount" : 42
+}, {
+  "id" : 474,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 170,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10057,
+  "content" : "就在你以为接下来是正常发展的时候，诶，它就不那样走",
+  "likeCount" : 54
+}, {
+  "id" : 475,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 170,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10058,
+  "content" : "当然你想知道更多或者没什么耐心等体力恢复的时候可以思考思考剧情",
+  "likeCount" : 62
+}, {
+  "id" : 476,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 180,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10059,
+  "content" : "很好玩的一款游戏，起码是这类游戏里我玩过最好玩的一款",
+  "likeCount" : 95
+}, {
+  "id" : 477,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 180,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10060,
+  "content" : "每次与他们聊天时，我都是将对方当做一个真实存在的人。结局的时候很不舍",
+  "likeCount" : 88
+}, {
+  "id" : 478,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 199,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10061,
+  "content" : "真的把他们当做了自己朋友。感觉在游戏里看到了很多以前遗忘的事情。",
+  "likeCount" : 36
+}, {
+  "id" : 479,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 205,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10062,
+  "content" : "期待新的剧本！每天三更",
+  "likeCount" : 75
+}, {
+  "id" : 480,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 216,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10063,
+  "content" : "我不知道自己的选择会不会影响到剧情走向，但是根据我选择对话后人物的对话反馈，我感觉：剧情的走向是一定的",
+  "likeCount" : 62
+}, {
+  "id" : 481,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 216,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10064,
+  "content" : "前面很多细小的伏笔、线索，差不多在故事的最后把所有细节全部收束，组合成完整的真相",
+  "likeCount" : 25
+}, {
+  "id" : 482,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 231,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10065,
+  "content" : "文案特别强，为不眨眼编剧打call",
+  "likeCount" : 100
+}, {
+  "id" : 483,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 231,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10066,
+  "content" : "各人故事还是蛮精彩的，各种阴错阳差与成长环境造就的经历与性格，也不能说谁就得负全责吧……",
+  "likeCount" : 101
+}, {
+  "id" : 484,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 239,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10067,
+  "content" : "剧本还是蛮有代入感的，对人性的刻画也很能引起认同。",
+  "likeCount" : 96
+}, {
+  "id" : 485,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 239,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10068,
+  "content" : "对于喜欢推理才下这个游戏的话，还是有可玩性的",
+  "likeCount" : 91
+}, {
+  "id" : 486,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 247,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10069,
+  "content" : "我觉得这个游戏还是很棒的，出小视频的话也会很不错的感觉。",
+  "likeCount" : 46
+}, {
+  "id" : 487,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 257,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10070,
+  "content" : "这是我玩过的游戏里面很值得向别人推荐的一款，感谢制作人们的用心和努力，真的很棒。",
+  "likeCount" : 55
+}, {
+  "id" : 488,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 261,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10071,
+  "content" : "平时看国产鬼片都怕的话，要玩得慎重考虑，我现在玩完在谁的手机留下了一点心理阴影。",
+  "likeCount" : 68
+}, {
+  "id" : 489,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 275,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10072,
+  "content" : "作为一个喜欢看书的人表示这是很不错的一款游戏，和看小说一样有趣",
+  "likeCount" : 76
+}, {
+  "id" : 490,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 280,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10073,
+  "content" : "终于玩完这个剧本了不得不说结局真的意外啊。。。",
+  "likeCount" : 96
+}, {
+  "id" : 491,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 280,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10074,
+  "content" : "我觉得这个游戏最好的一点就是人物塑造真的可以说很饱满了！",
+  "likeCount" : 91
+}, {
+  "id" : 492,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 293,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10075,
+  "content" : "通过对话了解人物性格喜好什么的！",
+  "likeCount" : 46
+}, {
+  "id" : 493,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 322,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10076,
+  "content" : "没屁放了！最后就希望工作室越来越好ba！",
+  "likeCount" : 55
+}, {
+  "id" : 494,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 322,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10077,
+  "content" : "很不错的游戏，重复看历史记录找线索也很有意思…有的时候会找不到然后卡住就是了(…",
+  "likeCount" : 68
+}, {
+  "id" : 495,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 329,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10078,
+  "content" : "人物形象塑造得很不错…!感觉就像真的有这些朋友一样。",
+  "likeCount" : 76
+}, {
+  "id" : 496,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 335,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10079,
+  "content" : "刚玩的时候如果不太清楚流程什么的可以看一下官方发布的帖子。",
+  "likeCount" : 68
+}, {
+  "id" : 497,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 335,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10080,
+  "content" : "和普通小说不同，这样的游戏方式更能把读者(也就是玩家)带入其中",
+  "likeCount" : 86
+}, {
+  "id" : 498,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 341,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10081,
+  "content" : "每个看似普通的人都有秘密，有的是痛苦，有的是罪恶，大家都是一人两面甚至多面的，没有调查就没有发言权，先了解了才能下结论……",
+  "likeCount" : 42
+}, {
+  "id" : 499,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 349,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10082,
+  "content" : "说实话，我有点把这个游戏当做情感寄托了。",
+  "likeCount" : 54
+}, {
+  "id" : 500,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 353,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10083,
+  "content" : "不吃不喝熬夜肝完了游戏",
+  "likeCount" : 62
+}, {
+  "id" : 501,
+  "gameId" : 3,
+  "chatId" : 1,
+  "talkId" : 366,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10012,
+  "content" : "巧妙的故事设定，新颖的故事情节都很带感",
+  "likeCount" : 35
+}, {
+  "id" : 502,
+  "gameId" : 3,
+  "chatId" : 2,
+  "talkId" : 942,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10013,
+  "content" : "人物个性有的前后反差巨大，有的是磨人的小妖精",
+  "likeCount" : 56
+}, {
+  "id" : 503,
+  "gameId" : 3,
+  "chatId" : 3,
+  "talkId" : 0,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10014,
+  "content" : "我感觉从体验上来说至少是值的。非常新奇！",
+  "likeCount" : 30
+}, {
+  "id" : 504,
+  "gameId" : 3,
+  "chatId" : 3,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10015,
+  "content" : "我担心会不会是因为我的某个推理不当、选项不当，就浪费了电量",
+  "likeCount" : 40
+}, {
+  "id" : 505,
+  "gameId" : 3,
+  "chatId" : 3,
+  "talkId" : 1,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10016,
+  "content" : "游戏难度？不存在的，我什么都改变不了。",
+  "likeCount" : 45
+}, {
+  "id" : 506,
+  "gameId" : 3,
+  "chatId" : 3,
+  "talkId" : 16,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10017,
+  "content" : "我胆子也是比较小，又不肯关BGM，有跟我一样的嘛",
+  "likeCount" : 35
+}, {
+  "id" : 507,
+  "gameId" : 3,
+  "chatId" : 3,
+  "talkId" : 16,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10051,
+  "content" : "文字和人都是会撒谎的。",
+  "likeCount" : 56
+}, {
+  "id" : 508,
+  "gameId" : 3,
+  "chatId" : 3,
+  "talkId" : 30,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10052,
+  "content" : "这一定是情景剧APP",
+  "likeCount" : 42
+}, {
+  "id" : 509,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10053,
+  "content" : "如果您对悬疑小说有兴趣，这部作品绝不会让您失望的",
+  "likeCount" : 54
+}, {
+  "id" : 510,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10054,
+  "content" : "可以看出作者们十分想塑造出饱满真实的人物形象，疯狂尬聊，我能感觉到这份努力...",
+  "likeCount" : 56
+}, {
+  "id" : 511,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 2,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10055,
+  "content" : "每个人都有自己独特的特性。有人平凡得经典，有人温润暖心",
+  "likeCount" : 42
+}, {
+  "id" : 512,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10056,
+  "content" : "完全像是在读一本情节丰富的小说。游戏对人物的塑造真的非常有意思",
+  "likeCount" : 42
+}, {
+  "id" : 513,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10057,
+  "content" : "觉得多个结局和支线，游戏体验真的很棒！",
+  "likeCount" : 54
+}, {
+  "id" : 514,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10058,
+  "content" : "我也是个急性子玩家，如果不是因为这次有小伙伴和我一起讨论剧情可能我也会又卸游了ᕙ(`▿´)ᕗ",
+  "likeCount" : 62
+}, {
+  "id" : 515,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 8,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10059,
+  "content" : "剧情真的是跌宕起伏，让人产生无限的遐想",
+  "likeCount" : 53
+}, {
+  "id" : 516,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 9,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10060,
+  "content" : "现在打开游戏发现还有剧情",
+  "likeCount" : 45
+}, {
+  "id" : 517,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 9,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10001,
+  "content" : "这个游戏可以说是我这么些年来少数真的能让我有些惆怅的游戏了",
+  "likeCount" : 35
+}, {
+  "id" : 518,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 10,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10002,
+  "content" : "背景音乐确实被吓到了，胆小的我从一开始就没开过声音。",
+  "likeCount" : 56
+}, {
+  "id" : 519,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 11,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10003,
+  "content" : "我觉得这是一款相对轻松的悬疑手游，就像日常对话一样跟主角聊聊天",
+  "likeCount" : 72
+}, {
+  "id" : 520,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 11,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10004,
+  "content" : "我的社交圈突然多出来了很多人，看似莫名其妙，实则关系密切，我有些不知所措，也充满了疑问",
+  "likeCount" : 103
+}, {
+  "id" : 521,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 13,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10005,
+  "content" : "默默的肝了好几天终于全成就",
+  "likeCount" : 25
+}, {
+  "id" : 522,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 14,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10006,
+  "content" : "在少了复杂的玩法与独特的画风的情况下依然惊艳",
+  "likeCount" : 24
+}, {
+  "id" : 523,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 15,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10007,
+  "content" : "这是我玩过的最棒的悬疑解谜游戏！",
+  "likeCount" : 26
+}, {
+  "id" : 524,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 16,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10008,
+  "content" : "立意比较独特",
+  "likeCount" : 40
+}, {
+  "id" : 525,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 17,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10009,
+  "content" : "虽然剧情比较老套，但结果真的合理（圆谎的借口没痕迹。。。）",
+  "likeCount" : 45
+}, {
+  "id" : 526,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 17,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10010,
+  "content" : "这游戏这几个主角，每个特点都很突出。所以不同性格的人对这几个主角的感受也不同。",
+  "likeCount" : 35
+}, {
+  "id" : 527,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 18,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10011,
+  "content" : "我现在刚玩玩结局，一句不知该不该说，但是评论又不可以剧透，啊啊啊",
+  "likeCount" : 56
+}, {
+  "id" : 528,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 26,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10012,
+  "content" : "言归正传，游戏很好玩，非常非常好玩，以多角度模式叙述了一个离奇的故事",
+  "likeCount" : 42
+}, {
+  "id" : 529,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 28,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10013,
+  "content" : "有很多现实残酷但有道理的理论，每个人都在隐藏一些别人看不到的东西",
+  "likeCount" : 42
+}, {
+  "id" : 530,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 39,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10014,
+  "content" : "结局真的很让我感动，可能有人不明白我感动的点，其实我也不太清楚，但是那是一种来自心灵深处的共鸣（并不是文青女的自白）。",
+  "likeCount" : 54
+}, {
+  "id" : 531,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 44,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10015,
+  "content" : "心中有种难以名状的情感在成长",
+  "likeCount" : 62
+}, {
+  "id" : 532,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 46,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10022,
+  "content" : "个人看来，推理过程没有太重要，因为最后总会引导你走向必然结局",
+  "likeCount" : 95
+}, {
+  "id" : 533,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 52,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10023,
+  "content" : "不知道我的评论会不会有剧透，如果有的话，我先不评论了",
+  "likeCount" : 88
+}, {
+  "id" : 534,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 56,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10024,
+  "content" : "等了这么久，终于可以拥有姓名了！！",
+  "likeCount" : 36
+}, {
+  "id" : 535,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 63,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10025,
+  "content" : "总之是很良心的剧情游戏！！！",
+  "likeCount" : 75
+}, {
+  "id" : 536,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 65,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10015,
+  "content" : "每个游戏角色的人生都有故事，值得你花一天的时间去细细评味。",
+  "likeCount" : 62
+}, {
+  "id" : 537,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 82,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10022,
+  "content" : "游戏还是优秀的 伏笔也多 干扰项也有",
+  "likeCount" : 25
+}, {
+  "id" : 538,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 91,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10023,
+  "content" : "剧情不错，这游戏很值，值得浪费时间",
+  "likeCount" : 100
+}, {
+  "id" : 539,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 91,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10024,
+  "content" : "就在你以为接下来是正常发展的时候，诶，它就不那样走",
+  "likeCount" : 101
+}, {
+  "id" : 540,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 96,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10025,
+  "content" : "当然你想知道更多或者没什么耐心等体力恢复的时候可以思考思考剧情",
+  "likeCount" : 96
+}, {
+  "id" : 541,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 107,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10026,
+  "content" : "很好玩的一款游戏，起码是这类游戏里我玩过最好玩的一款",
+  "likeCount" : 91
+}, {
+  "id" : 542,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 115,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10027,
+  "content" : "每次与他们聊天时，我都是将对方当做一个真实存在的人。结局的时候很不舍",
+  "likeCount" : 46
+}, {
+  "id" : 543,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 121,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10028,
+  "content" : "真的把他们当做了自己朋友。感觉在游戏里看到了很多以前遗忘的事情。",
+  "likeCount" : 55
+}, {
+  "id" : 544,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 139,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10029,
+  "content" : "期待新的剧本！每天三更",
+  "likeCount" : 68
+}, {
+  "id" : 545,
+  "gameId" : 11,
+  "chatId" : 0,
+  "talkId" : 139,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10030,
+  "content" : "我不知道自己的选择会不会影响到剧情走向，但是根据我选择对话后人物的对话反馈，我感觉：剧情的走向是一定的",
+  "likeCount" : 76
+}, {
+  "id" : 546,
+  "gameId" : 11,
+  "chatId" : 1,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10031,
+  "content" : "前面很多细小的伏笔、线索，差不多在故事的最后把所有细节全部收束，组合成完整的真相",
+  "likeCount" : 96
+}, {
+  "id" : 547,
+  "gameId" : 11,
+  "chatId" : 1,
+  "talkId" : 11,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10032,
+  "content" : "文案特别强，为不眨眼编剧打call",
+  "likeCount" : 91
+}, {
+  "id" : 548,
+  "gameId" : 11,
+  "chatId" : 1,
+  "talkId" : 15,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10033,
+  "content" : "各人故事还是蛮精彩的，各种阴错阳差与成长环境造就的经历与性格，也不能说谁就得负全责吧……",
+  "likeCount" : 46
+}, {
+  "id" : 549,
+  "gameId" : 11,
+  "chatId" : 1,
+  "talkId" : 20,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10034,
+  "content" : "剧本还是蛮有代入感的，对人性的刻画也很能引起认同。",
+  "likeCount" : 55
+}, {
+  "id" : 550,
+  "gameId" : 11,
+  "chatId" : 1,
+  "talkId" : 28,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10035,
+  "content" : "对于喜欢推理才下这个游戏的话，还是有可玩性的",
+  "likeCount" : 68
+}, {
+  "id" : 551,
+  "gameId" : 11,
+  "chatId" : 1,
+  "talkId" : 32,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10036,
+  "content" : "我觉得这个游戏还是很棒的，出小视频的话也会很不错的感觉。",
+  "likeCount" : 76
+}, {
+  "id" : 552,
+  "gameId" : 11,
+  "chatId" : 1,
+  "talkId" : 40,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10037,
+  "content" : "这是我玩过的游戏里面很值得向别人推荐的一款，感谢制作人们的用心和努力，真的很棒。",
+  "likeCount" : 68
+}, {
+  "id" : 553,
+  "gameId" : 11,
+  "chatId" : 1,
+  "talkId" : 47,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10038,
+  "content" : "平时看国产鬼片都怕的话，要玩得慎重考虑，我现在玩完在谁的手机留下了一点心理阴影。",
+  "likeCount" : 86
+}, {
+  "id" : 554,
+  "gameId" : 11,
+  "chatId" : 1,
+  "talkId" : 47,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10039,
+  "content" : "作为一个喜欢看书的人表示这是很不错的一款游戏，和看小说一样有趣",
+  "likeCount" : 42
+}, {
+  "id" : 555,
+  "gameId" : 11,
+  "chatId" : 1,
+  "talkId" : 122,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10040,
+  "content" : "终于玩完这个剧本了不得不说结局真的意外啊。。。",
+  "likeCount" : 54
+}, {
+  "id" : 556,
+  "gameId" : 11,
+  "chatId" : 1,
+  "talkId" : 192,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10041,
+  "content" : "我觉得这个游戏最好的一点就是人物塑造真的可以说很饱满了！",
+  "likeCount" : 62
+}, {
+  "id" : 557,
+  "gameId" : 11,
+  "chatId" : 1,
+  "talkId" : 195,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10042,
+  "content" : "通过对话了解人物性格喜好什么的！",
+  "likeCount" : 42
+}, {
+  "id" : 558,
+  "gameId" : 11,
+  "chatId" : 1,
+  "talkId" : 230,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10043,
+  "content" : "没屁放了！最后就希望工作室越来越好ba！",
+  "likeCount" : 42
+}, {
+  "id" : 559,
+  "gameId" : 11,
+  "chatId" : 2,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10044,
+  "content" : "很不错的游戏，重复看历史记录找线索也很有意思…有的时候会找不到然后卡住就是了(…",
+  "likeCount" : 54
+}, {
+  "id" : 560,
+  "gameId" : 11,
+  "chatId" : 2,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10045,
+  "content" : "人物形象塑造得很不错…!感觉就像真的有这些朋友一样。",
+  "likeCount" : 62
+}, {
+  "id" : 561,
+  "gameId" : 11,
+  "chatId" : 2,
+  "talkId" : 19,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10046,
+  "content" : "刚玩的时候如果不太清楚流程什么的可以看一下官方发布的帖子。",
+  "likeCount" : 95
+}, {
+  "id" : 562,
+  "gameId" : 11,
+  "chatId" : 2,
+  "talkId" : 61,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10047,
+  "content" : "和普通小说不同，这样的游戏方式更能把读者(也就是玩家)带入其中",
+  "likeCount" : 88
+}, {
+  "id" : 563,
+  "gameId" : 11,
+  "chatId" : 2,
+  "talkId" : 61,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10048,
+  "content" : "每个看似普通的人都有秘密，有的是痛苦，有的是罪恶，大家都是一人两面甚至多面的，没有调查就没有发言权，先了解了才能下结论……",
+  "likeCount" : 36
+}, {
+  "id" : 564,
+  "gameId" : 11,
+  "chatId" : 2,
+  "talkId" : 122,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10049,
+  "content" : "说实话，我有点把这个游戏当做情感寄托了。",
+  "likeCount" : 75
+}, {
+  "id" : 565,
+  "gameId" : 11,
+  "chatId" : 2,
+  "talkId" : 162,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10050,
+  "content" : "不吃不喝熬夜肝完了游戏",
+  "likeCount" : 62
+}, {
+  "id" : 566,
+  "gameId" : 11,
+  "chatId" : 3,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10051,
+  "content" : "游戏的真实感和代入感很强",
+  "likeCount" : 25
+}, {
+  "id" : 567,
+  "gameId" : 11,
+  "chatId" : 3,
+  "talkId" : 21,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10052,
+  "content" : "人物具有多面性，立体复杂的形象，似乎能在生活中找到对应的人。",
+  "likeCount" : 100
+}, {
+  "id" : 568,
+  "gameId" : 11,
+  "chatId" : 3,
+  "talkId" : 59,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10053,
+  "content" : "用了两个多星期的时间找到了结尾相当不错的良心文字游戏！",
+  "likeCount" : 101
+}, {
+  "id" : 569,
+  "gameId" : 11,
+  "chatId" : 3,
+  "talkId" : 64,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10054,
+  "content" : "剧情虽紧张，但也可以在闲聊中结（tiao）交（xi）妹子",
+  "likeCount" : 27
+}, {
+  "id" : 570,
+  "gameId" : 11,
+  "chatId" : 3,
+  "talkId" : 67,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10055,
+  "content" : "断断续续玩了好久，看着不眨眼的名字还以为看错了呢",
+  "likeCount" : 24
+}, {
+  "id" : 571,
+  "gameId" : 11,
+  "chatId" : 3,
+  "talkId" : 90,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10056,
+  "content" : "改名了，之前叫《手机疑讯》",
+  "likeCount" : 56
+}, {
+  "id" : 572,
+  "gameId" : 11,
+  "chatId" : 3,
+  "talkId" : 90,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10057,
+  "content" : "情节设计的非诚巧妙，打到真结局真的是大吃一惊",
+  "likeCount" : 24
+}, {
+  "id" : 573,
+  "gameId" : 17,
+  "chatId" : 0,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10058,
+  "content" : "玩家可以选择所有的回答（虽然没什么卵用，但确实增加了代入感）",
+  "likeCount" : 26
+}, {
+  "id" : 574,
+  "gameId" : 17,
+  "chatId" : 0,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10059,
+  "content" : "有些对话选项也太调皮了吧23333",
+  "likeCount" : 40
+}, {
+  "id" : 575,
+  "gameId" : 17,
+  "chatId" : 0,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10060,
+  "content" : "虽然我对于游戏里某些细节还有疑问，但我为制作组精妙的剧情，及真人拍摄的视频打call",
+  "likeCount" : 45
+}, {
+  "id" : 576,
+  "gameId" : 17,
+  "chatId" : 0,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10061,
+  "content" : "让人有种真的在聊天的感觉，这一点可以说是我见过的有模拟聊天系统的游戏中最好的。",
+  "likeCount" : 35
+}, {
+  "id" : 577,
+  "gameId" : 17,
+  "chatId" : 0,
+  "talkId" : 11,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10062,
+  "content" : "情节和玩法设计不错，在朋友圈和剧情中一步步推进剧情。",
+  "likeCount" : 56
+}, {
+  "id" : 578,
+  "gameId" : 17,
+  "chatId" : 0,
+  "talkId" : 19,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10063,
+  "content" : "玩过后发现是一个可以和故事里的主角互动的情景剧",
+  "likeCount" : 56
+}, {
+  "id" : 579,
+  "gameId" : 17,
+  "chatId" : 0,
+  "talkId" : 20,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10064,
+  "content" : "这种设计感觉很新奇",
+  "likeCount" : 42
+}, {
+  "id" : 580,
+  "gameId" : 17,
+  "chatId" : 0,
+  "talkId" : 29,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10065,
+  "content" : "玩这个游戏从一开始对每个人的一无所知，到渐渐了解每一个人，非常有意思",
+  "likeCount" : 42
+}, {
+  "id" : 581,
+  "gameId" : 17,
+  "chatId" : 0,
+  "talkId" : 35,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10066,
+  "content" : "仿佛自己也是和这几个一同在一起的好朋友，无聊的时候打开游戏，仿佛随意的和几个好友聊天",
+  "likeCount" : 54
+}, {
+  "id" : 582,
+  "gameId" : 17,
+  "chatId" : 0,
+  "talkId" : 47,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10067,
+  "content" : "简单的一个游戏让我一个孤独的人，久违的体验到了，和朋友聊天的快乐！",
+  "likeCount" : 62
+}, {
+  "id" : 583,
+  "gameId" : 17,
+  "chatId" : 1,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10068,
+  "content" : "每个人都有每个人的性格，也有每个人的小心思。玩游戏的这几天仿佛身临其境，剧情紧张刺激。",
+  "likeCount" : 53
+}, {
+  "id" : 584,
+  "gameId" : 17,
+  "chatId" : 1,
+  "talkId" : 10,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10069,
+  "content" : "随着剧情的发展，一步步解开谜题，与每个人一个个的道别",
+  "likeCount" : 45
+}, {
+  "id" : 585,
+  "gameId" : 17,
+  "chatId" : 1,
+  "talkId" : 20,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10070,
+  "content" : "随着每个人的心情变化，感受每个人对同一件事不同的性格",
+  "likeCount" : 35
+}, {
+  "id" : 586,
+  "gameId" : 17,
+  "chatId" : 1,
+  "talkId" : 22,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10071,
+  "content" : "从游戏形式上来讲，与故事中相关人员的对话和互动非常有趣，而且每个人物的个性鲜明",
+  "likeCount" : 56
+}, {
+  "id" : 587,
+  "gameId" : 17,
+  "chatId" : 1,
+  "talkId" : 24,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10072,
+  "content" : "能看出这个游戏开发团队非常用心在制作和对待每一位玩家",
+  "likeCount" : 72
+}, {
+  "id" : 588,
+  "gameId" : 17,
+  "chatId" : 1,
+  "talkId" : 64,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10073,
+  "content" : "毫不客气的说，这是我这几天以来玩的最入迷的游戏，没有之一。",
+  "likeCount" : 103
+}, {
+  "id" : 589,
+  "gameId" : 17,
+  "chatId" : 1,
+  "talkId" : 67,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10074,
+  "content" : "这款最开始玩的时候觉得很新奇，虽然平时是推理小说爱好者，但是并不是推理小能手",
+  "likeCount" : 25
+}, {
+  "id" : 590,
+  "gameId" : 17,
+  "chatId" : 1,
+  "talkId" : 76,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10075,
+  "content" : "属于跟着剧情走的普通玩家。不过我是个强迫症，所有成就都想收集",
+  "likeCount" : 100
+}, {
+  "id" : 591,
+  "gameId" : 17,
+  "chatId" : 1,
+  "talkId" : 83,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10076,
+  "content" : "很棒的游戏！！！五星好评",
+  "likeCount" : 101
+}, {
+  "id" : 592,
+  "gameId" : 17,
+  "chatId" : 2,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10077,
+  "content" : "这是一款会让人代入感情的游戏。如果这些人物出现在现实生活中，也许真的想和他们成为朋友",
+  "likeCount" : 27
+}, {
+  "id" : 593,
+  "gameId" : 17,
+  "chatId" : 2,
+  "talkId" : 11,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10100,
+  "content" : "很多事情，很多思考，在这个游戏里我居然都找到了答案。",
+  "likeCount" : 24
+}, {
+  "id" : 594,
+  "gameId" : 17,
+  "chatId" : 2,
+  "talkId" : 26,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10004,
+  "content" : "很棒的游戏！！！五星好评",
+  "likeCount" : 56
+}, {
+  "id" : 595,
+  "gameId" : 17,
+  "chatId" : 2,
+  "talkId" : 35,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10005,
+  "content" : "这是一款会让人代入感情的游戏。如果这些人物出现在现实生活中，也许真的想和他们成为朋友",
+  "likeCount" : 24
+}, {
+  "id" : 596,
+  "gameId" : 17,
+  "chatId" : 2,
+  "talkId" : 42,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10006,
+  "content" : "很多事情，很多思考，在这个游戏里我居然都找到了答案。",
+  "likeCount" : 26
+}, {
+  "id" : 597,
+  "gameId" : 17,
+  "chatId" : 2,
+  "talkId" : 51,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10007,
+  "content" : "每个人物的个性鲜明，台词也十分考究，让人的代入感很强，仿佛真的有那么一个人在电话那头和你一起分析，聊天。",
+  "likeCount" : 40
+}, {
+  "id" : 598,
+  "gameId" : 17,
+  "chatId" : 2,
+  "talkId" : 55,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10008,
+  "content" : "通关后显示大部分成就只是增可玩性",
+  "likeCount" : 45
+}, {
+  "id" : 599,
+  "gameId" : 17,
+  "chatId" : 2,
+  "talkId" : 60,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10009,
+  "content" : "第一次反转明显感觉到事情不止如此",
+  "likeCount" : 35
+}, {
+  "id" : 600,
+  "gameId" : 17,
+  "chatId" : 2,
+  "talkId" : 68,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10010,
+  "content" : "游戏无疑是佳作，里面的每个角色要么有自己的影子要么有自己身边人的影子",
+  "likeCount" : 42
+}, {
+  "id" : 601,
+  "gameId" : 17,
+  "chatId" : 3,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10011,
+  "content" : "看完后会觉得，每个人的活法无对错之分",
+  "likeCount" : 42
+}, {
+  "id" : 602,
+  "gameId" : 17,
+  "chatId" : 3,
+  "talkId" : 9,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10012,
+  "content" : "这个游戏给我的代入感真的很强，就好像我的的确确是和他们一起经历了这些。",
+  "likeCount" : 54
+}, {
+  "id" : 603,
+  "gameId" : 17,
+  "chatId" : 3,
+  "talkId" : 18,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10013,
+  "content" : "游戏探索完觉得值得深思的地方很多。",
+  "likeCount" : 62
+}, {
+  "id" : 604,
+  "gameId" : 17,
+  "chatId" : 3,
+  "talkId" : 22,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10014,
+  "content" : "迫不及待想要知道后面的剧情却又担心万一不开启日常对话错过了重要信息呢…",
+  "likeCount" : 53
+}, {
+  "id" : 605,
+  "gameId" : 17,
+  "chatId" : 3,
+  "talkId" : 26,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10015,
+  "content" : "关于游戏里的日常对话，可能那些其他的对话是为了调节一下故事沉重的气氛",
+  "likeCount" : 45
+}, {
+  "id" : 606,
+  "gameId" : 17,
+  "chatId" : 3,
+  "talkId" : 33,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10016,
+  "content" : "制作很棒。很用心，感觉也很新颖。",
+  "likeCount" : 35
+}, {
+  "id" : 607,
+  "gameId" : 17,
+  "chatId" : 3,
+  "talkId" : 37,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10017,
+  "content" : "环环相扣这一点上真是太好了",
+  "likeCount" : 56
+}, {
+  "id" : 608,
+  "gameId" : 17,
+  "chatId" : 3,
+  "talkId" : 45,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10051,
+  "content" : "全程没有令人过于懵逼的地方，非常合理",
+  "likeCount" : 72
+}, {
+  "id" : 609,
+  "gameId" : 17,
+  "chatId" : 3,
+  "talkId" : 53,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10052,
+  "content" : "游戏的主线清晰明了，主次分明。",
+  "likeCount" : 103
+}, {
+  "id" : 610,
+  "gameId" : 17,
+  "chatId" : 4,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10053,
+  "content" : "不得不说，这部作品充分满足了我等动手能力差又以看剧情为主的不肝不氪游戏党的愿望",
+  "likeCount" : 25
+}, {
+  "id" : 611,
+  "gameId" : 17,
+  "chatId" : 4,
+  "talkId" : 13,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10054,
+  "content" : "剧情跌宕起伏，联系性强废话少",
+  "likeCount" : 100
+}, {
+  "id" : 612,
+  "gameId" : 17,
+  "chatId" : 4,
+  "talkId" : 29,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10055,
+  "content" : "可以看得出制作组在游戏剧情上下足了功夫",
+  "likeCount" : 101
+}, {
+  "id" : 613,
+  "gameId" : 17,
+  "chatId" : 4,
+  "talkId" : 40,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10056,
+  "content" : "给制作组一个好评，作为一个文字剧情推理类游戏的爱好者，期待制作组的新作!(我!的!N!(X))晚安♡",
+  "likeCount" : 27
+}, {
+  "id" : 614,
+  "gameId" : 17,
+  "chatId" : 4,
+  "talkId" : 54,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10057,
+  "content" : "忽略掉游戏剧情本身，其他的对话选项真的可以当做攻略游戏来玩",
+  "likeCount" : 24
+}, {
+  "id" : 615,
+  "gameId" : 17,
+  "chatId" : 4,
+  "talkId" : 63,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10058,
+  "content" : "不过对于专心剧情的人来说，有时候那些无关痛痒的对话真的很苦恼了",
+  "likeCount" : 56
+}, {
+  "id" : 616,
+  "gameId" : 17,
+  "chatId" : 4,
+  "talkId" : 67,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10059,
+  "content" : "关于游戏本身的话，我觉得就相当于是看了多篇情景剧",
+  "likeCount" : 24
+}, {
+  "id" : 617,
+  "gameId" : 17,
+  "chatId" : 4,
+  "talkId" : 80,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10060,
+  "content" : "最开始因为担心自己做出的选项会对故事情节发展产生影响而找不到真凶，每个选项我都特别仔细的斟酌…",
+  "likeCount" : 26
+}, {
+  "id" : 618,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10001,
+  "content" : "每次我晚上玩的时候忘了自己开了很大的声音…然后看剧情的时候，普通的情节几乎听不到音乐，页面一停在剧情高潮的地方音乐就突然响起来似的…每次都把我吓得够呛…",
+  "likeCount" : 40
+}, {
+  "id" : 619,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10002,
+  "content" : "感谢一下制作人如此良心的一款游戏，全程高能烧脑",
+  "likeCount" : 45
+}, {
+  "id" : 620,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10003,
+  "content" : "游戏的BGM也非常不错",
+  "likeCount" : 35
+}, {
+  "id" : 621,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10004,
+  "content" : "特别是bgm真的是超级棒了！准确到位符合情景！",
+  "likeCount" : 42
+}, {
+  "id" : 622,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10005,
+  "content" : "虽然说有些地方我觉得有不足，但是游戏本身也值浪费我的时间了！",
+  "likeCount" : 42
+}, {
+  "id" : 623,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10006,
+  "content" : "气氛虽然诡异却不是恐怖的粗俗，这个度把握的很好",
+  "likeCount" : 54
+}, {
+  "id" : 624,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 7,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10007,
+  "content" : "做解谜游戏是公认的最难最繁琐的，因为，开发者要以自己的智商，去单挑所有玩家的智商！",
+  "likeCount" : 62
+}, {
+  "id" : 625,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 8,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10008,
+  "content" : "游戏体验可以说非常棒，每个人都故事之间，都有着千丝万缕的联系",
+  "likeCount" : 95
+}, {
+  "id" : 626,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 9,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10009,
+  "content" : "总的来说这是一款相当优秀的游戏！游戏内的人物塑造，事件描述，视频拍摄，都可以算是上成中的上成",
+  "likeCount" : 88
+}, {
+  "id" : 627,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 9,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10010,
+  "content" : "BGM好评，夜深人静的时候玩着游戏还是有点渗得慌",
+  "likeCount" : 36
+}, {
+  "id" : 628,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 10,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10011,
+  "content" : "偶尔穿插的语音会很契合。角色人设鲜明",
+  "likeCount" : 75
+}, {
+  "id" : 629,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 11,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10012,
+  "content" : "不管怎么说这款游戏都是难得的佳作，值得肯定",
+  "likeCount" : 62
+}, {
+  "id" : 630,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 12,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10013,
+  "content" : "目前刚开始玩，期待之后的剧本～ 好啦，就酱～",
+  "likeCount" : 25
+}, {
+  "id" : 631,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 13,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10014,
+  "content" : "感觉剧情太丰富了，每个人的刻画也很有趣",
+  "likeCount" : 100
+}, {
+  "id" : 632,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 14,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10015,
+  "content" : "巧妙的故事设定，新颖的故事情节都很带感",
+  "likeCount" : 101
+}, {
+  "id" : 633,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 15,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10022,
+  "content" : "人物个性有的前后反差巨大，有的是磨人的小妖精",
+  "likeCount" : 96
+}, {
+  "id" : 634,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 17,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10023,
+  "content" : "我感觉从体验上来说至少是值的。非常新奇！",
+  "likeCount" : 91
+}, {
+  "id" : 635,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 30,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10024,
+  "content" : "我担心会不会是因为我的某个推理不当、选项不当，就浪费了电量",
+  "likeCount" : 46
+}, {
+  "id" : 636,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 31,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10025,
+  "content" : "游戏难度？不存在的，我什么都改变不了。",
+  "likeCount" : 55
+}, {
+  "id" : 637,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 31,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10026,
+  "content" : "我胆子也是比较小，又不肯关BGM，有跟我一样的嘛",
+  "likeCount" : 68
+}, {
+  "id" : 638,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 77,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10027,
+  "content" : "文字和人都是会撒谎的。",
+  "likeCount" : 76
+}, {
+  "id" : 639,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 199,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10028,
+  "content" : "这一定是情景剧APP",
+  "likeCount" : 96
+}, {
+  "id" : 640,
+  "gameId" : 17,
+  "chatId" : 5,
+  "talkId" : 371,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10015,
+  "content" : "如果您对悬疑小说有兴趣，这部作品绝不会让您失望的",
+  "likeCount" : 91
+}, {
+  "id" : 641,
+  "gameId" : 18,
+  "chatId" : 0,
+  "talkId" : 0,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10016,
+  "content" : "可以看出作者们十分想塑造出饱满真实的人物形象，疯狂尬聊，我能感觉到这份努力...",
+  "likeCount" : 46
+}, {
+  "id" : 642,
+  "gameId" : 18,
+  "chatId" : 0,
+  "talkId" : 1,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10017,
+  "content" : "系统给的选项让我知道了该用什么聊天态度",
+  "likeCount" : 55
+}, {
+  "id" : 643,
+  "gameId" : 18,
+  "chatId" : 0,
+  "talkId" : 2,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10051,
+  "content" : "我真的很喜欢不眨眼这部游戏，你们的资金有限却依然自己拍摄证明了官方还是宠粉的",
+  "likeCount" : 68
+}, {
+  "id" : 644,
+  "gameId" : 18,
+  "chatId" : 0,
+  "talkId" : 3,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10052,
+  "content" : "我很喜欢不眨眼这款游戏，现在专心等正式版出来",
+  "likeCount" : 76
+}, {
+  "id" : 645,
+  "gameId" : 18,
+  "chatId" : 0,
+  "talkId" : 4,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10053,
+  "content" : "一开始只是无聊，喜欢推理就下了这个不眨眼，一开始玩就全身心投入",
+  "likeCount" : 68
+}, {
+  "id" : 646,
+  "gameId" : 18,
+  "chatId" : 0,
+  "talkId" : 5,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10054,
+  "content" : "人物性格的刻画，文字编绘得真的很棒，人物性格是如此典型又不至于让人讨厌，因为就像是真的活在我们身边的人一样。",
+  "likeCount" : 86
+}, {
+  "id" : 647,
+  "gameId" : 18,
+  "chatId" : 0,
+  "talkId" : 6,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10055,
+  "content" : "人物的形象做的非常非常非常具有个性。",
+  "likeCount" : 42
+}, {
+  "id" : 648,
+  "gameId" : 18,
+  "chatId" : 0,
+  "talkId" : 7,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10056,
+  "content" : "编剧脑洞之大真是令人佩服的五体投地！",
+  "likeCount" : 54
+}, {
+  "id" : 649,
+  "gameId" : 18,
+  "chatId" : 0,
+  "talkId" : 8,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10057,
+  "content" : "这个游戏最迷人的亮点在于人物性格的刻画，一个小团体中的几个人的出身，性格都非常典型",
+  "likeCount" : 62
+}, {
+  "id" : 650,
+  "gameId" : 18,
+  "chatId" : 0,
+  "talkId" : 9,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10058,
+  "content" : "可能还是分人，像我这种喜欢猜的，线索散乱反而提供了猜想的空间，还是挺有趣的。",
+  "likeCount" : 35
+}, {
+  "id" : 651,
+  "gameId" : 18,
+  "chatId" : 0,
+  "talkId" : 10,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10059,
+  "content" : "非常棒的一款游戏，还是多线结局o(╯□╰)o",
+  "likeCount" : 56
+}, {
+  "id" : 652,
+  "gameId" : 18,
+  "chatId" : 0,
+  "talkId" : 11,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10060,
+  "content" : "会觉得这些人真的存在，很真实，有自己的个性，但不是被单纯贴几个标签属性的存在",
+  "likeCount" : 30
+}, {
+  "id" : 653,
+  "gameId" : 18,
+  "chatId" : 0,
+  "talkId" : 13,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10001,
+  "content" : "聊天的过程是能感受到每个人的个性差异但实际又并不了解他们。",
+  "likeCount" : 40
+}, {
+  "id" : 654,
+  "gameId" : 18,
+  "chatId" : 0,
+  "talkId" : 13,
+  "optionIndex" : 1,
+  "optiondesc" : " ",
+  "playerId" : 10002,
+  "content" : "QQ登录终于好使了，不容易",
+  "likeCount" : 45
+}, {
+  "id" : 655,
+  "gameId" : 18,
+  "chatId" : 0,
+  "talkId" : 16,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10003,
+  "content" : "当我用qq微信聊天时，我意识到，游戏中的人物和现实中的聊天对象其实是分不开也分不清的，这种感觉很奇妙",
+  "likeCount" : 35
+}, {
+  "id" : 656,
+  "gameId" : 18,
+  "chatId" : 0,
+  "talkId" : 17,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10004,
+  "content" : "我担心会不会是因为我的某个推理不当、选项不当，就浪费了电量",
+  "likeCount" : 56
+}, {
+  "id" : 657,
+  "gameId" : 18,
+  "chatId" : 0,
+  "talkId" : 31,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10005,
+  "content" : "游戏难度？不存在的，我什么都改变不了。",
+  "likeCount" : 45
+}, {
+  "id" : 658,
+  "gameId" : 18,
+  "chatId" : 0,
+  "talkId" : 36,
+  "optionIndex" : 0,
+  "optiondesc" : " ",
+  "playerId" : 10006,
+  "content" : "我胆子也是比较小，又不肯关BGM，有跟我一样的嘛",
+  "likeCount" : 35
+} ]

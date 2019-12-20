@@ -1,0 +1,249 @@
+[ {
+  "id" : 1001,
+  "name" : "备用电池",
+  "type" : 1,
+  "value" : 50,
+  "max" : 90000000,
+  "pic" : "/bzyappclub/badge/badge01.png",
+  "no" : "/bzyappclub/badge/badge01.png"
+}, {
+  "id" : 1002,
+  "name" : "聚能环",
+  "type" : 2,
+  "value" : 20,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge02.png",
+  "no" : "/bzyappclub/badge/badge02.png"
+}, {
+  "id" : 1003,
+  "name" : "沙漏",
+  "type" : 3,
+  "value" : 0.2,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge03.png",
+  "no" : "/bzyappclub/badge/badge03.png"
+}, {
+  "id" : 1004,
+  "name" : "古代闲人",
+  "type" : 4,
+  "value" : 0,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge_01.png",
+  "no" : "/bzyappclub/badge/badge_No_01.png"
+}, {
+  "id" : 1005,
+  "name" : "恋爱达人",
+  "type" : 4,
+  "value" : 0,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge_02.png",
+  "no" : "/bzyappclub/badge/badge_No_02.png"
+}, {
+  "id" : 1006,
+  "name" : "梦境专家",
+  "type" : 4,
+  "value" : 0,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge_03.png",
+  "no" : "/bzyappclub/badge/badge_No_03.png"
+}, {
+  "id" : 1007,
+  "name" : "密室逃脱者",
+  "type" : 4,
+  "value" : 0,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge_04.png",
+  "no" : "/bzyappclub/badge/badge_No_04.png"
+}, {
+  "id" : 1008,
+  "name" : "名侦探",
+  "type" : 4,
+  "value" : 0,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge_05.png",
+  "no" : "/bzyappclub/badge/badge_No_05.png"
+}, {
+  "id" : 1009,
+  "name" : "推理大师",
+  "type" : 4,
+  "value" : 0,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge_06.png",
+  "no" : "/bzyappclub/badge/badge_No_06.png"
+}, {
+  "id" : 1010,
+  "name" : "校园王者",
+  "type" : 4,
+  "value" : 0,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge_07.png",
+  "no" : "/bzyappclub/badge/badge_No_07.png"
+}, {
+  "id" : 1011,
+  "name" : "心理医生",
+  "type" : 4,
+  "value" : 0,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge_08.png",
+  "no" : "/bzyappclub/badge/badge_No_08.png"
+}, {
+  "id" : 1012,
+  "name" : "职场高手",
+  "type" : 4,
+  "value" : 0,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge_09.png",
+  "no" : "/bzyappclub/badge/badge_No_09.png"
+}, {
+  "id" : 1013,
+  "name" : "内测专属",
+  "type" : 5,
+  "value" : 0,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge_10.png",
+  "no" : "/bzyappclub/badge/badge_10.png"
+}, {
+  "id" : 1015,
+  "name" : "50级头像框",
+  "type" : 5,
+  "value" : 0,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge13.png",
+  "no" : "/bzyappclub/badge/badge_No_13.png"
+}, {
+  "id" : 1016,
+  "name" : "55级头像框",
+  "type" : 5,
+  "value" : 0,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge14.png",
+  "no" : "/bzyappclub/badge/badge_No_14.png"
+}, {
+  "id" : 1017,
+  "name" : "60级头像框",
+  "type" : 5,
+  "value" : 0,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge15.png",
+  "no" : "/bzyappclub/badge/badge_No_15.png"
+}, {
+  "id" : 1021,
+  "name" : "新人勋章",
+  "type" : 4,
+  "value" : 0,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge19.png",
+  "no" : "/bzyappclub/badge/badge_No_19.png"
+}, {
+  "id" : 1022,
+  "name" : "新人头像框",
+  "type" : 5,
+  "value" : 0,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge21.png",
+  "no" : "/bzyappclub/badge/badge_No_21.png"
+}, {
+  "id" : 3003,
+  "name" : "鲜花",
+  "type" : 6,
+  "value" : 10,
+  "max" : 9999,
+  "pic" : "/bzyappclub/badge/badge06.png",
+  "no" : "/bzyappclub/badge/badge06.png"
+}, {
+  "id" : 3005,
+  "name" : "礼盒",
+  "type" : 6,
+  "value" : 20,
+  "max" : 9999,
+  "pic" : "/bzyappclub/badge/badge08.png",
+  "no" : "/bzyappclub/badge/badge08.png"
+}, {
+  "id" : 3004,
+  "name" : "奖杯",
+  "type" : 6,
+  "value" : 30,
+  "max" : 9999,
+  "pic" : "/bzyappclub/badge/badge07.png",
+  "no" : "/bzyappclub/badge/badge07.png"
+}, {
+  "id" : 3001,
+  "name" : "战术目镜",
+  "type" : 6,
+  "value" : 50,
+  "max" : 9999,
+  "pic" : "/bzyappclub/badge/badge04.png",
+  "no" : "/bzyappclub/badge/badge04.png"
+}, {
+  "id" : 3002,
+  "name" : "科技目镜",
+  "type" : 6,
+  "value" : 80,
+  "max" : 9999,
+  "pic" : "/bzyappclub/badge/badge05.png",
+  "no" : "/bzyappclub/badge/badge05.png"
+}, {
+  "id" : 4001,
+  "name" : "普通宝箱",
+  "type" : 7,
+  "value" : 0,
+  "max" : 9999,
+  "pic" : "/bzyappclub/badge/badge09.png",
+  "no" : "/bzyappclub/badge/badge09.png"
+}, {
+  "id" : 4002,
+  "name" : "超级宝箱",
+  "type" : 7,
+  "value" : 0,
+  "max" : 9999,
+  "pic" : "/bzyappclub/badge/badge10.png",
+  "no" : "/bzyappclub/badge/badge10.png"
+}, {
+  "id" : 4003,
+  "name" : "成就宝箱",
+  "type" : 7,
+  "value" : 0,
+  "max" : 9999,
+  "pic" : "/bzyappclub/badge/badge11.png",
+  "no" : "/bzyappclub/badge/badge11.png"
+}, {
+  "id" : 1018,
+  "name" : "普通头像框",
+  "type" : 5,
+  "value" : 0,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge16.png",
+  "no" : "/bzyappclub/badge/badge_No_16.png"
+}, {
+  "id" : 1019,
+  "name" : "典藏头像框",
+  "type" : 5,
+  "value" : 0,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge17.png",
+  "no" : "/bzyappclub/badge/badge_No_17.png"
+}, {
+  "id" : 1020,
+  "name" : "传说头像框",
+  "type" : 5,
+  "value" : 0,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge18.png",
+  "no" : "/bzyappclub/badge/badge_No_18.png"
+}, {
+  "id" : 5001,
+  "name" : "成就碎片",
+  "type" : 8,
+  "value" : 0,
+  "max" : 9999,
+  "pic" : "/bzyappclub/badge/badge20.png",
+  "no" : "/bzyappclub/badge/badge20.png"
+}, {
+  "id" : 1023,
+  "name" : "内测专属",
+  "type" : 4,
+  "value" : 0,
+  "max" : 1,
+  "pic" : "/bzyappclub/badge/badge_11.png",
+  "no" : "/bzyappclub/badge/badge_No_11.png"
+} ]

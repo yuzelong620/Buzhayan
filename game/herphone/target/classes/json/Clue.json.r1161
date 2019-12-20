@@ -1,0 +1,2136 @@
+[ {
+  "id" : 1,
+  "desc" : "你是谁",
+  "gameid" : 31,
+  "chatid" : 3,
+  "cid" : 19,
+  "value" : 1
+}, {
+  "id" : 2,
+  "desc" : "是否会被发现",
+  "gameid" : 32,
+  "chatid" : 0,
+  "cid" : 61,
+  "value" : 1
+}, {
+  "id" : 3,
+  "desc" : "关系？",
+  "gameid" : 33,
+  "chatid" : 1,
+  "cid" : 1,
+  "value" : 1
+}, {
+  "id" : 48,
+  "desc" : "她是谁？",
+  "gameid" : 35,
+  "chatid" : 0,
+  "cid" : 75,
+  "value" : 1
+}, {
+  "id" : 49,
+  "desc" : "证据已备齐，现在就差把犯人揪出来了",
+  "gameid" : 36,
+  "chatid" : 0,
+  "cid" : 60,
+  "value" : 1
+}, {
+  "id" : 50,
+  "desc" : "正确的案情是？",
+  "gameid" : 37,
+  "chatid" : 0,
+  "cid" : 42,
+  "value" : 1
+}, {
+  "id" : 51,
+  "desc" : "不可能出现的情况是？",
+  "gameid" : 38,
+  "chatid" : 0,
+  "cid" : 20,
+  "value" : 1
+}, {
+  "id" : 52,
+  "desc" : "请问凶手是谁？",
+  "gameid" : 39,
+  "chatid" : 0,
+  "cid" : 50,
+  "value" : 1
+}, {
+  "id" : 53,
+  "desc" : "综合以上线索，请分析女孩被藏在哪个小屋，成功解救女孩并抓获犯罪的夫妇",
+  "gameid" : 40,
+  "chatid" : 0,
+  "cid" : 205,
+  "value" : 1
+}, {
+  "id" : 54,
+  "desc" : "阿远到底杀了谁？",
+  "gameid" : 43,
+  "chatid" : 0,
+  "cid" : 61,
+  "value" : 1
+}, {
+  "id" : 55,
+  "desc" : "小爱自杀后,她的灵魂去哪了？",
+  "gameid" : 44,
+  "chatid" : 0,
+  "cid" : 86,
+  "value" : 1
+}, {
+  "id" : 56,
+  "desc" : "是否丢掉手写板？",
+  "gameid" : 45,
+  "chatid" : 0,
+  "cid" : 113,
+  "value" : 1
+}, {
+  "id" : 57,
+  "desc" : "请判断凶手是谁",
+  "gameid" : 46,
+  "chatid" : 0,
+  "cid" : 29,
+  "value" : 1
+}, {
+  "id" : 58,
+  "desc" : "吴未提前做了什么自救措施？",
+  "gameid" : 47,
+  "chatid" : 1,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 59,
+  "desc" : "吴未看到拜金女的手机画面有什么？",
+  "gameid" : 47,
+  "chatid" : 2,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 60,
+  "desc" : "吴未看到男人手机上的什么消息？",
+  "gameid" : 47,
+  "chatid" : 3,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 61,
+  "desc" : "女人要财产的目的是什么？",
+  "gameid" : 47,
+  "chatid" : 4,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 62,
+  "desc" : "吴未看到了什么？",
+  "gameid" : 47,
+  "chatid" : 5,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 63,
+  "desc" : "下辈报恩：女人是吃完饭是要做什么？",
+  "gameid" : 47,
+  "chatid" : 5,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 64,
+  "desc" : "女孩行骗没暴露什么破绽？",
+  "gameid" : 42,
+  "chatid" : 1,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 65,
+  "desc" : "旅行社骗人的伎俩不包含什么？",
+  "gameid" : 42,
+  "chatid" : 2,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 66,
+  "desc" : "聋哑女暴露出的破绽不包含什么？",
+  "gameid" : 42,
+  "chatid" : 3,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 67,
+  "desc" : "女酒托露出的马脚中，以下哪一项是正确的？",
+  "gameid" : 42,
+  "chatid" : 4,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 68,
+  "desc" : "假保洁员露出的破绽不包含什么？",
+  "gameid" : 42,
+  "chatid" : 5,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 69,
+  "desc" : "小侦探没有发现偷窥狂身上的什么线索？",
+  "gameid" : 42,
+  "chatid" : 6,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 70,
+  "desc" : "两个男女之间的可疑行为不包含什么？",
+  "gameid" : 42,
+  "chatid" : 7,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 71,
+  "desc" : "男女之间的可疑行为，下面哪个选项有提及？",
+  "gameid" : 42,
+  "chatid" : 8,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 72,
+  "desc" : "男人没有暴露什么骗术细节？",
+  "gameid" : 42,
+  "chatid" : 9,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 73,
+  "desc" : "视频中没提及扮玩偶的人有什么骗术？",
+  "gameid" : 42,
+  "chatid" : 10,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 74,
+  "desc" : "小侦探发现流浪汉跟踪他的细节不包含？",
+  "gameid" : 42,
+  "chatid" : 11,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 75,
+  "desc" : "小侦探发现人贩的破绽不包含什么？",
+  "gameid" : 42,
+  "chatid" : 12,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 76,
+  "desc" : "小侦探不上车的原因不包含哪点？",
+  "gameid" : 42,
+  "chatid" : 13,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 77,
+  "desc" : "小侦探感到危险的理由不包含什么？",
+  "gameid" : 42,
+  "chatid" : 14,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 78,
+  "desc" : "小侦探提前发现了什么？",
+  "gameid" : 42,
+  "chatid" : 15,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 79,
+  "desc" : "小侦探发现酒店的可疑处不包括什么？",
+  "gameid" : 42,
+  "chatid" : 16,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 80,
+  "desc" : "小侦探发现屋里有人的可疑点不包含什么？",
+  "gameid" : 42,
+  "chatid" : 17,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 81,
+  "desc" : "以下对歹徒暴露细节的选项，不正确的是？",
+  "gameid" : 42,
+  "chatid" : 18,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 82,
+  "desc" : "骗子露出的破绽不包含什么？",
+  "gameid" : 42,
+  "chatid" : 19,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 83,
+  "desc" : "骗子团伙露出的破绽不包含什么？",
+  "gameid" : 42,
+  "chatid" : 20,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 84,
+  "desc" : "你发现了什么？",
+  "gameid" : 41,
+  "chatid" : 0,
+  "cid" : 56,
+  "value" : 1
+}, {
+  "id" : 85,
+  "desc" : "有关女人的真相是什么？",
+  "gameid" : 50,
+  "chatid" : 0,
+  "cid" : 35,
+  "value" : 1
+}, {
+  "id" : 86,
+  "desc" : "谁是真正的拜金女",
+  "gameid" : 51,
+  "chatid" : 0,
+  "cid" : 36,
+  "value" : 1
+}, {
+  "id" : 87,
+  "desc" : "阿远到底杀了谁？",
+  "gameid" : 43,
+  "chatid" : 0,
+  "cid" : 61,
+  "value" : 1
+}, {
+  "id" : 88,
+  "desc" : "案件的真相是什么？",
+  "gameid" : 49,
+  "chatid" : 0,
+  "cid" : 111,
+  "value" : 1
+}, {
+  "id" : 89,
+  "desc" : "王大力没暴露什么证据？",
+  "gameid" : 52,
+  "chatid" : 1,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 90,
+  "desc" : "薛玲倩没暴露出什么破绽？",
+  "gameid" : 52,
+  "chatid" : 2,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 91,
+  "desc" : "以下哪个是芳芳推理涉及到的？",
+  "gameid" : 52,
+  "chatid" : 3,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 92,
+  "desc" : "芳芳美没通过什么来推测他们不是情侣？",
+  "gameid" : 52,
+  "chatid" : 4,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 93,
+  "desc" : "老师没留给芳芳什么线索？",
+  "gameid" : 52,
+  "chatid" : 5,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 94,
+  "desc" : "王大力没暴露什么线索？",
+  "gameid" : 52,
+  "chatid" : 6,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 95,
+  "desc" : "倩倩的钱上没有什么味道？",
+  "gameid" : 52,
+  "chatid" : 7,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 96,
+  "desc" : "对于被栽赃，倩倩没有表露出什么神情？",
+  "gameid" : 52,
+  "chatid" : 8,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 97,
+  "desc" : "芳芳对展斌的行为没做什么？",
+  "gameid" : 52,
+  "chatid" : 9,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 98,
+  "desc" : "玲倩没暴露什么撒谎的表现？",
+  "gameid" : 52,
+  "chatid" : 10,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 99,
+  "desc" : "案件的真相是什么？",
+  "gameid" : 49,
+  "chatid" : 0,
+  "cid" : 111,
+  "value" : 1
+}, {
+  "id" : 100,
+  "desc" : "张老思会回答什么？",
+  "gameid" : 53,
+  "chatid" : 1,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 101,
+  "desc" : "老板暗示老思想去哪团建？",
+  "gameid" : 53,
+  "chatid" : 2,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 102,
+  "desc" : "老思为什么不让拍摄了？",
+  "gameid" : 53,
+  "chatid" : 3,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 103,
+  "desc" : "老思没用哪种方法找线索？",
+  "gameid" : 53,
+  "chatid" : 4,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 104,
+  "desc" : "老板的诗里没提到什么信息?",
+  "gameid" : 53,
+  "chatid" : 5,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 105,
+  "desc" : "老板口中的小强应该是谁？",
+  "gameid" : 53,
+  "chatid" : 6,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 106,
+  "desc" : "老板想让老思买什么花？",
+  "gameid" : 53,
+  "chatid" : 7,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 107,
+  "desc" : "老板没有给老思什么线索？",
+  "gameid" : 53,
+  "chatid" : 8,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 108,
+  "desc" : "老板是想干什么？",
+  "gameid" : 53,
+  "chatid" : 9,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 109,
+  "desc" : "给老板留的谜题是什么？",
+  "gameid" : 53,
+  "chatid" : 10,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 110,
+  "desc" : "老板的这道题是什么意思？",
+  "gameid" : 53,
+  "chatid" : 11,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 111,
+  "desc" : "老板的BBQ不是什么意思？",
+  "gameid" : 53,
+  "chatid" : 12,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 112,
+  "desc" : "老板在暗示老思什么？",
+  "gameid" : 53,
+  "chatid" : 13,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 113,
+  "desc" : "这种情况最好的做法是什么？",
+  "gameid" : 53,
+  "chatid" : 14,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 114,
+  "desc" : "老板想吃什么？",
+  "gameid" : 53,
+  "chatid" : 15,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 115,
+  "desc" : "正确的意思是？",
+  "gameid" : 53,
+  "chatid" : 16,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 116,
+  "desc" : "老板想让老思干什么？",
+  "gameid" : 53,
+  "chatid" : 17,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 117,
+  "desc" : "老板想告诉老思什么？",
+  "gameid" : 53,
+  "chatid" : 18,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 118,
+  "desc" : "老板暗示了张老思什么？",
+  "gameid" : 53,
+  "chatid" : 19,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 119,
+  "desc" : "老板想让张老思干什么？",
+  "gameid" : 53,
+  "chatid" : 20,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 120,
+  "desc" : "老板为什么敲了两下桌子",
+  "gameid" : 53,
+  "chatid" : 21,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 121,
+  "desc" : "张老思遗漏了什么细节？",
+  "gameid" : 53,
+  "chatid" : 22,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 122,
+  "desc" : "老板给他车钥匙是想干什么？",
+  "gameid" : 53,
+  "chatid" : 23,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 123,
+  "desc" : "老板怎么了？",
+  "gameid" : 53,
+  "chatid" : 24,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 124,
+  "desc" : "“五饼”没包含什么信息？",
+  "gameid" : 53,
+  "chatid" : 25,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 125,
+  "desc" : "诗的谜底是哪个人名？",
+  "gameid" : 53,
+  "chatid" : 26,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 126,
+  "desc" : "“五筒”没涉及到什么有关5的信息？",
+  "gameid" : 53,
+  "chatid" : 27,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 127,
+  "desc" : "谁拿了张老思的辣条？",
+  "gameid" : 53,
+  "chatid" : 28,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 128,
+  "desc" : "需要帮老板订什么？",
+  "gameid" : 53,
+  "chatid" : 29,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 129,
+  "desc" : "老板想去的景点没有哪个？",
+  "gameid" : 53,
+  "chatid" : 30,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 130,
+  "desc" : "问题的更明智的答案是什么？",
+  "gameid" : 53,
+  "chatid" : 31,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 131,
+  "desc" : "数字“0”代表什么意思？",
+  "gameid" : 53,
+  "chatid" : 32,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 132,
+  "desc" : "老板想怎么随红包？",
+  "gameid" : 53,
+  "chatid" : 33,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 133,
+  "desc" : "这个男人的目的是什么？",
+  "gameid" : 54,
+  "chatid" : 1,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 134,
+  "desc" : "为什么琪琪可以谈成合同？",
+  "gameid" : 54,
+  "chatid" : 2,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 135,
+  "desc" : "为什么在对方第一次报价没有决定成交交易？",
+  "gameid" : 54,
+  "chatid" : 3,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 136,
+  "desc" : "琪琪猜到这个阿姨的身份是什么？",
+  "gameid" : 54,
+  "chatid" : 4,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 137,
+  "desc" : "这个女职员为什么不喝奶茶？",
+  "gameid" : 54,
+  "chatid" : 5,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 138,
+  "desc" : "琪琪为什么收留这位老大爷？",
+  "gameid" : 54,
+  "chatid" : 6,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 139,
+  "desc" : "琪琪为什么多让大妈干一个小时活？",
+  "gameid" : 54,
+  "chatid" : 7,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 140,
+  "desc" : "琪琪回给这位少年安排什么工作？",
+  "gameid" : 54,
+  "chatid" : 8,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 141,
+  "desc" : "这个少女是林夫人的亲妹妹吗？",
+  "gameid" : 54,
+  "chatid" : 9,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 142,
+  "desc" : "为什么琪琪确定对方JG在300W到400W之间？",
+  "gameid" : 54,
+  "chatid" : 10,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 143,
+  "desc" : "为什么琪琪助理要用洁面液？",
+  "gameid" : 54,
+  "chatid" : 11,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 144,
+  "desc" : "为什么琪琪要这么做？",
+  "gameid" : 54,
+  "chatid" : 12,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 145,
+  "desc" : "琪琪接下来会做什么？",
+  "gameid" : 54,
+  "chatid" : 13,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 146,
+  "desc" : "琪琪为什么要陪对方打球？",
+  "gameid" : 54,
+  "chatid" : 14,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 147,
+  "desc" : "为什么琪琪要送客？",
+  "gameid" : 54,
+  "chatid" : 15,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 148,
+  "desc" : "阿姨怎么摔倒的？",
+  "gameid" : 54,
+  "chatid" : 16,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 149,
+  "desc" : "哪个不是琪琪要订烛光晚餐的线索？",
+  "gameid" : 54,
+  "chatid" : 17,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 150,
+  "desc" : "琪琪为什么说赚回来了？",
+  "gameid" : 54,
+  "chatid" : 18,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 151,
+  "desc" : "琪琪没通过什么认为老板很不舒服？",
+  "gameid" : 54,
+  "chatid" : 19,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 152,
+  "desc" : "琪琪怎么发现遇到渣男了？",
+  "gameid" : 54,
+  "chatid" : 20,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 153,
+  "desc" : "李总是个什么样的人？",
+  "gameid" : 54,
+  "chatid" : 21,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 154,
+  "desc" : "“亲戚”找琪琪什么事？",
+  "gameid" : 54,
+  "chatid" : 22,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 155,
+  "desc" : "老板为什么重用琪琪？",
+  "gameid" : 54,
+  "chatid" : 23,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 156,
+  "desc" : "体现出琪琪是个什么样的人？",
+  "gameid" : 54,
+  "chatid" : 24,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 157,
+  "desc" : "这件事体现出琪秘书的什么品质？",
+  "gameid" : 54,
+  "chatid" : 25,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 158,
+  "desc" : "琪琪的前男友是什么样的人？",
+  "gameid" : 54,
+  "chatid" : 26,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 159,
+  "desc" : "怎么评价琪琪的报复行为？",
+  "gameid" : 54,
+  "chatid" : 27,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 160,
+  "desc" : "老板让琪琪应付什么？",
+  "gameid" : 54,
+  "chatid" : 28,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 161,
+  "desc" : "以下哪个还会是琪琪的特质？",
+  "gameid" : 54,
+  "chatid" : 29,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 162,
+  "desc" : "能看出琪琪是一个什么样的人？",
+  "gameid" : 54,
+  "chatid" : 30,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 163,
+  "desc" : "琪琪发现董事长的什么不良行为？",
+  "gameid" : 54,
+  "chatid" : 31,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 164,
+  "desc" : "琪秘书为什么说他是男朋友？",
+  "gameid" : 54,
+  "chatid" : 32,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 165,
+  "desc" : "体现出琪琪的什么特质？",
+  "gameid" : 54,
+  "chatid" : 33,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 166,
+  "desc" : "琪琪抓住了陈小姐什么把柄？",
+  "gameid" : 54,
+  "chatid" : 34,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 167,
+  "desc" : "琪琪在教导员工什么？",
+  "gameid" : 54,
+  "chatid" : 35,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 168,
+  "desc" : "下属对琪琪的行为叫什么？",
+  "gameid" : 54,
+  "chatid" : 36,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 169,
+  "desc" : "拒绝和琪琪合作会怎么样？",
+  "gameid" : 54,
+  "chatid" : 37,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 170,
+  "desc" : "新来员工是什么行为？",
+  "gameid" : 54,
+  "chatid" : 38,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 171,
+  "desc" : "凶手是谁？",
+  "gameid" : 55,
+  "chatid" : 1,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 172,
+  "desc" : "小雪想到了什么？",
+  "gameid" : 55,
+  "chatid" : 2,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 173,
+  "desc" : "小雪意识到了什么？",
+  "gameid" : 55,
+  "chatid" : 3,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 174,
+  "desc" : "小雪为什么大吃一惊？",
+  "gameid" : 55,
+  "chatid" : 4,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 175,
+  "desc" : "凶手是谁？",
+  "gameid" : 55,
+  "chatid" : 5,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 176,
+  "desc" : "凶手是谁？",
+  "gameid" : 55,
+  "chatid" : 6,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 177,
+  "desc" : "小雪想到了什么？",
+  "gameid" : 55,
+  "chatid" : 7,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 178,
+  "desc" : "为什么警察说小雪是罪人？",
+  "gameid" : 55,
+  "chatid" : 8,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 179,
+  "desc" : "这张照片与破案有什么关系呢？",
+  "gameid" : 55,
+  "chatid" : 9,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 180,
+  "desc" : "录像带里播放是什么？",
+  "gameid" : 55,
+  "chatid" : 10,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 181,
+  "desc" : "阿良怎么击中的小偷？",
+  "gameid" : 55,
+  "chatid" : 11,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 182,
+  "desc" : "护士说了什么？",
+  "gameid" : 55,
+  "chatid" : 12,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 183,
+  "desc" : "照片上是什么？",
+  "gameid" : 55,
+  "chatid" : 13,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 184,
+  "desc" : "谁是偷窃贼？",
+  "gameid" : 55,
+  "chatid" : 14,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 185,
+  "desc" : "阿良说了什么？",
+  "gameid" : 55,
+  "chatid" : 15,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 186,
+  "desc" : "小女孩经历了什么？",
+  "gameid" : 55,
+  "chatid" : 16,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 187,
+  "desc" : "小雪发现了什么？",
+  "gameid" : 55,
+  "chatid" : 17,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 188,
+  "desc" : "本人上写的是什么？",
+  "gameid" : 55,
+  "chatid" : 18,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 189,
+  "desc" : "小雪意识到了什么？",
+  "gameid" : 55,
+  "chatid" : 19,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 190,
+  "desc" : "小雪看到了什么？",
+  "gameid" : 55,
+  "chatid" : 20,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 191,
+  "desc" : "你知道同事说了什么吗？",
+  "gameid" : 55,
+  "chatid" : 21,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 192,
+  "desc" : "他们两个在害怕谁？",
+  "gameid" : 55,
+  "chatid" : 22,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 193,
+  "desc" : "十七想到了什么？",
+  "gameid" : 55,
+  "chatid" : 23,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 194,
+  "desc" : "谁最危险？",
+  "gameid" : 55,
+  "chatid" : 24,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 195,
+  "desc" : "鹏鹏明白了什么？",
+  "gameid" : 58,
+  "chatid" : 1,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 196,
+  "desc" : "小明抽到的能力是什么？",
+  "gameid" : 58,
+  "chatid" : 2,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 197,
+  "desc" : "小福为什么能给助手发红包？",
+  "gameid" : 58,
+  "chatid" : 3,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 198,
+  "desc" : "小明为什么没拿到真的胶带？",
+  "gameid" : 58,
+  "chatid" : 4,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 199,
+  "desc" : "小华为什么听到“罢工”？",
+  "gameid" : 58,
+  "chatid" : 5,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 200,
+  "desc" : "为什么小明留下来加班？",
+  "gameid" : 58,
+  "chatid" : 6,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 201,
+  "desc" : "小明把水给到女同事的目的是？",
+  "gameid" : 58,
+  "chatid" : 7,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 202,
+  "desc" : "王冠的“法力”是什么？",
+  "gameid" : 58,
+  "chatid" : 8,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 203,
+  "desc" : "小倩为什么听到鸡叫声？",
+  "gameid" : 58,
+  "chatid" : 9,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 204,
+  "desc" : "鹏鹏继续变胖会被叫什么？",
+  "gameid" : 58,
+  "chatid" : 10,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 205,
+  "desc" : "小东怎么消失了？",
+  "gameid" : 58,
+  "chatid" : 11,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 206,
+  "desc" : "诈骗团伙怎么知道验证码的？",
+  "gameid" : 58,
+  "chatid" : 12,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 207,
+  "desc" : "这一系列的事件证明了什么理论？",
+  "gameid" : 58,
+  "chatid" : 13,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 208,
+  "desc" : "小明意识到了什么？",
+  "gameid" : 58,
+  "chatid" : 14,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 209,
+  "desc" : "为什么水管总有怪响？",
+  "gameid" : 58,
+  "chatid" : 15,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 210,
+  "desc" : "小寒的男友是个什么样的人？",
+  "gameid" : 58,
+  "chatid" : 16,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 211,
+  "desc" : "玩家在密室拿走的东西不包括什么？",
+  "gameid" : 58,
+  "chatid" : 17,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 212,
+  "desc" : "小明是否会被传送到家？",
+  "gameid" : 58,
+  "chatid" : 18,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 213,
+  "desc" : "小倩是不是在外星人发消息？",
+  "gameid" : 58,
+  "chatid" : 19,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 214,
+  "desc" : "小倩通过什么措施来抵抗美食诱惑",
+  "gameid" : 58,
+  "chatid" : 20,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 215,
+  "desc" : "请问哪一个是小明的手机？",
+  "gameid" : 58,
+  "chatid" : 21,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 216,
+  "desc" : "小明选择什么职业？",
+  "gameid" : 58,
+  "chatid" : 22,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 217,
+  "desc" : "网友选择垃圾是什么？",
+  "gameid" : 58,
+  "chatid" : 23,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 218,
+  "desc" : "到底发生了什么？",
+  "gameid" : 58,
+  "chatid" : 24,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 219,
+  "desc" : "接下来小明会做什么？",
+  "gameid" : 58,
+  "chatid" : 25,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 220,
+  "desc" : "小华用另一个手机干什么？",
+  "gameid" : 58,
+  "chatid" : 26,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 221,
+  "desc" : "是谁在高空抛物？",
+  "gameid" : 58,
+  "chatid" : 27,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 222,
+  "desc" : "鹏鹏为什么会突然睡着？",
+  "gameid" : 58,
+  "chatid" : 28,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 223,
+  "desc" : "真正有保鲜作用的是什么？",
+  "gameid" : 58,
+  "chatid" : 29,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 224,
+  "desc" : "小明下一步会怎样？",
+  "gameid" : 58,
+  "chatid" : 30,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 225,
+  "desc" : "小东为什么说没关系了？",
+  "gameid" : 58,
+  "chatid" : 31,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 226,
+  "desc" : "为什么字是反的？",
+  "gameid" : 58,
+  "chatid" : 32,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 227,
+  "desc" : "黑衣男没暴露什么破绽？",
+  "gameid" : 59,
+  "chatid" : 1,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 228,
+  "desc" : "罗本没用什么套路把妹？",
+  "gameid" : 59,
+  "chatid" : 2,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 229,
+  "desc" : "假定罗本是坏人，追他的人是谁？",
+  "gameid" : 59,
+  "chatid" : 3,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 230,
+  "desc" : "女孩没对罗本撒什么谎？",
+  "gameid" : 59,
+  "chatid" : 4,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 231,
+  "desc" : "哪个选项不是这三人撒的谎？",
+  "gameid" : 59,
+  "chatid" : 5,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 232,
+  "desc" : "罗本主要的报警目的是？",
+  "gameid" : 59,
+  "chatid" : 6,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 233,
+  "desc" : "杀死罗本的是谁？",
+  "gameid" : 59,
+  "chatid" : 7,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 234,
+  "desc" : "罗本老师怎么发现学生玩手机？",
+  "gameid" : 59,
+  "chatid" : 8,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 235,
+  "desc" : "可以断定这是一起什么性质案件？",
+  "gameid" : 59,
+  "chatid" : 9,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 236,
+  "desc" : "老头子最后为什么说“彩虹”？",
+  "gameid" : 59,
+  "chatid" : 10,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 237,
+  "desc" : "罗本为什么哭了？",
+  "gameid" : 59,
+  "chatid" : 11,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 238,
+  "desc" : "事件在按什么计划进行？",
+  "gameid" : 59,
+  "chatid" : 12,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 239,
+  "desc" : "罗本为什么跟爸爸说奶茶都靠他了？",
+  "gameid" : 59,
+  "chatid" : 13,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 240,
+  "desc" : "骗罗本用的是什么暗号？",
+  "gameid" : 59,
+  "chatid" : 14,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 241,
+  "desc" : "真正让他暴露的是什么破绽？",
+  "gameid" : 59,
+  "chatid" : 15,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 242,
+  "desc" : "进去后为什么和罗本家一样？",
+  "gameid" : 59,
+  "chatid" : 16,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 243,
+  "desc" : "罗本没用什么手段完成业绩？",
+  "gameid" : 59,
+  "chatid" : 17,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 244,
+  "desc" : "真正的嫌犯是谁？",
+  "gameid" : 59,
+  "chatid" : 18,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 245,
+  "desc" : "罗本被怎么套路出密码的？",
+  "gameid" : 59,
+  "chatid" : 19,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 246,
+  "desc" : "罗本用什么办法脱身的？",
+  "gameid" : 59,
+  "chatid" : 20,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 247,
+  "desc" : "为什么老师叫Steven到办公室",
+  "gameid" : 59,
+  "chatid" : 21,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 248,
+  "desc" : "老师是真有事吗",
+  "gameid" : 59,
+  "chatid" : 22,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 249,
+  "desc" : "为什么学生表现如此轻松？",
+  "gameid" : 59,
+  "chatid" : 23,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 250,
+  "desc" : "老黑接下来会干什么？",
+  "gameid" : 59,
+  "chatid" : 24,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 251,
+  "desc" : "老师为什么在黑板写天才与人才？",
+  "gameid" : 59,
+  "chatid" : 25,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 252,
+  "desc" : "猜猜老师接下来会做什么？",
+  "gameid" : 59,
+  "chatid" : 26,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 253,
+  "desc" : "老师手中的卡是黑卡吗？",
+  "gameid" : 59,
+  "chatid" : 27,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 254,
+  "desc" : "罗本会怎么表演？",
+  "gameid" : 59,
+  "chatid" : 28,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 255,
+  "desc" : "罗本怎么知道小雅没有拆开礼物？",
+  "gameid" : 59,
+  "chatid" : 29,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 256,
+  "desc" : "小凡会回答什么？",
+  "gameid" : 59,
+  "chatid" : 30,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 257,
+  "desc" : "这个女人是龙忧的姐姐吗？",
+  "gameid" : 59,
+  "chatid" : 31,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 258,
+  "desc" : "接下来老师会做什么？",
+  "gameid" : 59,
+  "chatid" : 32,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 259,
+  "desc" : "罗本老师会用什么对策？",
+  "gameid" : 59,
+  "chatid" : 33,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 260,
+  "desc" : "老师告诉他们这样做的目的？",
+  "gameid" : 59,
+  "chatid" : 34,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 261,
+  "desc" : "罗本为什么没下电梯？",
+  "gameid" : 59,
+  "chatid" : 35,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 262,
+  "desc" : "这位同学写的是什么翻译？",
+  "gameid" : 59,
+  "chatid" : 36,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 263,
+  "desc" : "蓝衣同学为什么指向罗本？",
+  "gameid" : 59,
+  "chatid" : 37,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 264,
+  "desc" : "以下哪个不是罗本撒的谎？",
+  "gameid" : 59,
+  "chatid" : 38,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 265,
+  "desc" : "罗本遇到的是什么怪事？",
+  "gameid" : 59,
+  "chatid" : 39,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 266,
+  "desc" : "罗本没发现什么破绽？",
+  "gameid" : 59,
+  "chatid" : 40,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 267,
+  "desc" : "罗本为什么说差不多了？",
+  "gameid" : 59,
+  "chatid" : 41,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 268,
+  "desc" : "这些师生怎么了？",
+  "gameid" : 59,
+  "chatid" : 42,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 269,
+  "desc" : "土包子减少麻烦的办法是？",
+  "gameid" : 59,
+  "chatid" : 43,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 270,
+  "desc" : "难道是她听错了吗？",
+  "gameid" : 60,
+  "chatid" : 1,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 271,
+  "desc" : "小敏在镜子里看到了什么晕倒？",
+  "gameid" : 60,
+  "chatid" : 2,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 272,
+  "desc" : "小林对小敏说了什么？",
+  "gameid" : 60,
+  "chatid" : 3,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 273,
+  "desc" : "小敏为什么慌忙跑开？",
+  "gameid" : 60,
+  "chatid" : 4,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 274,
+  "desc" : "小敏想到了什么？",
+  "gameid" : 60,
+  "chatid" : 5,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 275,
+  "desc" : "小敏为什么感到慌张？",
+  "gameid" : 60,
+  "chatid" : 6,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 276,
+  "desc" : "同事说了什么？",
+  "gameid" : 60,
+  "chatid" : 7,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 277,
+  "desc" : "小敏为什么跑回了家？",
+  "gameid" : 60,
+  "chatid" : 8,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 278,
+  "desc" : "小敏为什么打给了警察？",
+  "gameid" : 60,
+  "chatid" : 9,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 279,
+  "desc" : "小俊说了什么？",
+  "gameid" : 60,
+  "chatid" : 10,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 280,
+  "desc" : "小敏为什么会被解雇？",
+  "gameid" : 60,
+  "chatid" : 11,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 281,
+  "desc" : "小梨到底说了什么？",
+  "gameid" : 60,
+  "chatid" : 12,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 282,
+  "desc" : "小敏为什么要报警？",
+  "gameid" : 60,
+  "chatid" : 13,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 283,
+  "desc" : "小敏说了什么？",
+  "gameid" : 60,
+  "chatid" : 14,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 284,
+  "desc" : "小敏想到了什么？",
+  "gameid" : 60,
+  "chatid" : 15,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 285,
+  "desc" : "小敏想到了什么？",
+  "gameid" : 60,
+  "chatid" : 16,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 286,
+  "desc" : "他为什么掉头走了？",
+  "gameid" : 60,
+  "chatid" : 17,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 287,
+  "desc" : "小姐姐做了什么？",
+  "gameid" : 60,
+  "chatid" : 18,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 288,
+  "desc" : "男友说了什么？",
+  "gameid" : 60,
+  "chatid" : 19,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 289,
+  "desc" : "那个人说了什么？",
+  "gameid" : 60,
+  "chatid" : 20,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 290,
+  "desc" : "神秘女人为什么逃走？",
+  "gameid" : 61,
+  "chatid" : 1,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 291,
+  "desc" : "门外发生了什么？",
+  "gameid" : 61,
+  "chatid" : 2,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 292,
+  "desc" : "那天晚上究竟发生了什么？",
+  "gameid" : 61,
+  "chatid" : 3,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 293,
+  "desc" : "解阳明为什么有这样的情感变化？",
+  "gameid" : 61,
+  "chatid" : 4,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 294,
+  "desc" : "日记本里有什么秘密？",
+  "gameid" : 61,
+  "chatid" : 5,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 295,
+  "desc" : "他的男友怎么了？",
+  "gameid" : 61,
+  "chatid" : 6,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 296,
+  "desc" : "解阳明为什么吓得直冒冷汗？",
+  "gameid" : 61,
+  "chatid" : 7,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 297,
+  "desc" : "为什么小盐活了下来？",
+  "gameid" : 61,
+  "chatid" : 8,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 298,
+  "desc" : "小盐为什么要报警？",
+  "gameid" : 61,
+  "chatid" : 9,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 299,
+  "desc" : "哥哥做了什么？",
+  "gameid" : 61,
+  "chatid" : 10,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 300,
+  "desc" : "晨哥最终自由了吗？",
+  "gameid" : 61,
+  "chatid" : 11,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 301,
+  "desc" : "小盐为什么逃离聚会？",
+  "gameid" : 61,
+  "chatid" : 12,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 302,
+  "desc" : "到底发生了什么？",
+  "gameid" : 61,
+  "chatid" : 13,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 303,
+  "desc" : "窗外有什么？",
+  "gameid" : 61,
+  "chatid" : 14,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 304,
+  "desc" : "女友的爸爸说了什么？",
+  "gameid" : 61,
+  "chatid" : 15,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 305,
+  "desc" : "下一刻发生了什么？",
+  "gameid" : 61,
+  "chatid" : 16,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 306,
+  "desc" : "小盐为什么逃离宾馆？",
+  "gameid" : 61,
+  "chatid" : 17,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 307,
+  "desc" : "请问是谁有问题？",
+  "gameid" : 61,
+  "chatid" : 18,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 308,
+  "desc" : "疯子为什么没有中毒？",
+  "gameid" : 61,
+  "chatid" : 19,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 309,
+  "desc" : "大盐为什么害怕的跑了？",
+  "gameid" : 61,
+  "chatid" : 20,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 310,
+  "desc" : "小盐是怎么发现的？",
+  "gameid" : 61,
+  "chatid" : 21,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 311,
+  "desc" : "为什么两人都没走出去？",
+  "gameid" : 61,
+  "chatid" : 22,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 312,
+  "desc" : "小盐为什么抱头痛哭？",
+  "gameid" : 61,
+  "chatid" : 23,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 313,
+  "desc" : "解阳明说了什么？",
+  "gameid" : 61,
+  "chatid" : 24,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 314,
+  "desc" : "解阳明想到了什么？",
+  "gameid" : 61,
+  "chatid" : 25,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 315,
+  "desc" : "叶宇为什么哭？",
+  "gameid" : 61,
+  "chatid" : 26,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 316,
+  "desc" : "小盐为什么飞奔回家？",
+  "gameid" : 61,
+  "chatid" : 27,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 317,
+  "desc" : "三个人应该怎样分汤呢？",
+  "gameid" : 61,
+  "chatid" : 28,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 318,
+  "desc" : "为什么大盐被认定为凶手？",
+  "gameid" : 61,
+  "chatid" : 29,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 319,
+  "desc" : "解阳明为什么晕倒了？",
+  "gameid" : 61,
+  "chatid" : 30,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 320,
+  "desc" : "接下来发生了什么？",
+  "gameid" : 61,
+  "chatid" : 31,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 321,
+  "desc" : "这到底是怎么回事？",
+  "gameid" : 61,
+  "chatid" : 32,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 322,
+  "desc" : "为什么铃声响时很紧张？",
+  "gameid" : 61,
+  "chatid" : 33,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 323,
+  "desc" : "叶宇为什么被解雇了？",
+  "gameid" : 61,
+  "chatid" : 34,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 324,
+  "desc" : "小盐为什么被遇害了？",
+  "gameid" : 61,
+  "chatid" : 35,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 325,
+  "desc" : "晓夏为什么逃出房门？",
+  "gameid" : 61,
+  "chatid" : 36,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 326,
+  "desc" : "妻子看到了什么？",
+  "gameid" : 61,
+  "chatid" : 37,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 327,
+  "desc" : "晓夏为什么先惊恐后冷静？",
+  "gameid" : 61,
+  "chatid" : 38,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 328,
+  "desc" : "为什么天鹅肉不是这个味道？",
+  "gameid" : 61,
+  "chatid" : 39,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 329,
+  "desc" : "晓夏想到了什么？",
+  "gameid" : 61,
+  "chatid" : 40,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 330,
+  "desc" : "小盐为什么难逃一死？",
+  "gameid" : 61,
+  "chatid" : 41,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 331,
+  "desc" : "谁是凶手？",
+  "gameid" : 61,
+  "chatid" : 42,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 332,
+  "desc" : "小盐为什么露出惊恐的表情？",
+  "gameid" : 61,
+  "chatid" : 43,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 333,
+  "desc" : "解阳明说了什么？",
+  "gameid" : 61,
+  "chatid" : 44,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 334,
+  "desc" : "小盐为什么笑不出来了？",
+  "gameid" : 61,
+  "chatid" : 45,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 335,
+  "desc" : "为什么还是被捕了？",
+  "gameid" : 61,
+  "chatid" : 46,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 336,
+  "desc" : "晓夏为什么停下了？",
+  "gameid" : 61,
+  "chatid" : 47,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 337,
+  "desc" : "接下来发生了什么？",
+  "gameid" : 61,
+  "chatid" : 48,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 338,
+  "desc" : "解阳明说了什么？",
+  "gameid" : 61,
+  "chatid" : 49,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 339,
+  "desc" : "晓夏看到了什么？",
+  "gameid" : 61,
+  "chatid" : 50,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 340,
+  "desc" : "服务员为什么要这样问？",
+  "gameid" : 61,
+  "chatid" : 51,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 341,
+  "desc" : "男友说了什么？",
+  "gameid" : 61,
+  "chatid" : 52,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 342,
+  "desc" : "两个晓夏谁有问题？",
+  "gameid" : 61,
+  "chatid" : 53,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 343,
+  "desc" : "晓夏是怎么发现的？",
+  "gameid" : 61,
+  "chatid" : 54,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 344,
+  "desc" : "叶宇是怎么找到线索的？",
+  "gameid" : 61,
+  "chatid" : 55,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 345,
+  "desc" : "邻居为什么搬走了？",
+  "gameid" : 61,
+  "chatid" : 56,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 346,
+  "desc" : "叶宇为什么报警了？",
+  "gameid" : 61,
+  "chatid" : 57,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 347,
+  "desc" : "解阳明到底应该说什么？",
+  "gameid" : 61,
+  "chatid" : 58,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 348,
+  "desc" : "叶宇看到地上有什么？",
+  "gameid" : 61,
+  "chatid" : 59,
+  "cid" : 0,
+  "value" : 1
+}, {
+  "id" : 349,
+  "desc" : "晴岚为什么提分手？",
+  "gameid" : 61,
+  "chatid" : 60,
+  "cid" : 0,
+  "value" : 1
+} ]

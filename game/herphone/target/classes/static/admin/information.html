@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>系统客服</title>
+  <meta name="renderer" content="webkit">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <script type="text/javascript" src="js/jquery-3.2.1.js"></script>
+  <link rel="stylesheet" href="layui/css/layui.css" media="all">
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/publicCss.css">
+  <script type="text/javascript" src="js/login.js"></script>
+  <script type="text/javascript" src="js/util.js"></script>
+  <script src="layui/layui.js" charset="utf-8"></script>
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  <script src="js/information.js" charset="utf-8"></script>
+</head>
+<body>
+<br>
+	<div id="addData" align='center'style='display:table-cell; vertical-align:middle'><h4><b>发送内容</b></h4></div>
+		<div id="sendData">
+			<div id="content"><h4><b><span style='margin-left:0px;'>内容:</span></b></h4></div>
+			<div id="inData" contenteditable="true"></div>
+			<div style='margin-left:11px;'><h4><b>接收玩家 : </b></h4>
+				<div id="acceptPlayer"><input type="text" id="receivePlayer">
+				<button id="phoneReceive" class="btn btn-success">手机号接收</button>
+				<button class="btn btn-info" id="idReceive">ID接收</button>
+				<button class="btn btn-warning" id="allReceive">点击多选玩家发送</button>
+				</div>
+			</div>
+			<div id="allPlayers"><button class="btn btn-danger" id="allPlayerData">发送给所有玩家</button></div>
+			<div id="morePlayers"><button class="btn btn-primary" id="selected">发送给已选玩家</button></div>
+			<div class="radio" id="selects">
+				    <label><input type="radio" name="optionsRadios" id="optionsRadios1" value="0" checked>纯文本</label><br>
+				    <label><input type="radio" name="optionsRadios" id="optionsRadios2" value="1">文本加链接</label>
+			</div>
+		</div>
+	<br><br>
+<table class="layui-hide" id="information" lay-filter="information"></table>
+</body>
+<script type="text/html" id="history">
+  <a class="layui-btn layui-btn-normal" lay-event="his">查看历史纪录</a>
+</script>
+</html>

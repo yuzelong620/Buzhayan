@@ -1,0 +1,67 @@
+[ {
+  "id" : 1,
+  "power" : [ {
+    "key" : 2002,
+    "value" : 50
+  }, {
+    "key" : 2001,
+    "value" : 2
+  } ],
+  "type" : 1,
+  "sunSchedule" : 1
+}, {
+  "id" : 2,
+  "power" : [ {
+    "key" : 2002,
+    "value" : 30
+  }, {
+    "key" : 2001,
+    "value" : 2
+  } ],
+  "type" : 2,
+  "sunSchedule" : 1
+}, {
+  "id" : 3,
+  "power" : [ {
+    "key" : 2002,
+    "value" : 50
+  }, {
+    "key" : 2001,
+    "value" : 5
+  } ],
+  "type" : 3,
+  "sunSchedule" : 1
+}, {
+  "id" : 4,
+  "power" : [ {
+    "key" : 2002,
+    "value" : 50
+  }, {
+    "key" : 2001,
+    "value" : 5
+  } ],
+  "type" : 4,
+  "sunSchedule" : 20
+}, {
+  "id" : 5,
+  "power" : [ {
+    "key" : 2002,
+    "value" : 20
+  }, {
+    "key" : 2001,
+    "value" : 2
+  } ],
+  "type" : 5,
+  "sunSchedule" : 20
+}, {
+  "id" : 6,
+  "power" : [ {
+    "key" : 2002,
+    "value" : 50
+  }, {
+    "key" : 2001,
+    "value" : 5
+  } ],
+  "type" : 6,
+  "sunSchedule" : 1
+} ]

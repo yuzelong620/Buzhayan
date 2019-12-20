@@ -1,0 +1,43 @@
+[ {
+  "normalGoodsProbability" : [ {
+    "key" : 40000001,
+    "value" : 0.25
+  }, {
+    "key" : 40000002,
+    "value" : 0.35
+  }, {
+    "key" : 40000003,
+    "value" : 0.1
+  }, {
+    "key" : 40000004,
+    "value" : 0.1
+  }, {
+    "key" : 40000005,
+    "value" : 0.1
+  }, {
+    "key" : 10000006,
+    "value" : 0.1
+  } ],
+  "id" : 1,
+  "ios_assessor_phone" : [ "13252890128", "17604137703" ],
+  "discussPageCount" : 50,
+  "topLimit" : 2,
+  "topLimitPraiseNum" : 20,
+  "titleFansCount" : 80,
+  "titleHotDiscussCount" : 50,
+  "titleGameCount" : 10,
+  "titleOnline" : 72,
+  "discussContentLimit" : 200,
+  "messageContentLimit" : 300,
+  "messagePageCount" : 30,
+  "protectEyesTitleId" : 100001,
+  "blackListMax" : 100,
+  "dynamicPageCount" : 30,
+  "dynamicTextLimit" : 140,
+  "dynamicReplyTextLimit" : 60,
+  "pioneerId" : 100002,
+  "whitelistId" : [ "192.168.1.193", "127.0.0.1" ],
+  "defaultRegisteredTime" : "1569317965250",
+  "betaUserRewardId" : 1013,
+  "rewardTagId" : 10
+} ]

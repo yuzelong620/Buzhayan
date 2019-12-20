@@ -1,0 +1,5403 @@
+[ {
+  "id" : 1,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我想要的很简单"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/1-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/1-2.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/1-3.png"
+  } ],
+  "praiseNum" : 65,
+  "playerId" : 10001
+}, {
+  "id" : 2,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "在朋友圈看到的，恋爱中的人是不是都那么非主流"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/2%E2%80%8B.png"
+  } ],
+  "praiseNum" : 44,
+  "playerId" : 10002
+}, {
+  "id" : 3,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "天蝎通常不会把爱挂在嘴边，也不会轻易许下承诺，他们会把爱默默的藏在心里，所以才会恋人误解为不爱。其实并不是这样，他们会默默的为你做很多你不知道的事，恋爱中的蝎子是体贴心细的，明明不是温柔的人，却为你做尽温柔的事。请珍惜蝎子，他并不是对所有人都这样，只因你是你！"
+  } ],
+  "praiseNum" : 35,
+  "playerId" : 10003
+}, {
+  "id" : 4,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : "[{\n  \"type\": 1,\n  \"content\": \"2.人们常说：恋爱中的人是盲目的。在很多时候，陷入感情的一方是看不清另一方的态度的，他们常常陶醉于自己的奉献，总以为对方能看到自己的好，却不知对方不放在心上，你再多的好也入不了他的眼，更入不了他的心.\n\n所以我觉得单身挺好的。\"\n }]",
+  "praiseNum" : 40,
+  "playerId" : 10004
+}, {
+  "id" : 5,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : "[{\n  \"type\": 1,\n  \"content\": \"我不谈恋爱的主要原因：\n1.谈恋爱需要照顾对方情绪\n2.谈恋爱要经常洗头化妆\n3.谈恋爱会减少自由时间\n4.没人想和我谈恋爱 \"\n }]",
+  "praiseNum" : 33,
+  "playerId" : 10005
+}, {
+  "id" : 6,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : "[{\n  \"type\": 1,\n  \"content\": \"我不谈恋爱的主要原因：\n1.谈恋爱需要照顾对方情绪\n2.谈恋爱要经常洗头化妆\n3.谈恋爱会减少自由时间\n4.没人想和我谈恋爱 \"\n }]",
+  "praiseNum" : 32,
+  "playerId" : 10006
+}, {
+  "id" : 7,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "你永远不知道你的队友在怎样打游戏"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/3.png"
+  } ],
+  "praiseNum" : 63,
+  "playerId" : 10007
+}, {
+  "id" : 8,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "所谓爱情也不过是：看上了，追求了，好上了，开心了；不久后，腻了，吵了，淡了，散了。 "
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10008
+}, {
+  "id" : 9,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "so lucky, cause you can choose to love me or not, but myself only have to choose from loving you or loving you more. 你是幸运的，因为你可以选择爱我或不爱我，而我只能选择爱你还是更爱你。 "
+  } ],
+  "praiseNum" : 36,
+  "playerId" : 10009
+}, {
+  "id" : 10,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : "[{\n  \"type\": 1,\n  \"content\": \"十二星座恋爱分手的理由 \n白羊座：因为太累\n金牛座：因为天意\n双子座：太多理由\n巨蟹座：因为婚姻\n狮子座：因为厌倦\n处女座：因为完美\n天秤座：因为梦想\n天蝎座：因为不爱\n射手座：不要理由\n摩羯座：因为责任\n水瓶座：因为潇洒\n双鱼座：因为爱情 \"\n }]",
+  "praiseNum" : 38,
+  "playerId" : 10010
+}, {
+  "id" : 11,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "腾不出时间来睡觉的人，迟早会腾出时间来生病；腾不出时间来复习的人，迟早会腾出时间来补考；腾不出时间来谈恋爱的人，迟早会腾出时间来相亲……"
+  } ],
+  "praiseNum" : 52,
+  "playerId" : 10011
+}, {
+  "id" : 12,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : " 三年前刚开始谈恋爱时，两人在一块时我想大号，于是跟他说：“我去一下洗手间”……两年前还在热恋中“我去上厕所……一年前我们同居了：“我去大便”……现在已经结婚了：“我去拉屎”…… .."
+  } ],
+  "praiseNum" : 43,
+  "playerId" : 10012
+}, {
+  "id" : 13,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "你永远不知道你的队友是怎样打的游戏"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/4.png"
+  } ],
+  "praiseNum" : 52,
+  "playerId" : 10013
+}, {
+  "id" : 14,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "摩羯座的我瑟瑟发抖"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/5.png"
+  } ],
+  "praiseNum" : 53,
+  "playerId" : 10014
+}, {
+  "id" : 15,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "分手还体面不？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/6.png"
+  } ],
+  "praiseNum" : 44,
+  "playerId" : 10015
+}, {
+  "id" : 16,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "像极了爱情"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/7.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/7fm.jpg"
+  } ],
+  "praiseNum" : 35,
+  "playerId" : 10016
+}, {
+  "id" : 17,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "异地恋的正确见面方式"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/8.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/8fm.jpg"
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10017
+}, {
+  "id" : 18,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我爱你，不过这是最后一次了"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/9.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/9fm.png"
+  } ],
+  "praiseNum" : 65,
+  "playerId" : 10018
+}, {
+  "id" : 19,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "给未恋爱的人的忠告：只要不恋爱，就永远不会输给情敌"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/10.png"
+  } ],
+  "praiseNum" : 51,
+  "playerId" : 10019
+}, {
+  "id" : 20,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "金牛恋爱的真实写照"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/11.png"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10020
+}, {
+  "id" : 21,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "为啥回我的全是？？？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/12.png"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10021
+}, {
+  "id" : 22,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "这也太真实了"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/13.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/13fm.png"
+  } ],
+  "praiseNum" : 36,
+  "playerId" : 10022
+}, {
+  "id" : 23,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我也想要这样的日常啊！！！"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/14-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/14-2.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/14-3.png"
+  } ],
+  "praiseNum" : 59,
+  "playerId" : 10023
+}, {
+  "id" : 24,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我闻到了恋爱的酸臭味"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/15.png"
+  } ],
+  "praiseNum" : 75,
+  "playerId" : 10024
+}, {
+  "id" : 25,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "脱单流程图"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/16.png"
+  } ],
+  "praiseNum" : 45,
+  "playerId" : 10025
+}, {
+  "id" : 26,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "怎样正确回答女朋友"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/17-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/17-2.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/17-3.jpg"
+  } ],
+  "praiseNum" : 38,
+  "playerId" : 10026
+}, {
+  "id" : 27,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "大家对号入座"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/18.png"
+  } ],
+  "praiseNum" : 37,
+  "playerId" : 10027
+}, {
+  "id" : 28,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "异地恋流程"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/19.png"
+  } ],
+  "praiseNum" : 47,
+  "playerId" : 10028
+}, {
+  "id" : 29,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "比心弱爆了"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/20.png"
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10029
+}, {
+  "id" : 30,
+  "tagDesc" : "恋爱",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "周杰伦新歌的故事"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/21-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/21-2.png"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10030
+}, {
+  "id" : 31,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "【职场日常】1、电话24小时开机。2、当日事当日毕。3、用最少话把事说清。4、承受高压,5、相信方法总比问题多。6、用数据说话,7、要有多个信息源事实才清晰。8、煽动情绪带来流量，但解决不了问题。9、不要大惊小怪。10、职场当战场，上级是司令。"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10091
+}, {
+  "id" : 32,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "不得不说，这真的是职场的真实情况。"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/2.png"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10092
+}, {
+  "id" : 33,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "职场四象限：重要和紧急怎么选？一象限属于重要又急迫的事，一般肯定会做的事。二象限是重要但不紧急的事，重要还经常被忽略。三象限是不紧急也不重要的事，这个不用说太多。四象限是紧急但不重要的事。很容易掉入的陷阱。"
+  } ],
+  "praiseNum" : 36,
+  "playerId" : 10093
+}, {
+  "id" : 34,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "同事的辞职信...."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/4.png"
+  } ],
+  "praiseNum" : 59,
+  "playerId" : 10094
+}, {
+  "id" : 35,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "好工作标准是什么？1.不叫人烦2.有好职场3.叫人有盼头4.你和公司都走在正轨上"
+  } ],
+  "praiseNum" : 75,
+  "playerId" : 10095
+}, {
+  "id" : 36,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "请问吃可以当副业吗？"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/6.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/6fm.png"
+  } ],
+  "praiseNum" : 45,
+  "playerId" : 10096
+}, {
+  "id" : 37,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "不努力来人间干嘛！"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/7.png"
+  } ],
+  "praiseNum" : 38,
+  "playerId" : 10097
+}, {
+  "id" : 38,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "还有带薪吃饭、带薪睡觉..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/8-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/8-2.png"
+  } ],
+  "praiseNum" : 37,
+  "playerId" : 10098
+}, {
+  "id" : 39,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "好像销售岗位都是这样的...."
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/9.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/9fm.png"
+  } ],
+  "praiseNum" : 47,
+  "playerId" : 10099
+}, {
+  "id" : 40,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "这可能是每个上班族都有的通病吧"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/10-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/10-2.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/10-3.png"
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10100
+}, {
+  "id" : 41,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "经人介绍，到一家金融公司上班。公司在CBD，办公室豪华、气派、洋气、上档次。试用期每月工资1w。小王顿时成了金融白领。公司鼓励员工投资自己发行的理财产品，并签订了保底协议，年化收益率25%。小王一看有内部优惠，拉来亲朋好友投资了几百万，甚至抵押了房产贷款。几天后，老板失联跑路了...."
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10001
+}, {
+  "id" : 42,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "在公司工作1年多了，想辞职了，但又怕找不到更好的工作，现在感觉做什么都不上心，我可太难了啊~~~~~~"
+  } ],
+  "praiseNum" : 55,
+  "playerId" : 10002
+}, {
+  "id" : 43,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我只会嗝~可能这就是我为什么当不了老板的原因吧"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/13.png"
+  } ],
+  "praiseNum" : 52,
+  "playerId" : 10003
+}, {
+  "id" : 44,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "肯定是和领导讨论未来十年的发展趋势啊~"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/14.png"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10004
+}, {
+  "id" : 45,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "你最反感的公司规定是什么？我：所谓的不加班"
+  } ],
+  "praiseNum" : 44,
+  "playerId" : 10005
+}, {
+  "id" : 46,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "职场如战场，受教了！"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/16.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/16fm.png"
+  } ],
+  "praiseNum" : 35,
+  "playerId" : 10006
+}, {
+  "id" : 47,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "“收到”真的是我上班以来说的最多的两个字"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/17-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/17-2.png"
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10007
+}, {
+  "id" : 48,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "工作中必须搞清的九个顺序：1.先升值，再升职；2.先求同，再求异；3.先完成，再完美；4.先记录，再记忆；5.先解决心情，再解决事情；6.先交流，再交心；7.先成长，再成功；8.先站住，再站高；9.先仿造，再创造"
+  } ],
+  "praiseNum" : 65,
+  "playerId" : 10008
+}, {
+  "id" : 49,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "为什么干活再多也不受重视？有时候不是你做了什么，而是你没有照顾到对方的风格，影响你在对方心中的评价。有很多人为领导做了很多事情，但领导没有接收到。要用他听得懂的语言、用他习惯的方式让他领会到，这件事很重要。"
+  } ],
+  "praiseNum" : 51,
+  "playerId" : 10009
+}, {
+  "id" : 50,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "说出来你可能都不信，谁让人家是领导呢"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/20.png"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10010
+}, {
+  "id" : 51,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "mark一下"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/21.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/21fm.png"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10011
+}, {
+  "id" : 52,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "在外企里混，不仅要在中文里夹杂英文，而且还要熟练切换各种语境下同样词的不同发音。在说中文的时候念A-p-p，在说英文的时候念App.在说中文的时候念上海，说英文的时候念“伤害”......"
+  } ],
+  "praiseNum" : 36,
+  "playerId" : 10012
+}, {
+  "id" : 53,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "20-30岁是人生最关键的时期，毕业、求职、工作、恋爱、买房、结婚、生子，那么多人生大事密集涌来，哪个环节出了大差错都会影响终生，可能还会留下无法弥补的遗憾。尤其是事业，如果能早选定适合自己的方向，未来的路就会顺利很多。"
+  } ],
+  "praiseNum" : 59,
+  "playerId" : 10013
+}, {
+  "id" : 54,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "10种职场思维：1、想钓到鱼，就要像鱼那样思考；2、不要总显示比别人聪明；3、让对方做主角，自己甘愿做配角；4、目中无人，让你一败涂地；5、常与人争辩，你永难赢6、锋芒太露，下场不好；7、保持适当距离；8、树一个敌，等于立一堵墙；9、谦虚不虚伪，不苛求完美；10、失言不如无言。"
+  } ],
+  "praiseNum" : 75,
+  "playerId" : 10014
+}, {
+  "id" : 55,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "笑死我了"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/25.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/25fm.png"
+  } ],
+  "praiseNum" : 45,
+  "playerId" : 10015
+}, {
+  "id" : 56,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "当你的生活岌岌可危的时候，说明你的工作步入正轨了。当你的个人生活化为乌有时，就说明你要晋升了，而当你感觉累的喘不过气的时候，恭喜你，你要生病了！"
+  } ],
+  "praiseNum" : 38,
+  "playerId" : 10016
+}, {
+  "id" : 57,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我就想知道，这家公司现在还招人吗？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/27.png"
+  } ],
+  "praiseNum" : 37,
+  "playerId" : 10017
+}, {
+  "id" : 58,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "职场有哪些“潜规则”？ 1.理想很重要，但比理想更重要的是利益；2.表面是公义，心里是生意，这才是职场的本质；3.做事要藏拙，做人要露怯；4.规划要长远，拿钱要及时；5.在好上司手下做能臣，在坏上司手下做奸臣；6.老板对你讲的道理，永远都是对他有利的；7.上司不会适应你，只有你去适应上司。"
+  } ],
+  "praiseNum" : 47,
+  "playerId" : 10018
+}, {
+  "id" : 59,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我第一次职场上的人心险恶是同事给的，真的是醉了，就因为我招了一个你们喜欢的男人事专员就把我整走了？真的优秀呢！"
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10019
+}, {
+  "id" : 60,
+  "tagDesc" : "职场",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "还是小白的我有点慌了"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/30.png"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10020
+}, {
+  "id" : 61,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "说的好，我选择饮料。"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/1.png"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10021
+}, {
+  "id" : 62,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我怀疑你在为难我胖虎？？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/2-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/2-2.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/2-3.png"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10022
+}, {
+  "id" : 63,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "德国阿尔茨海默症防治协会给出的权威测试题，只要你能找到骆驼，就不会得老年痴呆症。 "
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/3.png"
+  } ],
+  "praiseNum" : 36,
+  "playerId" : 10023
+}, {
+  "id" : 64,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "某外企一道性格测试题：我对异性不感兴趣。选项：非常不符合，比较不符合，比较符合，非常符合。谁能解释一下它想测什么?"
+  } ],
+  "praiseNum" : 59,
+  "playerId" : 10024
+}, {
+  "id" : 65,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "前几天找个心理老师给我做了两个小时测试，做完了才发现其实我们每个人都并不了解自己，心理学果然很强大。"
+  } ],
+  "praiseNum" : 75,
+  "playerId" : 10025
+}, {
+  "id" : 66,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "从娃娃抓起可还行"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/6.png"
+  } ],
+  "praiseNum" : 45,
+  "playerId" : 10026
+}, {
+  "id" : 67,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "据说看不懂的都是00后..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/7.png"
+  } ],
+  "praiseNum" : 38,
+  "playerId" : 10027
+}, {
+  "id" : 68,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "1是女生吧？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/8.png"
+  } ],
+  "praiseNum" : 37,
+  "playerId" : 10028
+}, {
+  "id" : 69,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "当然是选D了"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/9.png"
+  } ],
+  "praiseNum" : 47,
+  "playerId" : 10029
+}, {
+  "id" : 70,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "51423？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/10.png"
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10030
+}, {
+  "id" : 71,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "优先孔雀，最后狗"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/11.png"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10031
+}, {
+  "id" : 72,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有一道股市测试题，假如今天股市总成交金额5000亿，因市场的大跌导致总市值缩水了2万亿，可是去掉印花税、手续费等直接交易成本，即使当天成交的5000亿也都算它全部灰飞烟灭，那还有接近1.5万亿的钱究竟去哪儿了?"
+  } ],
+  "praiseNum" : 55,
+  "playerId" : 10032
+}, {
+  "id" : 73,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我妈刚才给我爸发了条微信：“亲爱的老公狗年快乐！”我爸回复：“亲爱的老母狗过年快乐！”我爸在外面喝酒，我妈已经把家门反锁了……"
+  } ],
+  "praiseNum" : 52,
+  "playerId" : 10033
+}, {
+  "id" : 74,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "你第一眼看到了什么呢？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/14.png"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10034
+}, {
+  "id" : 75,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "没有正确答案？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/15.png"
+  } ],
+  "praiseNum" : 56,
+  "playerId" : 10035
+}, {
+  "id" : 76,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有一次我爸心血来潮要去借我，没接到，回到家问我：“你小子是不是逃学了。”我说：“没有啊。”爸：“你别装了，我在你的初中门口等了很久，学生都走光了也没有看见你。”我说：“爸，我已经上高中了……”"
+  } ],
+  "praiseNum" : 52,
+  "playerId" : 10036
+}, {
+  "id" : 77,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "哪一对是假情侣？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/17.png"
+  } ],
+  "praiseNum" : 44,
+  "playerId" : 10037
+}, {
+  "id" : 78,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "哪一个是艾斯奥特曼？哈哈哈哈哈哈哈哈"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/18.png"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10038
+}, {
+  "id" : 79,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "你会怎么选"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/19.png"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10039
+}, {
+  "id" : 80,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "然后梦突然就醒了..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/20.png"
+  } ],
+  "praiseNum" : 35,
+  "playerId" : 10040
+}, {
+  "id" : 81,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "女生也不一定都选对啊"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/21-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/21-2.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/21-3.png"
+  } ],
+  "praiseNum" : 68,
+  "playerId" : 10041
+}, {
+  "id" : 82,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "时间没有等我，是你忘了带我走，我左手过目不忘的的萤火，右手里是十年一个漫长的打坐。"
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10042
+}, {
+  "id" : 83,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "所以正确答案是什么..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/23.png"
+  } ],
+  "praiseNum" : 50,
+  "playerId" : 10043
+}, {
+  "id" : 84,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "放不下的意思大概就是，即使我身边出现了别的人，甚至更好的人，我还是忍不住想起你。"
+  } ],
+  "praiseNum" : 54,
+  "playerId" : 10044
+}, {
+  "id" : 85,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "不好意思，一个都不认识"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/25.png"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10045
+}, {
+  "id" : 86,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "“我爱你”的含义是：无论贫穷，富贵，生老，病死，天灾，人祸我都不离弃的爱你。当你说出这三个字的时候，你是否有足够的勇气和顽强的毅力去承受他的人生。爱，不要轻易说出口"
+  } ],
+  "praiseNum" : 41,
+  "playerId" : 10046
+}, {
+  "id" : 87,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "大概，每个人，都会遇到一个不能在一起的人，放手舍不得，坚持又太累，爱而不得时最煎熬。"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10047
+}, {
+  "id" : 88,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "好像哪里不对劲？"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/28.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/28fm.png"
+  } ],
+  "praiseNum" : 50,
+  "playerId" : 10048
+}, {
+  "id" : 89,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "一个人走，一个人睡，一个人思索，一个人沉醉，一个人忙，一个人累，一个人烦躁，一个人体会。"
+  } ],
+  "praiseNum" : 54,
+  "playerId" : 10049
+}, {
+  "id" : 90,
+  "tagDesc" : "测试",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "放学回到家，我鼓足勇气问爸爸：“爸，为什么别人家住豪宅开豪车，我们却没有？”爸爸语重心长地教育我说：“做人不要攀比，尽力了就好，一家人开开心心最重要！”我点了点头，从书包拿出一张试卷说：“爸，我尽力了。” "
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10050
+}, {
+  "id" : 91,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "英国一名大学生设计出了世界上最狭小，最硬核的密室逃脱——给你锁进“棺材”里，一支笔，一把手电，你逃吧..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/1.png"
+  } ],
+  "praiseNum" : 41,
+  "playerId" : 10051
+}, {
+  "id" : 92,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "不要和你的男朋友和别的情侣一起去鬼屋或者密室逃脱，因为出来的时候你不知道你牵着手的男人是男朋友还是别的男人，也不知道他抱着的女人是你还是别的女人"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10052
+}, {
+  "id" : 93,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "强烈推荐TVB下饭剧十二传说的，反父权反封建反性别歧视，而且还全是密室杀人！"
+  } ],
+  "praiseNum" : 41,
+  "playerId" : 10053
+}, {
+  "id" : 94,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "超喜欢柯南的密室杀人系列！！"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/4.png"
+  } ],
+  "praiseNum" : 44,
+  "playerId" : 10054
+}, {
+  "id" : 95,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "意不意外，惊不惊喜？"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/5.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/5fm.png"
+  } ],
+  "praiseNum" : 35,
+  "playerId" : 10055
+}, {
+  "id" : 96,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "今天玩的那个密室特别恐怖，单人任务我就喊了我同学陪我那个时候我吓的大脑一片空白，啥也不知道，抓着我同学就跑...总之全程崩溃...."
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10056
+}, {
+  "id" : 97,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "这是什么意思？有没有大佬在"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/7.png"
+  } ],
+  "praiseNum" : 65,
+  "playerId" : 10057
+}, {
+  "id" : 98,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "说真的，受不了刺激的千万别看《巨鳄风暴》...漫长的90分钟，简单粗暴，怪不得是R级电影...."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/8.png"
+  } ],
+  "praiseNum" : 51,
+  "playerId" : 10058
+}, {
+  "id" : 99,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我朋友去玩密室，他一脚把第二关的门给踹开了，工作人员小哥哥一脸懵逼地说，不要破坏道具....贼尴尬"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10059
+}, {
+  "id" : 100,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "密室逃脱 有知道怎么解的吗？在线等"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/10.png"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10060
+}, {
+  "id" : 101,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "《无人生还》这种悬疑题材的真是看不腻。应该算密室杀人类型，10个人被送到一座孤岛，相继被杀，真正的凶手最后被揭晓才恍然大悟。"
+  } ],
+  "praiseNum" : 36,
+  "playerId" : 10061
+}, {
+  "id" : 102,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有两个舍友准备去玩密室，第三个舍友说，我玩过xxx，有点恐怖哈。有个舍友听了说，那我有点不想去诶。我：你找男朋友一起去啊。第三个舍友：那要智商的。我们三个愣住，骂谁没智商呢。第三个舍友：不是那意思，我们一群人都没通关呢。我：那大概是你们一群人智商不行吧……"
+  } ],
+  "praiseNum" : 59,
+  "playerId" : 10062
+}, {
+  "id" : 103,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "昨晚密室最搞笑的是，npc出来以后要逃到另一个房间的衣橱里运送到下一个房间，这个密室一般是六个人玩的，衣橱准备了两间，衣橱的空间非常小，结果我们像一群野马，七个人集体冲到了同一个衣橱里，哈哈哈哈哈哈哈哈哈哈哈哈哈哈，挤爆了，比早高峰的地铁还挤，每个人都被压扁了"
+  } ],
+  "praiseNum" : 75,
+  "playerId" : 10063
+}, {
+  "id" : 104,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "挺简单的啊"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/14.png"
+  } ],
+  "praiseNum" : 45,
+  "playerId" : 10064
+}, {
+  "id" : 105,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "女孩为了考验男友，躲进密室，却把钥匙落在了外面"
+  } ],
+  "praiseNum" : 38,
+  "playerId" : 10065
+}, {
+  "id" : 106,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "好喜欢密室大逃脱，邓伦，黄明昊，魏大勋都好帅，又好玩儿。每次邓伦吓的被魏大勋抱着的时候，好希望自己是魏大勋把被吓到的邓伦抱在怀里 在他耳边说别怕有我在，嘿嘿嘿 太甜了杨幂好美，谢依霖好搞笑。贼想去玩儿次密室逃脱！"
+  } ],
+  "praiseNum" : 37,
+  "playerId" : 10066
+}, {
+  "id" : 107,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "安利一部恐怖短片《地狱饰演》，男子被困在一个房间里，他想尽了办法破解锁上的密码。试了无数遍之后，房间里的另一扇门打开了，一直试图逃出去的他却不知道外面是一个跟尾恐怖的世界。密室逃脱和恐怖氛围都做的很到位，最后的反转才是最恐怖的！"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/17.png"
+  } ],
+  "praiseNum" : 47,
+  "playerId" : 10067
+}, {
+  "id" : 108,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "身边又多了一个幂蜂，被密室大逃脱圈粉的，聪明又搞笑，无脑黑们真的很无聊"
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10068
+}, {
+  "id" : 109,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "闲着没事看了下《恐怖公馆》，现在倒好，心脏砰砰的跳，吓死宝宝了"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10069
+}, {
+  "id" : 110,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "密室大逃脱vip大神版真的太好看了，嘉宾都挺好的，那个邵明明是搞笑担当嘛，还挺活跃气氛的。。。"
+  } ],
+  "praiseNum" : 55,
+  "playerId" : 10070
+}, {
+  "id" : 111,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "微信读书上看无人生还，某读者评论觉得这种类密室的设定已经快被用烂，套路差不多blabla，希望阿加莎能写出让人毛骨悚然的新意”。底下人评论阿加莎才是密室杀人的开山祖师，要求up主看看本书的出版年代。。。哈哈哈哈哈，微信读书的评论果然能在阅读过程中带来欢乐"
+  } ],
+  "praiseNum" : 52,
+  "playerId" : 10071
+}, {
+  "id" : 112,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "再也不玩啥密室逃脱了！！！"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/22.png"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10072
+}, {
+  "id" : 113,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "昨天把《尸人庄谜案》看了一半，基本能锁定凶手了，不过作者这个双重密室杀人设定还挺有意思的，希望看到比较合理的密室手法破解。结合电影卡司，感觉选角还挺到位的。"
+  } ],
+  "praiseNum" : 63,
+  "playerId" : 10073
+}, {
+  "id" : 114,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "刚刚看完《迭代1》，不知道为啥有种看综艺的感觉，还是说现在的综艺都是根据电影改编的？"
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10074
+}, {
+  "id" : 115,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "密室逃脱是这么刺激的吗？差点吓死在里面，出来以后倒是觉得很搞笑，工作人员都说，我们都做好要进去吓唬你们的准备了，结果你们不让我们进去，哈哈哈哈（以后再也不去了）"
+  } ],
+  "praiseNum" : 68,
+  "playerId" : 10075
+}, {
+  "id" : 116,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有人玩《未上锁的房间》嘛？组个队一起啊，顺便交流交流"
+  } ],
+  "praiseNum" : 72,
+  "playerId" : 10076
+}, {
+  "id" : 117,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有没有大神告诉一下这关怎么过？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/27.png"
+  } ],
+  "praiseNum" : 70,
+  "playerId" : 10077
+}, {
+  "id" : 118,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "想起一个搞笑的 前天玩完密室 带队小哥哥在密室门口的走廊里给我们讲故事结局的时候我突然瞄见一个穿着红色大褂画着僵尸装的npc小哥哥从不远处飘了过去 我正处于懵逼之中时候他又飘了回来 我就赶紧喊我朋友看他 我朋友说了句他好冷漠啊 准备进门的npc小哥哥立刻吼了句你过来 差点把我们一群人吓成尖叫鸡 后来路过他进去的小门的时候他还故意用力拍门吓唬我们 太坏了！！！"
+  } ],
+  "praiseNum" : 71,
+  "playerId" : 10078
+}, {
+  "id" : 119,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "《尸人庄》看完了，怎么说呢，很精彩。在丧尸密室里的杀人事件很有趣，唯一让人觉得有点瑕疵的就是侦探发现第二个杀人案里的证词漏洞，理由真的有点不能接受。不过也不大影响就是了，不看这点凶手还是能推理得出来。"
+  } ],
+  "praiseNum" : 74,
+  "playerId" : 10079
+}, {
+  "id" : 120,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "玩密室逃脱真是一个见证友谊和爱情的好方法，别问我怎么知道的..."
+  } ],
+  "praiseNum" : 76,
+  "playerId" : 10080
+}, {
+  "id" : 121,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "据说有一次，美国总统克林顿和他老婆希拉里去一加油站，加油站一小工是希拉里的初恋。克林顿自我得意的跟老婆吹嘘说：“你要是不嫁给我，你老公可能还是一加油站小工。”希拉里看了眼初恋小工对克林顿答说：“我要是嫁给他，当总统的可能是他，哪里会轮得到你？”"
+  } ],
+  "praiseNum" : 41,
+  "playerId" : 10081
+}, {
+  "id" : 122,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我第一反应居然没反应过来？？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/2.png"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10082
+}, {
+  "id" : 123,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "这是哪里啊？水好绿啊！"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/3.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/3fm.png"
+  } ],
+  "praiseNum" : 50,
+  "playerId" : 10083
+}, {
+  "id" : 124,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我想起那个老笑话,有个家伙去看精神病医生,他说：“大夫，我兄弟疯了。他以为自己是一只鸡。”医生说：“那你怎么不把他带来。”那家伙说：“我是想带来着，可是我需要鸡蛋啊。”"
+  } ],
+  "praiseNum" : 54,
+  "playerId" : 10084
+}, {
+  "id" : 125,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "人终究会老的，谁又何尝不怀念以前的日子呢？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/5-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/5-2.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/5-3.png"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10085
+}, {
+  "id" : 126,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "一对儿男女出门旅行，如何快速判断他们是情侣还是已婚？答案是：男生拿行李的是情侣，女生拿行李的是已婚。"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10086
+}, {
+  "id" : 127,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "坚持用算盘算账的情怀饭店，不得不说菜品的卖相还是有食欲的！"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/7.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/7fm.png"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10087
+}, {
+  "id" : 128,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "“你们看上去是很幸福的一对。你们是怎么做到的？”女人说：“我很浅薄和空虚，我没什么想法，也说不出什么有趣的东西。”男人说：“我跟她完全一样。”"
+  } ],
+  "praiseNum" : 35,
+  "playerId" : 10088
+}, {
+  "id" : 129,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "小时候最爱看的动画片！！估计00后应该都没看过吧？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/9-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/9-2.png"
+  } ],
+  "praiseNum" : 68,
+  "playerId" : 10089
+}, {
+  "id" : 130,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有一种情怀叫周杰伦，为回不去的青春感伤，说好不哭却泪流满面"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/10.png"
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10090
+}, {
+  "id" : 131,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "之前看到个新闻，说湿手摸电怎么怎么样，脑袋是咋了才会去摸电？今天我也是魔怔了，稍微碰了一下，嗯嗯嗯~~~~~有点麻，我详细解说一下：刚触摸到的时候，身体一激灵，完全触摸到的时候，全身毛发耸立，触摸结束时，身体挺直，脑袋清透，精神焕发。酸爽是必须滴，就是摸电的位置很痛。非专业人士请勿尝试。"
+  } ],
+  "praiseNum" : 50,
+  "playerId" : 10091
+}, {
+  "id" : 132,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "心是那扇厚厚的门，纵然思念但我却不愿打开。我凝视着天空中的月，今天的月不是特别的皎洁，时而会有云朵将它遮盖。一个人静静地品味着这一份寂寥的情怀，静静地感受着这一份孤独的感伤。月，孤寂而飘渺的月啊!你引得多少遐思与幻想，埋藏了多少美梦与相思"
+  } ],
+  "praiseNum" : 54,
+  "playerId" : 10092
+}, {
+  "id" : 133,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "所谓“懂你”的人，并不是指对你的信息了如指掌，而是当所有人都以为你快乐的时候，只有他知道你笑容背后的感伤与坚强。"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10093
+}, {
+  "id" : 134,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "小时候的玩具，现在我只认识泰罗和艾斯了...."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/14.png"
+  } ],
+  "praiseNum" : 41,
+  "playerId" : 10094
+}, {
+  "id" : 135,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "一个小男孩问一个富翁是如何这么有钱的？大富翁回答说“在我小的时候，有一天我想到了赚钱，于是我花一块钱买一个苹果，想办法两块钱卖出去，第二天我就能买两个苹果，接着得到四块钱，第三天买四个...”小男孩说“我知道了！”大富翁说“第四天我爸爸去世了，我继承了他的百万家产”"
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10095
+}, {
+  "id" : 136,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "可能只有老玩家才知道212是什么意思吧"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/16.png"
+  } ],
+  "praiseNum" : 68,
+  "playerId" : 10096
+}, {
+  "id" : 137,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "回忆杀...从小追到大的唯一一部动漫！"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/17.png"
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10097
+}, {
+  "id" : 138,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "看不懂，特意去百度了一下麦克白夫人..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/18.png"
+  } ],
+  "praiseNum" : 50,
+  "playerId" : 10098
+}, {
+  "id" : 139,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "什么是舆论的力量？有一次克林顿访问上海，记者问：您对上海的三陪小姐有什么看法？克林顿愣了：上海有三陪小姐吗？第二天早上，他看到报纸上报道：美国总统克林顿下机伊始，就问上海有三陪小姐吗？"
+  } ],
+  "praiseNum" : 54,
+  "playerId" : 10099
+}, {
+  "id" : 140,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "真正的悲哀，是没有说出口的，真正的丑陋，是让人害怕，而不是怜悯的。所有带着情怀、情绪的感伤，只能称之为矫情，而不是真正的苦难。"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10100
+}, {
+  "id" : 141,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "biang biang mian？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/21.png"
+  } ],
+  "praiseNum" : 41,
+  "playerId" : 10056
+}, {
+  "id" : 142,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "美国人派了个间谍到苏联，为保万无一失，特训了10年，精通苏联各项民俗。间谍到了苏联，去一个酒吧喝酒，一坐下，酒保就说：先生你不是苏联人吧！间谍一听：卧槽？！我特训了10年竟然一下就被认出来了？酒保说：因为我们苏联没有黑人。"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10057
+}, {
+  "id" : 143,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "看过4个的我，看来已经不用隐藏年龄了..."
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/23.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/23fm.png"
+  } ],
+  "praiseNum" : 50,
+  "playerId" : 10058
+}, {
+  "id" : 144,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "软件公司做了一个软件，功能是一家咖啡馆，卖一杯咖啡给客户。测试工程师开始测试:客户推开咖啡馆的门，要了1杯咖啡。客户推开咖啡馆的门，要了99999999杯咖啡。3、客户推开咖啡馆的门，要了0.369251杯咖啡。测试全部通过软件顺利上线。上线当日，客户要了一份蛋炒饭，系统崩溃..."
+  } ],
+  "praiseNum" : 54,
+  "playerId" : 10059
+}, {
+  "id" : 145,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "不知为何，今天有点感伤，也有点怀旧情怀，也许是自己渐渐年长，以为自己慢慢放下了儿时的陈年旧事。想起某日和好友聊起过往，她说“我竟不知是你表现得太过坚强了，坚强到我心疼你！”听完这句，我竟泪流满面，无语凝噎。"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10060
+}, {
+  "id" : 146,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "现在还有多少老玩家在坚持这个游戏呢？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/26.png"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10061
+}, {
+  "id" : 147,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "前苏联的记者问一个农民：如果你有一百亩地，你可以捐给国家吗？ 农民：可以！ 记者：如果你有一百万，你愿意捐给国家吗？ 农民：我愿意。 记者：如果你有一头牛，你愿意捐给国家吗？ 农民：我不愿意。 记者：为什么？ 农民：因为我真的有一头牛。"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10062
+}, {
+  "id" : 148,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "珍爱生命，远离史塔克？？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/28.png"
+  } ],
+  "praiseNum" : 41,
+  "playerId" : 10063
+}, {
+  "id" : 149,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "后来爸爸留下了欣慰的泪水"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/29.png"
+  } ],
+  "praiseNum" : 44,
+  "playerId" : 10064
+}, {
+  "id" : 150,
+  "tagDesc" : "老用户",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "不然你以为我是怎么迟到的..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/30.png"
+  } ],
+  "praiseNum" : 35,
+  "playerId" : 10065
+}, {
+  "id" : 151,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我想要的很简单"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/1-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/1-2.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/1-3.png"
+  } ],
+  "praiseNum" : 65,
+  "playerId" : 10001
+}, {
+  "id" : 152,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "在朋友圈看到的，恋爱中的人是不是都那么非主流"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/2%E2%80%8B.png"
+  } ],
+  "praiseNum" : 44,
+  "playerId" : 10002
+}, {
+  "id" : 153,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "天蝎通常不会把爱挂在嘴边，也不会轻易许下承诺，他们会把爱默默的藏在心里，所以才会恋人误解为不爱。其实并不是这样，他们会默默的为你做很多你不知道的事，恋爱中的蝎子是体贴心细的，明明不是温柔的人，却为你做尽温柔的事。请珍惜蝎子，他并不是对所有人都这样，只因你是你！"
+  } ],
+  "praiseNum" : 35,
+  "playerId" : 10003
+}, {
+  "id" : 154,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : "[{\n  \"type\": 1,\n  \"content\": \"2.人们常说：恋爱中的人是盲目的。在很多时候，陷入感情的一方是看不清另一方的态度的，他们常常陶醉于自己的奉献，总以为对方能看到自己的好，却不知对方不放在心上，你再多的好也入不了他的眼，更入不了他的心.\n\n所以我觉得单身挺好的。\"\n }]",
+  "praiseNum" : 40,
+  "playerId" : 10004
+}, {
+  "id" : 155,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : "[{\n  \"type\": 1,\n  \"content\": \"我不谈恋爱的主要原因：\n1.谈恋爱需要照顾对方情绪\n2.谈恋爱要经常洗头化妆\n3.谈恋爱会减少自由时间\n4.没人想和我谈恋爱 \"\n }]",
+  "praiseNum" : 33,
+  "playerId" : 10005
+}, {
+  "id" : 156,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "在爱情路上的时候，颠簸和崎岖是必然的。当吵闹难过的时候，我不会灰心，反而更有信心，因为这就是去往爱情的路段。"
+  } ],
+  "praiseNum" : 32,
+  "playerId" : 10006
+}, {
+  "id" : 157,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "你永远不知道你的队友在怎样打游戏"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/3.png"
+  } ],
+  "praiseNum" : 63,
+  "playerId" : 10007
+}, {
+  "id" : 158,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "所谓爱情也不过是：看上了，追求了，好上了，开心了；不久后，腻了，吵了，淡了，散了。 "
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10008
+}, {
+  "id" : 159,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "so lucky, cause you can choose to love me or not, but myself only have to choose from loving you or loving you more. 你是幸运的，因为你可以选择爱我或不爱我，而我只能选择爱你还是更爱你。 "
+  } ],
+  "praiseNum" : 36,
+  "playerId" : 10009
+}, {
+  "id" : 160,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : "[{\n  \"type\": 1,\n  \"content\": \"十二星座恋爱分手的理由 \n白羊座：因为太累\n金牛座：因为天意\n双子座：太多理由\n巨蟹座：因为婚姻\n狮子座：因为厌倦\n处女座：因为完美\n天秤座：因为梦想\n天蝎座：因为不爱\n射手座：不要理由\n摩羯座：因为责任\n水瓶座：因为潇洒\n双鱼座：因为爱情 \"\n }]",
+  "praiseNum" : 38,
+  "playerId" : 10010
+}, {
+  "id" : 161,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "腾不出时间来睡觉的人，迟早会腾出时间来生病；腾不出时间来复习的人，迟早会腾出时间来补考；腾不出时间来谈恋爱的人，迟早会腾出时间来相亲……"
+  } ],
+  "praiseNum" : 52,
+  "playerId" : 10011
+}, {
+  "id" : 162,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : " 三年前刚开始谈恋爱时，两人在一块时我想大号，于是跟他说：“我去一下洗手间”……两年前还在热恋中“我去上厕所……一年前我们同居了：“我去大便”……现在已经结婚了：“我去拉屎”…… .."
+  } ],
+  "praiseNum" : 43,
+  "playerId" : 10012
+}, {
+  "id" : 163,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "你永远不知道你的队友是怎样打的游戏"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/4.png"
+  } ],
+  "praiseNum" : 52,
+  "playerId" : 10013
+}, {
+  "id" : 164,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "摩羯座的我瑟瑟发抖"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/5.png"
+  } ],
+  "praiseNum" : 53,
+  "playerId" : 10014
+}, {
+  "id" : 165,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "分手还体面不？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/6.png"
+  } ],
+  "praiseNum" : 44,
+  "playerId" : 10015
+}, {
+  "id" : 166,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "像极了爱情"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/7.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/7fm.jpg"
+  } ],
+  "praiseNum" : 35,
+  "playerId" : 10016
+}, {
+  "id" : 167,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "异地恋的正确见面方式"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/8.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/8fm.jpg"
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10017
+}, {
+  "id" : 168,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我爱你，不过这是最后一次了"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/9.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/9fm.png"
+  } ],
+  "praiseNum" : 65,
+  "playerId" : 10018
+}, {
+  "id" : 169,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "给未恋爱的人的忠告：只要不恋爱，就永远不会输给情敌"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/10.png"
+  } ],
+  "praiseNum" : 51,
+  "playerId" : 10019
+}, {
+  "id" : 170,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "金牛恋爱的真实写照"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/11.png"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10020
+}, {
+  "id" : 171,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "为啥回我的全是？？？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/12.png"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10021
+}, {
+  "id" : 172,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "这也太真实了"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/13.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/13fm.png"
+  } ],
+  "praiseNum" : 36,
+  "playerId" : 10022
+}, {
+  "id" : 173,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我也想要这样的日常啊！！！"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/14-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/14-2.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/14-3.png"
+  } ],
+  "praiseNum" : 59,
+  "playerId" : 10023
+}, {
+  "id" : 174,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我闻到了恋爱的酸臭味"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/15.png"
+  } ],
+  "praiseNum" : 75,
+  "playerId" : 10024
+}, {
+  "id" : 175,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "脱单流程图"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/16.png"
+  } ],
+  "praiseNum" : 45,
+  "playerId" : 10025
+}, {
+  "id" : 176,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "怎样正确回答女朋友"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/17-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/17-2.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/17-3.jpg"
+  } ],
+  "praiseNum" : 38,
+  "playerId" : 10026
+}, {
+  "id" : 177,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "大家对号入座"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/18.png"
+  } ],
+  "praiseNum" : 37,
+  "playerId" : 10027
+}, {
+  "id" : 178,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "异地恋流程"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/19.png"
+  } ],
+  "praiseNum" : 47,
+  "playerId" : 10028
+}, {
+  "id" : 179,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "比心弱爆了"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/20.png"
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10029
+}, {
+  "id" : 180,
+  "tagDesc" : "恋爱大师",
+  "tags" : [ 1 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "周杰伦新歌的故事"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/21-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/lianai/21-2.png"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10030
+}, {
+  "id" : 181,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "确实是10秒"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/1.png"
+  } ],
+  "praiseNum" : 41,
+  "playerId" : 10051
+}, {
+  "id" : 182,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "记得有一次大家都在宿舍玩手机，突然一哥们转过头来，大笑着对我上铺说：“我女朋友说你肾亏！”说完还大笑几声。 突然他好像明白什么了，转过头盯着手机默默地不再说话了！"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10052
+}, {
+  "id" : 183,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "看了苹果的发布会，别人都在犹豫要不要等5G，而我在想 我看它干什么"
+  } ],
+  "praiseNum" : 41,
+  "playerId" : 10053
+}, {
+  "id" : 184,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "从来不用充电宝的路过（不要问我是什么手机，问就是华为）"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/4.png"
+  } ],
+  "praiseNum" : 44,
+  "playerId" : 10054
+}, {
+  "id" : 185,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "你送我这个，我们就是朋友了！"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/5.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/5fm.png"
+  } ],
+  "praiseNum" : 35,
+  "playerId" : 10055
+}, {
+  "id" : 186,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "一部手机的寿命大约在三到五年，只有人类寿命的二十分之一。手机只是你生活的一部分，而你却是它的全部。请放下身边的工作，多陪陪你的手机。"
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10056
+}, {
+  "id" : 187,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "据说这是北上广的5G覆盖图"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/7-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/7-2.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/7-3.png"
+  } ],
+  "praiseNum" : 65,
+  "playerId" : 10057
+}, {
+  "id" : 188,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "王者荣耀也出下棋模式了？估计农药党和LOL玩家又要开撕了..."
+  } ],
+  "praiseNum" : 51,
+  "playerId" : 10058
+}, {
+  "id" : 189,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "总玩手机的人应该知道的小常识：1.“远”:连续看近处，记得眺望远方；2.“动”:经常转动眼球缓解疲劳；3.“暖”:注意眼睛保暖可以尝试双手“熨目”；4.“润”:每天使用姜力眼贴预防眼干燥；5.“吃”:多吃益眼食物。 "
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10059
+}, {
+  "id" : 190,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "新技能get~"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/10.png"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10060
+}, {
+  "id" : 191,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "躺着看手机有什么危害？一些喜欢侧躺着玩手机的人容易出现视力偏差，导致两只眼睛视力不一致，往往视力较低的眼睛长时间不关注会影响视力较好的那只眼睛，得不偿失。有的人躺着看手机还会懒得去开灯，长时间在黑暗的状态下看手机会引起眼周肌肉紧张，影响眼睛正常的聚焦能力，引起视力模糊。"
+  } ],
+  "praiseNum" : 36,
+  "playerId" : 10061
+}, {
+  "id" : 192,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "分享一个小常识，将手机电量一直保持在百分之五十以上，能减少电池的损耗，从而延长手机寿命。所以电量到一半的时候就不要捧着手机玩了，快给它充电，让它休息休息。 "
+  } ],
+  "praiseNum" : 59,
+  "playerId" : 10062
+}, {
+  "id" : 193,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "强迫症估计会看着它充满电..."
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/13.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/13fm.png"
+  } ],
+  "praiseNum" : 75,
+  "playerId" : 10063
+}, {
+  "id" : 194,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有没有和我一样的？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/4.png"
+  } ],
+  "praiseNum" : 45,
+  "playerId" : 10064
+}, {
+  "id" : 195,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "为了这个沙雕手机壳，我很想买iphone11了怎么办？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/15.png"
+  } ],
+  "praiseNum" : 38,
+  "playerId" : 10065
+}, {
+  "id" : 196,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "刚才出去买东西吃，回来走到楼下忽然发觉手机丢了，一直手忙脚乱摸口袋，吓得出了一身汗，发现在手里拿着...."
+  } ],
+  "praiseNum" : 37,
+  "playerId" : 10066
+}, {
+  "id" : 197,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有点怀念以前怎么摔也摔不坏的手机了...."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/17.png"
+  } ],
+  "praiseNum" : 47,
+  "playerId" : 10067
+}, {
+  "id" : 198,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "原来手机计算器也不靠谱啊！"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/18.png"
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10068
+}, {
+  "id" : 199,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "确认过眼神，是买不起的机"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/19.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/19fm.png"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10069
+}, {
+  "id" : 200,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "已经连续7天没用手机了，别问我是怎么忍住的，估计每个大一学生都懂..."
+  } ],
+  "praiseNum" : 55,
+  "playerId" : 10070
+}, {
+  "id" : 201,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "在宿舍带耳机听歌，觉得声音太小了，一直在调大音量，但是声音一直没有变大，还以为耳机坏了，结果发现我调的是手机亮度"
+  } ],
+  "praiseNum" : 52,
+  "playerId" : 10071
+}, {
+  "id" : 202,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "手机屏又又又碎了，真的很影响玩手机的心情，我太难了..."
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10072
+}, {
+  "id" : 203,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "大家有什么好玩的手机游戏推荐嘛？不喜欢打打杀杀的，比较佛系那种最好。"
+  } ],
+  "praiseNum" : 63,
+  "playerId" : 10073
+}, {
+  "id" : 204,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "为什么我就拍不出这种效果"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/24.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/24fm.png"
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10074
+}, {
+  "id" : 205,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我觉得买苹果还是买华为完全是个人自由，喜欢哪个就买哪个，真的没必要把买什么牌子的手机和是否爱国绑定在一起，我买苹果我就不爱国了？"
+  } ],
+  "praiseNum" : 68,
+  "playerId" : 10075
+}, {
+  "id" : 206,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "一上课就犯困，一玩手机就精神，然后就失眠了，然后上课继续犯困，然后又...."
+  } ],
+  "praiseNum" : 72,
+  "playerId" : 10076
+}, {
+  "id" : 207,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "只有我是玩了《不眨眼》之后，才知道它之前叫《手机疑讯》的嘛？感觉还是以前的名字好听啊"
+  } ],
+  "praiseNum" : 70,
+  "playerId" : 10077
+}, {
+  "id" : 208,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有哪位大神可以告诉我，现在要买手机的话，是不是等5G比较好？"
+  } ],
+  "praiseNum" : 71,
+  "playerId" : 10078
+}, {
+  "id" : 209,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "全中了，我是不是已经不用抢救了..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/29.png"
+  } ],
+  "praiseNum" : 74,
+  "playerId" : 10079
+}, {
+  "id" : 210,
+  "tagDesc" : "悬疑推理",
+  "tags" : [ 2 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "啊啊啊啊，这种手机壳看的我好难受啊~"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shouji/30.png"
+  } ],
+  "praiseNum" : 76,
+  "playerId" : 10080
+}, {
+  "id" : 211,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "【职场日常】1、电话24小时开机。2、当日事当日毕。3、用最少话把事说清。4、承受高压,5、相信方法总比问题多。6、用数据说话,7、要有多个信息源事实才清晰。8、煽动情绪带来流量，但解决不了问题。9、不要大惊小怪。10、职场当战场，上级是司令。"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10091
+}, {
+  "id" : 212,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "不得不说，这真的是职场的真实情况。"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/2.png"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10092
+}, {
+  "id" : 213,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "职场四象限：重要和紧急怎么选？一象限属于重要又急迫的事，一般肯定会做的事。二象限是重要但不紧急的事，重要还经常被忽略。三象限是不紧急也不重要的事，这个不用说太多。四象限是紧急但不重要的事。很容易掉入的陷阱。"
+  } ],
+  "praiseNum" : 36,
+  "playerId" : 10093
+}, {
+  "id" : 214,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "同事的辞职信...."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/4.png"
+  } ],
+  "praiseNum" : 59,
+  "playerId" : 10094
+}, {
+  "id" : 215,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "好工作标准是什么？1.不叫人烦2.有好职场3.叫人有盼头4.你和公司都走在正轨上"
+  } ],
+  "praiseNum" : 75,
+  "playerId" : 10095
+}, {
+  "id" : 216,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "请问吃可以当副业吗？"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/6.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/6fm.png"
+  } ],
+  "praiseNum" : 45,
+  "playerId" : 10096
+}, {
+  "id" : 217,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "不努力来人间干嘛！"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/7.png"
+  } ],
+  "praiseNum" : 38,
+  "playerId" : 10097
+}, {
+  "id" : 218,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "还有带薪吃饭、带薪睡觉..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/8-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/8-2.png"
+  } ],
+  "praiseNum" : 37,
+  "playerId" : 10098
+}, {
+  "id" : 219,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "好像销售岗位都是这样的...."
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/9.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/9fm.png"
+  } ],
+  "praiseNum" : 47,
+  "playerId" : 10099
+}, {
+  "id" : 220,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "这可能是每个上班族都有的通病吧"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/10-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/10-2.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/10-3.png"
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10100
+}, {
+  "id" : 221,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "经人介绍，到一家金融公司上班。公司在CBD，办公室豪华、气派、洋气、上档次。试用期每月工资1w。小王顿时成了金融白领。公司鼓励员工投资自己发行的理财产品，并签订了保底协议，年化收益率25%。小王一看有内部优惠，拉来亲朋好友投资了几百万，甚至抵押了房产贷款。几天后，老板失联跑路了...."
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10001
+}, {
+  "id" : 222,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "在公司工作1年多了，想辞职了，但又怕找不到更好的工作，现在感觉做什么都不上心，我可太难了啊~~~~~~"
+  } ],
+  "praiseNum" : 55,
+  "playerId" : 10002
+}, {
+  "id" : 223,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我只会嗝~可能这就是我为什么当不了老板的原因吧"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/13.png"
+  } ],
+  "praiseNum" : 52,
+  "playerId" : 10003
+}, {
+  "id" : 224,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "肯定是和领导讨论未来十年的发展趋势啊~"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/14.png"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10004
+}, {
+  "id" : 225,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "你最反感的公司规定是什么？我：所谓的不加班"
+  } ],
+  "praiseNum" : 44,
+  "playerId" : 10005
+}, {
+  "id" : 226,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "职场如战场，受教了！"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/16.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/16fm.png"
+  } ],
+  "praiseNum" : 35,
+  "playerId" : 10006
+}, {
+  "id" : 227,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "“收到”真的是我上班以来说的最多的两个字"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/17-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/17-2.png"
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10007
+}, {
+  "id" : 228,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "工作中必须搞清的九个顺序：1.先升值，再升职；2.先求同，再求异；3.先完成，再完美；4.先记录，再记忆；5.先解决心情，再解决事情；6.先交流，再交心；7.先成长，再成功；8.先站住，再站高；9.先仿造，再创造"
+  } ],
+  "praiseNum" : 65,
+  "playerId" : 10008
+}, {
+  "id" : 229,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "为什么干活再多也不受重视？有时候不是你做了什么，而是你没有照顾到对方的风格，影响你在对方心中的评价。有很多人为领导做了很多事情，但领导没有接收到。要用他听得懂的语言、用他习惯的方式让他领会到，这件事很重要。"
+  } ],
+  "praiseNum" : 51,
+  "playerId" : 10009
+}, {
+  "id" : 230,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "说出来你可能都不信，谁让人家是领导呢"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/20.png"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10010
+}, {
+  "id" : 231,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "mark一下"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/21.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/21fm.png"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10011
+}, {
+  "id" : 232,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "在外企里混，不仅要在中文里夹杂英文，而且还要熟练切换各种语境下同样词的不同发音。在说中文的时候念A-p-p，在说英文的时候念App.在说中文的时候念上海，说英文的时候念“伤害”......"
+  } ],
+  "praiseNum" : 36,
+  "playerId" : 10012
+}, {
+  "id" : 233,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "20-30岁是人生最关键的时期，毕业、求职、工作、恋爱、买房、结婚、生子，那么多人生大事密集涌来，哪个环节出了大差错都会影响终生，可能还会留下无法弥补的遗憾。尤其是事业，如果能早选定适合自己的方向，未来的路就会顺利很多。"
+  } ],
+  "praiseNum" : 59,
+  "playerId" : 10013
+}, {
+  "id" : 234,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "10种职场思维：1、想钓到鱼，就要像鱼那样思考；2、不要总显示比别人聪明；3、让对方做主角，自己甘愿做配角；4、目中无人，让你一败涂地；5、常与人争辩，你永难赢6、锋芒太露，下场不好；7、保持适当距离；8、树一个敌，等于立一堵墙；9、谦虚不虚伪，不苛求完美；10、失言不如无言。"
+  } ],
+  "praiseNum" : 75,
+  "playerId" : 10014
+}, {
+  "id" : 235,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "笑死我了"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/25.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/25fm.png"
+  } ],
+  "praiseNum" : 45,
+  "playerId" : 10015
+}, {
+  "id" : 236,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "当你的生活岌岌可危的时候，说明你的工作步入正轨了。当你的个人生活化为乌有时，就说明你要晋升了，而当你感觉累的喘不过气的时候，恭喜你，你要生病了！"
+  } ],
+  "praiseNum" : 38,
+  "playerId" : 10016
+}, {
+  "id" : 237,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我就想知道，这家公司现在还招人吗？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/27.png"
+  } ],
+  "praiseNum" : 37,
+  "playerId" : 10017
+}, {
+  "id" : 238,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "职场有哪些“潜规则”？ 1.理想很重要，但比理想更重要的是利益；2.表面是公义，心里是生意，这才是职场的本质；3.做事要藏拙，做人要露怯；4.规划要长远，拿钱要及时；5.在好上司手下做能臣，在坏上司手下做奸臣；6.老板对你讲的道理，永远都是对他有利的；7.上司不会适应你，只有你去适应上司。"
+  } ],
+  "praiseNum" : 47,
+  "playerId" : 10018
+}, {
+  "id" : 239,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我第一次职场上的人心险恶是同事给的，真的是醉了，就因为我招了一个你们喜欢的男人事专员就把我整走了？真的优秀呢！"
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10019
+}, {
+  "id" : 240,
+  "tagDesc" : "职场高手",
+  "tags" : [ 3 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "还是小白的我有点慌了"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/zhichang/30.png"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10020
+}, {
+  "id" : 241,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "说的好，我选择饮料。"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/1.png"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10021
+}, {
+  "id" : 242,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我怀疑你在为难我胖虎？？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/2-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/2-2.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/2-3.png"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10022
+}, {
+  "id" : 243,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "德国阿尔茨海默症防治协会给出的权威测试题，只要你能找到骆驼，就不会得老年痴呆症。 "
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/3.png"
+  } ],
+  "praiseNum" : 36,
+  "playerId" : 10023
+}, {
+  "id" : 244,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "某外企一道性格测试题：我对异性不感兴趣。选项：非常不符合，比较不符合，比较符合，非常符合。谁能解释一下它想测什么?"
+  } ],
+  "praiseNum" : 59,
+  "playerId" : 10024
+}, {
+  "id" : 245,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "前几天找个心理老师给我做了两个小时测试，做完了才发现其实我们每个人都并不了解自己，心理学果然很强大。"
+  } ],
+  "praiseNum" : 75,
+  "playerId" : 10025
+}, {
+  "id" : 246,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "从娃娃抓起可还行"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/6.png"
+  } ],
+  "praiseNum" : 45,
+  "playerId" : 10026
+}, {
+  "id" : 247,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "据说看不懂的都是00后..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/7.png"
+  } ],
+  "praiseNum" : 38,
+  "playerId" : 10027
+}, {
+  "id" : 248,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "1是女生吧？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/8.png"
+  } ],
+  "praiseNum" : 37,
+  "playerId" : 10028
+}, {
+  "id" : 249,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "当然是选D了"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/9.png"
+  } ],
+  "praiseNum" : 47,
+  "playerId" : 10029
+}, {
+  "id" : 250,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "51423？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/10.png"
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10030
+}, {
+  "id" : 251,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "优先孔雀，最后狗"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/11.png"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10031
+}, {
+  "id" : 252,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有一道股市测试题，假如今天股市总成交金额5000亿，因市场的大跌导致总市值缩水了2万亿，可是去掉印花税、手续费等直接交易成本，即使当天成交的5000亿也都算它全部灰飞烟灭，那还有接近1.5万亿的钱究竟去哪儿了?"
+  } ],
+  "praiseNum" : 55,
+  "playerId" : 10032
+}, {
+  "id" : 253,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我妈刚才给我爸发了条微信：“亲爱的老公狗年快乐！”我爸回复：“亲爱的老母狗过年快乐！”我爸在外面喝酒，我妈已经把家门反锁了……"
+  } ],
+  "praiseNum" : 52,
+  "playerId" : 10033
+}, {
+  "id" : 254,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "你第一眼看到了什么呢？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/14.png"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10034
+}, {
+  "id" : 255,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "没有正确答案？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/15.png"
+  } ],
+  "praiseNum" : 56,
+  "playerId" : 10035
+}, {
+  "id" : 256,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有一次我爸心血来潮要去借我，没接到，回到家问我：“你小子是不是逃学了。”我说：“没有啊。”爸：“你别装了，我在你的初中门口等了很久，学生都走光了也没有看见你。”我说：“爸，我已经上高中了……”"
+  } ],
+  "praiseNum" : 52,
+  "playerId" : 10036
+}, {
+  "id" : 257,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "哪一对是假情侣？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/17.png"
+  } ],
+  "praiseNum" : 44,
+  "playerId" : 10037
+}, {
+  "id" : 258,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "哪一个是艾斯奥特曼？哈哈哈哈哈哈哈哈"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/18.png"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10038
+}, {
+  "id" : 259,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "你会怎么选"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/19.png"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10039
+}, {
+  "id" : 260,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "然后梦突然就醒了..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/20.png"
+  } ],
+  "praiseNum" : 35,
+  "playerId" : 10040
+}, {
+  "id" : 261,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "女生也不一定都选对啊"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/21-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/21-2.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/21-3.png"
+  } ],
+  "praiseNum" : 68,
+  "playerId" : 10041
+}, {
+  "id" : 262,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "时间没有等我，是你忘了带我走，我左手过目不忘的的萤火，右手里是十年一个漫长的打坐。"
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10042
+}, {
+  "id" : 263,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "所以正确答案是什么..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/23.png"
+  } ],
+  "praiseNum" : 50,
+  "playerId" : 10043
+}, {
+  "id" : 264,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "放不下的意思大概就是，即使我身边出现了别的人，甚至更好的人，我还是忍不住想起你。"
+  } ],
+  "praiseNum" : 54,
+  "playerId" : 10044
+}, {
+  "id" : 265,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "不好意思，一个都不认识"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/25.png"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10045
+}, {
+  "id" : 266,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "“我爱你”的含义是：无论贫穷，富贵，生老，病死，天灾，人祸我都不离弃的爱你。当你说出这三个字的时候，你是否有足够的勇气和顽强的毅力去承受他的人生。爱，不要轻易说出口"
+  } ],
+  "praiseNum" : 41,
+  "playerId" : 10046
+}, {
+  "id" : 267,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "大概，每个人，都会遇到一个不能在一起的人，放手舍不得，坚持又太累，爱而不得时最煎熬。"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10047
+}, {
+  "id" : 268,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "好像哪里不对劲？"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/28.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/ceshi/28fm.png"
+  } ],
+  "praiseNum" : 50,
+  "playerId" : 10048
+}, {
+  "id" : 269,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "一个人走，一个人睡，一个人思索，一个人沉醉，一个人忙，一个人累，一个人烦躁，一个人体会。"
+  } ],
+  "praiseNum" : 54,
+  "playerId" : 10049
+}, {
+  "id" : 270,
+  "tagDesc" : "心理医生",
+  "tags" : [ 4 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "放学回到家，我鼓足勇气问爸爸：“爸，为什么别人家住豪宅开豪车，我们却没有？”爸爸语重心长地教育我说：“做人不要攀比，尽力了就好，一家人开开心心最重要！”我点了点头，从书包拿出一张试卷说：“爸，我尽力了。” "
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10050
+}, {
+  "id" : 271,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "据说有一次，美国总统克林顿和他老婆希拉里去一加油站，加油站一小工是希拉里的初恋。克林顿自我得意的跟老婆吹嘘说：“你要是不嫁给我，你老公可能还是一加油站小工。”希拉里看了眼初恋小工对克林顿答说：“我要是嫁给他，当总统的可能是他，哪里会轮得到你？”"
+  } ],
+  "praiseNum" : 41,
+  "playerId" : 10081
+}, {
+  "id" : 272,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我第一反应居然没反应过来？？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/2.png"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10082
+}, {
+  "id" : 273,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "这是哪里啊？水好绿啊！"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/3.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/3fm.png"
+  } ],
+  "praiseNum" : 50,
+  "playerId" : 10083
+}, {
+  "id" : 274,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我想起那个老笑话,有个家伙去看精神病医生,他说：“大夫，我兄弟疯了。他以为自己是一只鸡。”医生说：“那你怎么不把他带来。”那家伙说：“我是想带来着，可是我需要鸡蛋啊。”"
+  } ],
+  "praiseNum" : 54,
+  "playerId" : 10084
+}, {
+  "id" : 275,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "人终究会老的，谁又何尝不怀念以前的日子呢？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/5-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/5-2.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/5-3.png"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10085
+}, {
+  "id" : 276,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "一对儿男女出门旅行，如何快速判断他们是情侣还是已婚？答案是：男生拿行李的是情侣，女生拿行李的是已婚。"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10086
+}, {
+  "id" : 277,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "坚持用算盘算账的情怀饭店，不得不说菜品的卖相还是有食欲的！"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/7.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/7fm.png"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10087
+}, {
+  "id" : 278,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "“你们看上去是很幸福的一对。你们是怎么做到的？”女人说：“我很浅薄和空虚，我没什么想法，也说不出什么有趣的东西。”男人说：“我跟她完全一样。”"
+  } ],
+  "praiseNum" : 35,
+  "playerId" : 10088
+}, {
+  "id" : 279,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "小时候最爱看的动画片！！估计00后应该都没看过吧？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/9-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/9-2.png"
+  } ],
+  "praiseNum" : 68,
+  "playerId" : 10089
+}, {
+  "id" : 280,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有一种情怀叫周杰伦，为回不去的青春感伤，说好不哭却泪流满面"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/10.png"
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10090
+}, {
+  "id" : 281,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "之前看到个新闻，说湿手摸电怎么怎么样，脑袋是咋了才会去摸电？今天我也是魔怔了，稍微碰了一下，嗯嗯嗯~~~~~有点麻，我详细解说一下：刚触摸到的时候，身体一激灵，完全触摸到的时候，全身毛发耸立，触摸结束时，身体挺直，脑袋清透，精神焕发。酸爽是必须滴，就是摸电的位置很痛。非专业人士请勿尝试。"
+  } ],
+  "praiseNum" : 50,
+  "playerId" : 10091
+}, {
+  "id" : 282,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "心是那扇厚厚的门，纵然思念但我却不愿打开。我凝视着天空中的月，今天的月不是特别的皎洁，时而会有云朵将它遮盖。一个人静静地品味着这一份寂寥的情怀，静静地感受着这一份孤独的感伤。月，孤寂而飘渺的月啊!你引得多少遐思与幻想，埋藏了多少美梦与相思"
+  } ],
+  "praiseNum" : 54,
+  "playerId" : 10092
+}, {
+  "id" : 283,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "所谓“懂你”的人，并不是指对你的信息了如指掌，而是当所有人都以为你快乐的时候，只有他知道你笑容背后的感伤与坚强。"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10093
+}, {
+  "id" : 284,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "小时候的玩具，现在我只认识泰罗和艾斯了...."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/14.png"
+  } ],
+  "praiseNum" : 41,
+  "playerId" : 10094
+}, {
+  "id" : 285,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "一个小男孩问一个富翁是如何这么有钱的？大富翁回答说“在我小的时候，有一天我想到了赚钱，于是我花一块钱买一个苹果，想办法两块钱卖出去，第二天我就能买两个苹果，接着得到四块钱，第三天买四个...”小男孩说“我知道了！”大富翁说“第四天我爸爸去世了，我继承了他的百万家产”"
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10095
+}, {
+  "id" : 286,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "可能只有老玩家才知道212是什么意思吧"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/16.png"
+  } ],
+  "praiseNum" : 68,
+  "playerId" : 10096
+}, {
+  "id" : 287,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "回忆杀...从小追到大的唯一一部动漫！"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/17.png"
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10097
+}, {
+  "id" : 288,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "看不懂，特意去百度了一下麦克白夫人..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/18.png"
+  } ],
+  "praiseNum" : 50,
+  "playerId" : 10098
+}, {
+  "id" : 289,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "什么是舆论的力量？有一次克林顿访问上海，记者问：您对上海的三陪小姐有什么看法？克林顿愣了：上海有三陪小姐吗？第二天早上，他看到报纸上报道：美国总统克林顿下机伊始，就问上海有三陪小姐吗？"
+  } ],
+  "praiseNum" : 54,
+  "playerId" : 10099
+}, {
+  "id" : 290,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "真正的悲哀，是没有说出口的，真正的丑陋，是让人害怕，而不是怜悯的。所有带着情怀、情绪的感伤，只能称之为矫情，而不是真正的苦难。"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10100
+}, {
+  "id" : 291,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "biang biang mian？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/21.png"
+  } ],
+  "praiseNum" : 41,
+  "playerId" : 10056
+}, {
+  "id" : 292,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "美国人派了个间谍到苏联，为保万无一失，特训了10年，精通苏联各项民俗。间谍到了苏联，去一个酒吧喝酒，一坐下，酒保就说：先生你不是苏联人吧！间谍一听：卧槽？！我特训了10年竟然一下就被认出来了？酒保说：因为我们苏联没有黑人。"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10057
+}, {
+  "id" : 293,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "看过4个的我，看来已经不用隐藏年龄了..."
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/23.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/23fm.png"
+  } ],
+  "praiseNum" : 50,
+  "playerId" : 10058
+}, {
+  "id" : 294,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "软件公司做了一个软件，功能是一家咖啡馆，卖一杯咖啡给客户。测试工程师开始测试:客户推开咖啡馆的门，要了1杯咖啡。客户推开咖啡馆的门，要了99999999杯咖啡。3、客户推开咖啡馆的门，要了0.369251杯咖啡。测试全部通过软件顺利上线。上线当日，客户要了一份蛋炒饭，系统崩溃..."
+  } ],
+  "praiseNum" : 54,
+  "playerId" : 10059
+}, {
+  "id" : 295,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "不知为何，今天有点感伤，也有点怀旧情怀，也许是自己渐渐年长，以为自己慢慢放下了儿时的陈年旧事。想起某日和好友聊起过往，她说“我竟不知是你表现得太过坚强了，坚强到我心疼你！”听完这句，我竟泪流满面，无语凝噎。"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10060
+}, {
+  "id" : 296,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "现在还有多少老玩家在坚持这个游戏呢？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/26.png"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10061
+}, {
+  "id" : 297,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "前苏联的记者问一个农民：如果你有一百亩地，你可以捐给国家吗？ 农民：可以！ 记者：如果你有一百万，你愿意捐给国家吗？ 农民：我愿意。 记者：如果你有一头牛，你愿意捐给国家吗？ 农民：我不愿意。 记者：为什么？ 农民：因为我真的有一头牛。"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10062
+}, {
+  "id" : 298,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "珍爱生命，远离史塔克？？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/28.png"
+  } ],
+  "praiseNum" : 41,
+  "playerId" : 10063
+}, {
+  "id" : 299,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "后来爸爸留下了欣慰的泪水"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/29.png"
+  } ],
+  "praiseNum" : 44,
+  "playerId" : 10064
+}, {
+  "id" : 300,
+  "tagDesc" : "经典剧本",
+  "tags" : [ 5 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "不然你以为我是怎么迟到的..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/laoyonghu/30.png"
+  } ],
+  "praiseNum" : 35,
+  "playerId" : 10065
+}, {
+  "id" : 301,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : "[{\"type\": 1,\"content\": \"1.刚才给男朋友打电话，他说：“挂了啊，飞机上不能打电话”\n我还纳闷呢就挂了，后来才反应过来他是在玩吃鸡\"\n }]",
+  "praiseNum" : 66,
+  "playerId" : 10091
+}, {
+  "id" : 302,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "一个国外小哥的低成本Cos，感觉好像还挺像的...."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/2.png"
+  } ],
+  "praiseNum" : 68,
+  "playerId" : 10092
+}, {
+  "id" : 303,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "难道填的不对嘛"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/3.png"
+  } ],
+  "praiseNum" : 72,
+  "playerId" : 10093
+}, {
+  "id" : 304,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "只要我还有快递还在路上，就感觉这生活还算有点希望...."
+  } ],
+  "praiseNum" : 70,
+  "playerId" : 10094
+}, {
+  "id" : 305,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "希望我的高中语文老师能对此发表一下看法..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/5-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/5-2.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/5-3.png"
+  } ],
+  "praiseNum" : 71,
+  "playerId" : 10095
+}, {
+  "id" : 306,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "如何用一张图表示“你承受了你这个年龄不该承受的东西”"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/6.png"
+  } ],
+  "praiseNum" : 74,
+  "playerId" : 10096
+}, {
+  "id" : 307,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "太残忍了，果然没有买卖就没有杀害..."
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/7.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/7fm.png"
+  } ],
+  "praiseNum" : 76,
+  "playerId" : 10097
+}, {
+  "id" : 308,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "看见别的女孩子吃饭我也吃，看见别的女孩子买我也买，看见别的女孩子又瘦又美，我就当没看见。"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10098
+}, {
+  "id" : 309,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我的馒头的呢？我的馒头怎么没了？"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/9.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/9fm.png"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10099
+}, {
+  "id" : 310,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "如何装成一个有学问的人"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/10-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/10-2.png"
+  } ],
+  "praiseNum" : 36,
+  "playerId" : 10100
+}, {
+  "id" : 311,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "此时一名吃瓜群众悄悄路过..."
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/11.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/11fm.png"
+  } ],
+  "praiseNum" : 59,
+  "playerId" : 10056
+}, {
+  "id" : 312,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "知道这是Cos什么的，估计已经是叔叔阿姨的年纪了吧..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/12-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/12-2.png"
+  } ],
+  "praiseNum" : 75,
+  "playerId" : 10057
+}, {
+  "id" : 313,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "昨晚预约了快递上门取件还订了个外卖，结果早上睡太死外卖打电话没听见，直接给我放门口阳台了，后来快递员来取件把我外卖寄走了，然后就没有然后了..."
+  } ],
+  "praiseNum" : 45,
+  "playerId" : 10058
+}, {
+  "id" : 314,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "如何正确的教妈妈散步"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/14.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/14fm.png"
+  } ],
+  "praiseNum" : 38,
+  "playerId" : 10059
+}, {
+  "id" : 315,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "论备胎的自我修养"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/15.png"
+  } ],
+  "praiseNum" : 37,
+  "playerId" : 10060
+}, {
+  "id" : 316,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "猫：？？？"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/16.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/16fm.png"
+  } ],
+  "praiseNum" : 47,
+  "playerId" : 10061
+}, {
+  "id" : 317,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我学校附近有个刀削面馆，我经常去吃。有一次去吃面，看见了老板儿子，很小很可爱。于是逗他：“你想不想吃呀？”他说不吃。我问为什么，他说：“妈妈不让吃，太脏。"
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10062
+}, {
+  "id" : 318,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "山东和河南的小伙伴出来解释一下"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/18.png"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10063
+}, {
+  "id" : 319,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我一哥们上经济课，老师问他投资跟投机有什么区别…他说：一个是普通话，一个是广东话……"
+  } ],
+  "praiseNum" : 55,
+  "playerId" : 10064
+}, {
+  "id" : 320,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "又萌又凶又无助"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/20.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/20fm.png"
+  } ],
+  "praiseNum" : 52,
+  "playerId" : 10065
+}, {
+  "id" : 321,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有次我坐火车遇到一群印度人，闲着没事就和我用中文聊起了各自国家的文化，聊到饮食文化的时候，我说：中国的筷子你会用嘛？他说：用手抓才是最正确的吃饭方式，而且还不受制于食物，啥都可以用手抓。我这个人就比较杠，下车之后我就带他们去吃了顿火锅。"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10049
+}, {
+  "id" : 322,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "千万别惹美术生系列"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/22.png"
+  } ],
+  "praiseNum" : 44,
+  "playerId" : 10050
+}, {
+  "id" : 323,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "至臻五仁馅月饼？"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/23.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/23fm.png"
+  } ],
+  "praiseNum" : 35,
+  "playerId" : 10081
+}, {
+  "id" : 324,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "难道不是赚了2块？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/24.png"
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10082
+}, {
+  "id" : 325,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "高一那年，我和她是班级顶尖学生，两人争夺保送名额，所有人都能看到我们在埋头苦学，每天中午，我和她还会一起一边吃麻辣烫一边复习，她每次都会默默把鱼丸香肠粉丝夹到我碗里，被我发现了她就说她不喜欢吃，眼里满满的爱意，一年后，她被保送了，我得了食道癌..."
+  } ],
+  "praiseNum" : 65,
+  "playerId" : 10083
+}, {
+  "id" : 326,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "只有娘炮采用卫生纸擦屁股，男人就该用砂纸。"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/26.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/26fm.png"
+  } ],
+  "praiseNum" : 51,
+  "playerId" : 10084
+}, {
+  "id" : 327,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "一本正经的胡说八道"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/27.png"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10085
+}, {
+  "id" : 328,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "这个声音莫名的好听..."
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/28.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/28fm.png"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10086
+}, {
+  "id" : 329,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "脾气大的人，就算成了佛系，也是武僧,别问我怎么知道的...."
+  } ],
+  "praiseNum" : 36,
+  "playerId" : 10087
+}, {
+  "id" : 330,
+  "tagDesc" : "校园王者",
+  "tags" : [ 6 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "你确定你不是养的QQ宠物？？？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/egao/30.png"
+  } ],
+  "praiseNum" : 59,
+  "playerId" : 10088
+}, {
+  "id" : 331,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "据说在古代，药店都会挂一副对联：但愿世间人无病，宁可架上药生尘...."
+  } ],
+  "praiseNum" : 75,
+  "playerId" : 10089
+}, {
+  "id" : 332,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "人在做，天在看？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/2.png"
+  } ],
+  "praiseNum" : 45,
+  "playerId" : 10090
+}, {
+  "id" : 333,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "年少的时候都认为定能成就一番事业 绝不可能是平常人 随着时间流逝 接受自己的平庸成了最难的事情 其实自己也是同大众一样千篇一律的人 没有什么闪光点值得骄傲 乾坤未定 你我皆是黑马 这句话只适合送给一直努力的人而不是多愁善感的情感博主 承认吧 再不努力就是最普通的人了"
+  } ],
+  "praiseNum" : 38,
+  "playerId" : 10091
+}, {
+  "id" : 334,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "今天和男朋友约好在各自的城市看同一场电影，然后我偷偷买了去他那里的机票，订了他旁边的观影座位，现在到电影院没见到人，正纳闷时接到他打来的电话，兴奋的语气：老婆，你猜我在哪！ 我就知道完了...."
+  } ],
+  "praiseNum" : 37,
+  "playerId" : 10092
+}, {
+  "id" : 335,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "爱和被爱从来都是相互的"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/5.png"
+  } ],
+  "praiseNum" : 47,
+  "playerId" : 10093
+}, {
+  "id" : 336,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "奶奶今年75岁了，她告诉我，每天早上她都会和她的闺蜜发一个笑脸表情以确保对方还活着。"
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10094
+}, {
+  "id" : 337,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "很喜欢的一段话“我做好了要与你过一辈子的打算，也做好了你随时要走的准备，这大概是最好的爱情观，深情而不纠缠"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10095
+}, {
+  "id" : 338,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我闻了你的味道，当场去世..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/8.png"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10096
+}, {
+  "id" : 339,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "属于你的正在向你走来，不属于你的也终归离你远去。随着时间的推移，这一切都会有意义，但就目前而言，请承担困惑，并专注于活在当下，不要让你的人生都在“有一天会快乐的”中度过，现在就开始快乐起来吧"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10097
+}, {
+  "id" : 340,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "这大概就是嫁给了爱情的样子吧"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/10.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/10fm.png"
+  } ],
+  "praiseNum" : 36,
+  "playerId" : 10098
+}, {
+  "id" : 341,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "疲惫就如秋风，四面八方向你涌来。而你恰好就是那个没有穿外套的人。保持好心情，生活也许会不一样吧！"
+  } ],
+  "praiseNum" : 59,
+  "playerId" : 10099
+}, {
+  "id" : 342,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "这就是男人吧"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/12.png"
+  } ],
+  "praiseNum" : 75,
+  "playerId" : 10100
+}, {
+  "id" : 343,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "人生就像一盘棋，一旦落子就不能反悔。过去也许有过荣耀，或许经历挫折，但都已不再重要。我们唯一能做的，就是走好脚下的每一步，下好眼前的每步棋。把每一个平凡的当下都努力过得精彩，才能给未来留下最美的回忆。"
+  } ],
+  "praiseNum" : 45,
+  "playerId" : 10056
+}, {
+  "id" : 344,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "多想你也这样出现在我面前"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/14.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/14fm.png"
+  } ],
+  "praiseNum" : 38,
+  "playerId" : 10057
+}, {
+  "id" : 345,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "上初中后跟小学朋友断了联系，上高中后跟初中朋友断了联系，上大学后，高中的朋友也不大联系了 ，估计大学毕业后就没朋友了， 从一个环境到另一个环境 ，过去的关系全都无力维系，是青春太过单薄，风轻轻一吹就散了，离开时请记得彼此的微笑，给彼此祝福。蓦然回首，生命是一场无法回放的绝版电影。"
+  } ],
+  "praiseNum" : 37,
+  "playerId" : 10058
+}, {
+  "id" : 346,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我们复合吧，无论是重蹈覆辙还是互相折磨。"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/16.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/16fm.png"
+  } ],
+  "praiseNum" : 47,
+  "playerId" : 10059
+}, {
+  "id" : 347,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "这可能就是我想要的爱情吧"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/17.jpg"
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10060
+}, {
+  "id" : 348,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "这可能就是为什么很多人都单身的原因了吧"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/18.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/18fm.png"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10061
+}, {
+  "id" : 349,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "也行这就是人生吧"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/19-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/19-2.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/19-3.png"
+  } ],
+  "praiseNum" : 55,
+  "playerId" : 10062
+}, {
+  "id" : 350,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "于千万人之中，没有早一步，也没有晚一步，恰好遇见了。要找一个对的人，也许需要一辈子的耐心，还需要一点儿恰好的运气。或许恰好我们就遇上了。我希望，我有这一点儿恰好的运气，也有一个对的你。"
+  } ],
+  "praiseNum" : 52,
+  "playerId" : 10063
+}, {
+  "id" : 351,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "但愿自己不忘初心"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/21.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/21fm.png"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10064
+}, {
+  "id" : 352,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "秋天，瑟瑟风和枯黄的叶子，让人感觉有点淡淡的忧伤。不是那种痛苦，沉闷，是季节剥离过程中的一丝隐痛，是心底难掩的别情离绪。它用风的薄凉转换着绿意，用落叶诠释着生息岂止。人事有代谢，往来成古今……当倾听风声鹤唳感伤叶落的同时，是否感受到季节流转的风姿也带走了默默流逝的时光呢…… "
+  } ],
+  "praiseNum" : 56,
+  "playerId" : 10065
+}, {
+  "id" : 353,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "骗人，花呗一直都让我哭，却从来没让我笑过"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/23.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/23fm.png"
+  } ],
+  "praiseNum" : 52,
+  "playerId" : 10091
+}, {
+  "id" : 354,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "如果有一天，我走进你的心里，我也会哭，因为那里没有我;如果有一天，在喧闹的城市里，我们擦肩而过，我会停住脚步，望着你的背影，告诉自己曾经爱过你;如果有一天，你走进我的心里，你会哭，因为里面全是你。我以为只要认真地喜欢，就可以打动一个人，原来，只是打动了我自己"
+  } ],
+  "praiseNum" : 44,
+  "playerId" : 10092
+}, {
+  "id" : 355,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "原来人在小时候就已经学会如何为自己喜欢的东西思考了。"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/25.png"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10093
+}, {
+  "id" : 356,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "成熟意味着你终于明白，没有人能真正拯救你。你必须照顾好自己和自己身边的一切，不再依靠任何庇护。你可以难过、抱怨、崩溃，但你最终得站起来，靠自己解决所有问题，往前走。"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10094
+}, {
+  "id" : 357,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "美国的一位爷爷过世前做了一个抱枕，送给和他曾经朝夕相处的小孙子，他在枕头边缝了一块布，上面写:“这是用我穿过 的衬衣做的，任何时候你抱着这个枕头，就知道我还在这儿，爱你的爷爷。"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/27.png"
+  } ],
+  "praiseNum" : 35,
+  "playerId" : 10095
+}, {
+  "id" : 358,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "坎坷的人生不可怕，可怕的是缺乏了自信，没有了自我。如果整天怨天尤人，埋怨老天的不公，命运的不顺，生活的不平。只会一蹶不振，碌碌无为，无所事事。只会向命运低头，迷失了前进的方向，那就是丧失自身的人生价值"
+  } ],
+  "praiseNum" : 68,
+  "playerId" : 10096
+}, {
+  "id" : 359,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "但愿自己不忘初心"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/29.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/qinggan/29fm.png"
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10097
+}, {
+  "id" : 360,
+  "tagDesc" : "古代闲人",
+  "tags" : [ 7 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "你既然在我的心房住了那么久，那就永远不要走。如果你执意要做那条爱跑的狗，交了房租你再走。"
+  } ],
+  "praiseNum" : 50,
+  "playerId" : 10098
+}, {
+  "id" : 361,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "国外一家网站总结了“最常见的10种噩梦”以及背后的含义……看来，人类喜欢解梦这事儿不分国界啊"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/1-1.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/1-2.png"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/1-3.png"
+  } ],
+  "praiseNum" : 54,
+  "playerId" : 10099
+}, {
+  "id" : 362,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "梦里抓住鱼，预示你会取得成功，抓住的鱼越大，则成功越大,但是，我是卖鱼的啊..."
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10064
+}, {
+  "id" : 363,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "塔罗解梦 看未来象征发展梦境推算，对你近期的梦境进行一个推算。梦是存在在大脑里最深层次的思想，乃至断断续续的梦都会对未来有所象征。"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/3.png"
+  } ],
+  "praiseNum" : 41,
+  "playerId" : 10065
+}, {
+  "id" : 364,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "刚在公交上突然想起来某一天的一个梦“我在nike店排队 偶遇到发名额的（各种难买的样式只要有这个名额就能正价买到） 我还抢了五个 然后我就站那儿想啊 我要买什么呢 我该买哪个呢 然后 就没有然后了我周公解梦了一下 不管是“买东西”还是“排队” 结果都不错有被安慰那么一点点… ​"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10066
+}, {
+  "id" : 365,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "果然做梦梦到骨折肯定没有好事..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/5.png"
+  } ],
+  "praiseNum" : 50,
+  "playerId" : 10067
+}, {
+  "id" : 366,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "一本正经的胡说八道"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/6.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/6fm.png"
+  } ],
+  "praiseNum" : 54,
+  "playerId" : 10068
+}, {
+  "id" : 367,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "晚上做梦看了几个笑话段子，竟然笑醒了……醒来已经忘了内容，也不知道我是真的被笑醒了，还是只是做梦觉得自己被笑醒……"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10069
+}, {
+  "id" : 368,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有一天晚上做梦梦到飞机，于是就去网上查了一下，结果预示大难临头，后来就告诉了朋友想博取一下同情，结果他告诉我“周公那个时候连飞机都没有，他怎么知道预示着什么？”"
+  } ],
+  "praiseNum" : 41,
+  "playerId" : 10070
+}, {
+  "id" : 369,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "昨晚做梦梦见我在写段子，还边打瞌睡边写 写了一页多. 早上起来还记得段子挺好笑"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/9.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/9Fm.png"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10071
+}, {
+  "id" : 370,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "做梦是件有趣的事，然而梦中的内容却常常让人费解，早在几千年前古人就认为，梦是来自神灵的启示，能预测凶吉，并且指导人们的思想和行为，总而言之，梦的形成并非偶然，无论疯狂还是荒唐，显喻还是隐喻，梦终将被置于我们的精神生活背景中并伴随一生。"
+  } ],
+  "praiseNum" : 50,
+  "playerId" : 10072
+}, {
+  "id" : 371,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "明天还是不出门了，在家安静的躺着了"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/11.png"
+  } ],
+  "praiseNum" : 54,
+  "playerId" : 10073
+}, {
+  "id" : 372,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "昨天晚上做梦，梦见一孩子向我求救。我：“我怎么救你？”那小孩：“只要有人向你借钱，你别借就好了。”今天闺密就打电话过来借钱..."
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10074
+}, {
+  "id" : 373,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "解梦的人是认真的么....."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/13.png"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10075
+}, {
+  "id" : 374,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我建议开个网吧！"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/14.png"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10076
+}, {
+  "id" : 375,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "为什么我一打游戏遇到的队友都骂我？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/15.png"
+  } ],
+  "praiseNum" : 35,
+  "playerId" : 10077
+}, {
+  "id" : 376,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "昨晚，梦见自己又上大学了。一进入梦里就发现自己在大学宿舍里了，一顿忙活，正要出去，去校园里的食堂吃饭吧，我头脑里只有一点点头绪，关于自己为什么会在这里。一直在努力回想，却怎么也想不起来。"
+  } ],
+  "praiseNum" : 68,
+  "playerId" : 10078
+}, {
+  "id" : 377,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "好像是在刀上啊，没毛病..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/17.png"
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10079
+}, {
+  "id" : 378,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "好像没毛病啊"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/18.png"
+  } ],
+  "praiseNum" : 50,
+  "playerId" : 10080
+}, {
+  "id" : 379,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "昨晚做梦梦到了一堆坏事，周公解梦之后今天好像不怎么样，看了星座运势今天好像也不怎么样，我今天一定要好好学习别的哪也不去...."
+  } ],
+  "praiseNum" : 54,
+  "playerId" : 10091
+}, {
+  "id" : 380,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "原来你爸是棋圣？？？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/20.png"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10092
+}, {
+  "id" : 381,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "这个土味情话不错。"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/21.png"
+  } ],
+  "praiseNum" : 41,
+  "playerId" : 10093
+}, {
+  "id" : 382,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "巧乐兹是你嘛？为什么越看越舒服啊...."
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/22.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/22fm.png"
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10094
+}, {
+  "id" : 383,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : "[{\"type\": 1,\"content\": \"我：就我昨天啊，梦到我跟一群小奶狗躺在一起欢乐地嬉戏，然后我去查周公解梦……\n闺蜜：等一下，你是说真实的一群幼犬，还是....我：？\"\n }]",
+  "praiseNum" : 68,
+  "playerId" : 10095
+}, {
+  "id" : 384,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "梦见厕所是什么意思？做梦梦见厕所好不好？厕所是肮脏和缺乏肯定的象征。梦中的厕所，象征着梦者对私密性的需求和在自己的空间里自由发泄感情的愿望，所以梦见厕所其实是因为.........你要尿床了！"
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10096
+}, {
+  "id" : 385,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有位非常漂亮的女同事，有天起晚了没有时间化妆便急忙冲到公司，结果那天她被记旷工了...."
+  } ],
+  "praiseNum" : 50,
+  "playerId" : 10097
+}, {
+  "id" : 386,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "果然做梦是件很神奇的事情"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/jiemeng/26.png"
+  } ],
+  "praiseNum" : 54,
+  "playerId" : 10098
+}, {
+  "id" : 387,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我发现，做梦基本上是一半的脑子在胡编乱造，而另外一半在试图弄清到底发生了什么。"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10099
+}, {
+  "id" : 388,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "做梦梦见小猫，周公解梦说我要邂逅浪漫爱情故事了，在哪里在哪里在哪里？？"
+  } ],
+  "praiseNum" : 41,
+  "playerId" : 10100
+}, {
+  "id" : 389,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "今天几个医学生来实习，我领他们来到病房，说：等会你们看一看病人的病情，知道的就点头，不知道的就摇头。第一个学生先去看了看，摇着头出去了。第二个学生跟着去看，也摇着头出去了，我看着他们叹了一口气。当我正准备领着学生离开时，那个病人突然跳下床抱着我的腿：主任，救救我，我不想死"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10001
+}, {
+  "id" : 390,
+  "tagDesc" : "梦境专家",
+  "tags" : [ 8 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "老婆怀孕了，体重猛增，我对 老婆说：看你胖的，我真心着不下去了！二货老婆回了一句：你一个把饭变成屎的人哪里来的勇气笑话一个把饭变成生命的人....."
+  } ],
+  "praiseNum" : 50,
+  "playerId" : 10002
+}, {
+  "id" : 391,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "英国一名大学生设计出了世界上最狭小，最硬核的密室逃脱——给你锁进“棺材”里，一支笔，一把手电，你逃吧..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/1.png"
+  } ],
+  "praiseNum" : 54,
+  "playerId" : 10003
+}, {
+  "id" : 392,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "不要和你的男朋友和别的情侣一起去鬼屋或者密室逃脱，因为出来的时候你不知道你牵着手的男人是男朋友还是别的男人，也不知道他抱着的女人是你还是别的女人"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10004
+}, {
+  "id" : 393,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "强烈推荐TVB下饭剧十二传说的，反父权反封建反性别歧视，而且还全是密室杀人！"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10005
+}, {
+  "id" : 394,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "超喜欢柯南的密室杀人系列！！"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/4.png"
+  } ],
+  "praiseNum" : 49,
+  "playerId" : 10006
+}, {
+  "id" : 395,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "意不意外，惊不惊喜？"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/5.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/5fm.png"
+  } ],
+  "praiseNum" : 41,
+  "playerId" : 10007
+}, {
+  "id" : 396,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "今天玩的那个密室特别恐怖，单人任务我就喊了我同学陪我那个时候我吓的大脑一片空白，啥也不知道，抓着我同学就跑...总之全程崩溃...."
+  } ],
+  "praiseNum" : 44,
+  "playerId" : 10008
+}, {
+  "id" : 397,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "这是什么意思？有没有大佬在"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/7.png"
+  } ],
+  "praiseNum" : 35,
+  "playerId" : 10009
+}, {
+  "id" : 398,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "说真的，受不了刺激的千万别看《巨鳄风暴》...漫长的90分钟，简单粗暴，怪不得是R级电影...."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/8.png"
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10010
+}, {
+  "id" : 399,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我朋友去玩密室，他一脚把第二关的门给踹开了，工作人员小哥哥一脸懵逼地说，不要破坏道具....贼尴尬"
+  } ],
+  "praiseNum" : 68,
+  "playerId" : 10011
+}, {
+  "id" : 400,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "密室逃脱 有知道怎么解的吗？在线等"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/10.png"
+  } ],
+  "praiseNum" : 72,
+  "playerId" : 10012
+}, {
+  "id" : 401,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "《无人生还》这种悬疑题材的真是看不腻。应该算密室杀人类型，10个人被送到一座孤岛，相继被杀，真正的凶手最后被揭晓才恍然大悟。"
+  } ],
+  "praiseNum" : 70,
+  "playerId" : 10013
+}, {
+  "id" : 402,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有两个舍友准备去玩密室，第三个舍友说，我玩过xxx，有点恐怖哈。有个舍友听了说，那我有点不想去诶。我：你找男朋友一起去啊。第三个舍友：那要智商的。我们三个愣住，骂谁没智商呢。第三个舍友：不是那意思，我们一群人都没通关呢。我：那大概是你们一群人智商不行吧……"
+  } ],
+  "praiseNum" : 71,
+  "playerId" : 10014
+}, {
+  "id" : 403,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "昨晚密室最搞笑的是，npc出来以后要逃到另一个房间的衣橱里运送到下一个房间，这个密室一般是六个人玩的，衣橱准备了两间，衣橱的空间非常小，结果我们像一群野马，七个人集体冲到了同一个衣橱里，哈哈哈哈哈哈哈哈哈哈哈哈哈哈，挤爆了，比早高峰的地铁还挤，每个人都被压扁了"
+  } ],
+  "praiseNum" : 74,
+  "playerId" : 10015
+}, {
+  "id" : 404,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "挺简单的啊"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/14.png"
+  } ],
+  "praiseNum" : 76,
+  "playerId" : 10016
+}, {
+  "id" : 405,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "女孩为了考验男友，躲进密室，却把钥匙落在了外面"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10017
+}, {
+  "id" : 406,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "好喜欢密室大逃脱，邓伦，黄明昊，魏大勋都好帅，又好玩儿。每次邓伦吓的被魏大勋抱着的时候，好希望自己是魏大勋把被吓到的邓伦抱在怀里 在他耳边说别怕有我在，嘿嘿嘿 太甜了杨幂好美，谢依霖好搞笑。贼想去玩儿次密室逃脱！"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10018
+}, {
+  "id" : 407,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "安利一部恐怖短片《地狱饰演》，男子被困在一个房间里，他想尽了办法破解锁上的密码。试了无数遍之后，房间里的另一扇门打开了，一直试图逃出去的他却不知道外面是一个跟尾恐怖的世界。密室逃脱和恐怖氛围都做的很到位，最后的反转才是最恐怖的！"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/17.png"
+  } ],
+  "praiseNum" : 36,
+  "playerId" : 10019
+}, {
+  "id" : 408,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "身边又多了一个幂蜂，被密室大逃脱圈粉的，聪明又搞笑，无脑黑们真的很无聊"
+  } ],
+  "praiseNum" : 59,
+  "playerId" : 10020
+}, {
+  "id" : 409,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "闲着没事看了下《恐怖公馆》，现在倒好，心脏砰砰的跳，吓死宝宝了"
+  } ],
+  "praiseNum" : 75,
+  "playerId" : 10021
+}, {
+  "id" : 410,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "密室大逃脱vip大神版真的太好看了，嘉宾都挺好的，那个邵明明是搞笑担当嘛，还挺活跃气氛的。。。"
+  } ],
+  "praiseNum" : 45,
+  "playerId" : 10022
+}, {
+  "id" : 411,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "微信读书上看无人生还，某读者评论觉得这种类密室的设定已经快被用烂，套路差不多blabla，希望阿加莎能写出让人毛骨悚然的新意”。底下人评论阿加莎才是密室杀人的开山祖师，要求up主看看本书的出版年代。。。哈哈哈哈哈，微信读书的评论果然能在阅读过程中带来欢乐"
+  } ],
+  "praiseNum" : 38,
+  "playerId" : 10023
+}, {
+  "id" : 412,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "再也不玩啥密室逃脱了！！！"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/22.png"
+  } ],
+  "praiseNum" : 37,
+  "playerId" : 10024
+}, {
+  "id" : 413,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "昨天把《尸人庄谜案》看了一半，基本能锁定凶手了，不过作者这个双重密室杀人设定还挺有意思的，希望看到比较合理的密室手法破解。结合电影卡司，感觉选角还挺到位的。"
+  } ],
+  "praiseNum" : 47,
+  "playerId" : 10025
+}, {
+  "id" : 414,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "刚刚看完《迭代1》，不知道为啥有种看综艺的感觉，还是说现在的综艺都是根据电影改编的？"
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10026
+}, {
+  "id" : 415,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "密室逃脱是这么刺激的吗？差点吓死在里面，出来以后倒是觉得很搞笑，工作人员都说，我们都做好要进去吓唬你们的准备了，结果你们不让我们进去，哈哈哈哈（以后再也不去了）"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10001
+}, {
+  "id" : 416,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有人玩《未上锁的房间》嘛？组个队一起啊，顺便交流交流"
+  } ],
+  "praiseNum" : 55,
+  "playerId" : 10002
+}, {
+  "id" : 417,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有没有大神告诉一下这关怎么过？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/mishi/27.png"
+  } ],
+  "praiseNum" : 52,
+  "playerId" : 10003
+}, {
+  "id" : 418,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "想起一个搞笑的 前天玩完密室 带队小哥哥在密室门口的走廊里给我们讲故事结局的时候我突然瞄见一个穿着红色大褂画着僵尸装的npc小哥哥从不远处飘了过去 我正处于懵逼之中时候他又飘了回来 我就赶紧喊我朋友看他 我朋友说了句他好冷漠啊 准备进门的npc小哥哥立刻吼了句你过来 差点把我们一群人吓成尖叫鸡 后来路过他进去的小门的时候他还故意用力拍门吓唬我们 太坏了！！！"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10004
+}, {
+  "id" : 419,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "《尸人庄》看完了，怎么说呢，很精彩。在丧尸密室里的杀人事件很有趣，唯一让人觉得有点瑕疵的就是侦探发现第二个杀人案里的证词漏洞，理由真的有点不能接受。不过也不大影响就是了，不看这点凶手还是能推理得出来。"
+  } ],
+  "praiseNum" : 44,
+  "playerId" : 10005
+}, {
+  "id" : 420,
+  "tagDesc" : "密室脱逃者",
+  "tags" : [ 9 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "玩密室逃脱真是一个见证友谊和爱情的好方法，别问我怎么知道的..."
+  } ],
+  "praiseNum" : 35,
+  "playerId" : 10006
+}, {
+  "id" : 421,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "大学时候有次期末考试，大家怂恿学霸传答案。后来出考场之后，众人纷纷问学霸：为啥少一个，最后一题是不是没会？结果学霸淡定的回答：我第一题没会....."
+  } ],
+  "praiseNum" : 40,
+  "playerId" : 10007
+}, {
+  "id" : 422,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "亲妈无疑了"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/2.png"
+  } ],
+  "praiseNum" : 65,
+  "playerId" : 10008
+}, {
+  "id" : 423,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "确认过眼神，你才是对的人"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/3.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/3Fm.png"
+  } ],
+  "praiseNum" : 51,
+  "playerId" : 10009
+}, {
+  "id" : 424,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "你们知道什么叫“被迫装睡”吗？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/4.png"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10010
+}, {
+  "id" : 425,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "？？？"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/5.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/5fm.png"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10011
+}, {
+  "id" : 426,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "怪不得买车之前要先认识贵的车...."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/6.png"
+  } ],
+  "praiseNum" : 36,
+  "playerId" : 10012
+}, {
+  "id" : 427,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "中华牙膏，你值得拥有。"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/7.png"
+  } ],
+  "praiseNum" : 59,
+  "playerId" : 10013
+}, {
+  "id" : 428,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "她的同桌是女生吧？"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/8.png"
+  } ],
+  "praiseNum" : 75,
+  "playerId" : 10014
+}, {
+  "id" : 429,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "信息量有点大啊...."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/9.png"
+  } ],
+  "praiseNum" : 45,
+  "playerId" : 10015
+}, {
+  "id" : 430,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "小时候，我听过一句话叫：我捉住一只蝉就以为捉住了整个夏天，于是我也去捉蝉，后来我妈告诉我才知道，那不是蝉，是蟑螂"
+  } ],
+  "praiseNum" : 38,
+  "playerId" : 10016
+}, {
+  "id" : 431,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "妈妈：其实我打麻将是为了给你赚上学的学费"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/11.png"
+  } ],
+  "praiseNum" : 37,
+  "playerId" : 10017
+}, {
+  "id" : 432,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "像极了某些强行把反派洗白的电视剧"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/12.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/12fm.png"
+  } ],
+  "praiseNum" : 47,
+  "playerId" : 10018
+}, {
+  "id" : 433,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "刚刚在公园绿地里看到一对很有爱的父女，父亲大约五十岁左右，女儿二十岁左右，女儿很乖巧的给老爸剥了个茶叶蛋，然后说了什么让他开怀大笑，多温馨的画面啊，这才是真正家庭生活啊可是……后来他们为什么开始接吻了呢？？"
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10019
+}, {
+  "id" : 434,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "妻原本很漂亮，却被一场大火毁了容，我从不带她外出，妻也无怨言。这天我对她说：老同学聚会，一起去吧。妻欣喜若狂在镜子前左照右照：“穿这行吗？”“好看！”妻笑了。我和妻来到饭店，她说：“你先进去，我去趟洗手间。过了一会儿，我收到妻的短信：“我回家了，今天是我最开心的一天。"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10020
+}, {
+  "id" : 435,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "结局让人猝不及防....."
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/15.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/15fm.png"
+  } ],
+  "praiseNum" : 48,
+  "playerId" : 10021
+}, {
+  "id" : 436,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有个女生削铅笔时不小用把手划出个口子，喜欢她的男生见状，立即拿过女生手中的铅笔刀，把自己的手也割出一道口子。女生问他：“你这是做什么?”男生深情凝视女生说：“你看，这样一来我们就是两口子了。”半个月后，男孩因为染上破伤风杆菌死了。"
+  } ],
+  "praiseNum" : 46,
+  "playerId" : 10022
+}, {
+  "id" : 437,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "男孩说还有81天我就回来了,于是给女朋友买了81种零食,说:你每天吃一个,吃完了我就回来了后来,男孩为了给女孩一个惊喜,第三天就回来了，女孩哭着说:你果然没有骗我,我刚吃完你就回来了...."
+  } ],
+  "praiseNum" : 36,
+  "playerId" : 10023
+}, {
+  "id" : 438,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "三个男孩同时追一个女孩，女孩说，你们游遍全世界回来，我再选择。第一个男孩去了欧洲、美洲、非洲，第二个男孩去了澳洲，第三个男孩回到女孩身边，绕着女孩走了一圈说：你就是我的全世界。女孩非常感动，留着泪，选择了他们之中最有钱的那个。"
+  } ],
+  "praiseNum" : 59,
+  "playerId" : 10024
+}, {
+  "id" : 439,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "早上老爹去开车，发现旁边停的车距离他的驾驶位一侧只有十几厘米，两车倒车镜几乎碰在一起，完全进不去，只能从副驾驶位爬进去。老爹一下子愤怒得血气上涌，大骂人家王八蛋，素质低，冲动得要划人家的车，被我们拦住了。下午回来停车时，正好碰到了邻车车主，那大哥叫住老爹说：昨晚你的驾驶座车窗忘记关闭了，我为了帮你堵住驾驶室，把车停在你车旁距离特别特别近，倒了好几次才停好呢！老爹顿时翻腾了，嘴上说着谢谢谢谢，心里羞愧难当...."
+  } ],
+  "praiseNum" : 75,
+  "playerId" : 10025
+}, {
+  "id" : 440,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "朋友今年高一，然后高二高三都出去春游了，只有他们没去。于是就去找校长说话。校长说，别急别急，听我慢慢解释。每一年啊，都有一个年级不会春游。今年高一，明年高二，后年就高三了...."
+  } ],
+  "praiseNum" : 45,
+  "playerId" : 10026
+}, {
+  "id" : 441,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "总感觉哪里不对"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/21.png"
+  } ],
+  "praiseNum" : 38,
+  "playerId" : 10027
+}, {
+  "id" : 442,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "吸血鬼：？？？"
+  }, {
+    "type" : 3,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/22.mp4",
+    "coverPicture" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/22fm.png"
+  } ],
+  "praiseNum" : 37,
+  "playerId" : 10028
+}, {
+  "id" : 443,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "火可能是老师放的，看看谁不想写作业..."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/23.png"
+  } ],
+  "praiseNum" : 47,
+  "playerId" : 10029
+}, {
+  "id" : 444,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "只要我高兴，这个故事就没有结局...."
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/24.png"
+  } ],
+  "praiseNum" : 66,
+  "playerId" : 10030
+}, {
+  "id" : 445,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "我什么都不知道"
+  }, {
+    "type" : 2,
+    "content" : "https://killing-script.oss-cn-qingdao.aliyuncs.com/herPhone/guangchang/shenfanzhuan/25.png"
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10051
+}, {
+  "id" : 446,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "科学研究证明，常年抽烟喝酒的人，患老年痴呆的概率较低，因为早死的概率较高...."
+  } ],
+  "praiseNum" : 55,
+  "playerId" : 10052
+}, {
+  "id" : 447,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "出差，在一个荒无人烟的地方吃了碗面，结账时老板说200块。我问：“一碗面200?你咋不打劫呢?” 老板灵机一动，又打劫了我1000块。"
+  } ],
+  "praiseNum" : 52,
+  "playerId" : 10053
+}, {
+  "id" : 448,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "结婚多年，睡到半夜，老公突然转过身紧抱住老婆说，老婆这辈子太短了。老婆醒过来听到这句话感动得掉下眼泪，老公接着说，我tm都盖不到脚...."
+  } ],
+  "praiseNum" : 62,
+  "playerId" : 10054
+}, {
+  "id" : 449,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "老妈问我：“放假你怎么不去约会？”我说：“又没女的喜欢我。”老妈安慰我：“可能是因为你做的还不够好，假如有女的喜欢你，你愿意为她做什么？”我不假思索：“任何事。”老妈点了点头：“好孩子，妈妈喜欢你，你愿意帮妈妈把碗洗一下么？”"
+  } ],
+  "praiseNum" : 56,
+  "playerId" : 10055
+}, {
+  "id" : 450,
+  "tagDesc" : "名侦探",
+  "tags" : [ 10 ],
+  "resJson" : [ {
+    "type" : 1,
+    "content" : "有个小朋友我叫他跳个舞，他弱弱的说了句“我不会。”我就说：“男孩子要自信一点，大胆一点”。结果他嚣张的喊了一句：“老子不会！”"
+  } ],
+  "praiseNum" : 52,
+  "playerId" : 10056
+} ]

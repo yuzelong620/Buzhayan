@@ -1,0 +1,217 @@
+[ {
+  "id" : 1,
+  "StageFraction" : 1,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 2,
+  "StageFraction" : 2,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 3,
+  "StageFraction" : 3,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 4,
+  "StageFraction" : 4,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 5,
+  "StageFraction" : 5,
+  "Rewards" : "超级宝箱"
+}, {
+  "id" : 10,
+  "StageFraction" : 10,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 15,
+  "StageFraction" : 15,
+  "Rewards" : "超级宝箱"
+}, {
+  "id" : 20,
+  "StageFraction" : 20,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 25,
+  "StageFraction" : 25,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 30,
+  "StageFraction" : 30,
+  "Rewards" : "超级宝箱"
+}, {
+  "id" : 35,
+  "StageFraction" : 35,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 40,
+  "StageFraction" : 40,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 45,
+  "StageFraction" : 45,
+  "Rewards" : "超级宝箱"
+}, {
+  "id" : 50,
+  "StageFraction" : 50,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 55,
+  "StageFraction" : 55,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 60,
+  "StageFraction" : 60,
+  "Rewards" : "超级宝箱"
+}, {
+  "id" : 65,
+  "StageFraction" : 65,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 70,
+  "StageFraction" : 70,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 75,
+  "StageFraction" : 75,
+  "Rewards" : "超级宝箱"
+}, {
+  "id" : 80,
+  "StageFraction" : 80,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 85,
+  "StageFraction" : 85,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 90,
+  "StageFraction" : 90,
+  "Rewards" : "超级宝箱"
+}, {
+  "id" : 95,
+  "StageFraction" : 95,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 100,
+  "StageFraction" : 100,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 105,
+  "StageFraction" : 105,
+  "Rewards" : "超级宝箱"
+}, {
+  "id" : 110,
+  "StageFraction" : 110,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 115,
+  "StageFraction" : 115,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 120,
+  "StageFraction" : 120,
+  "Rewards" : "超级宝箱"
+}, {
+  "id" : 125,
+  "StageFraction" : 125,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 130,
+  "StageFraction" : 130,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 135,
+  "StageFraction" : 135,
+  "Rewards" : "超级宝箱"
+}, {
+  "id" : 140,
+  "StageFraction" : 140,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 145,
+  "StageFraction" : 145,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 150,
+  "StageFraction" : 150,
+  "Rewards" : "超级宝箱"
+}, {
+  "id" : 155,
+  "StageFraction" : 155,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 160,
+  "StageFraction" : 160,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 165,
+  "StageFraction" : 165,
+  "Rewards" : "超级宝箱"
+}, {
+  "id" : 170,
+  "StageFraction" : 170,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 175,
+  "StageFraction" : 175,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 180,
+  "StageFraction" : 180,
+  "Rewards" : "超级宝箱"
+}, {
+  "id" : 185,
+  "StageFraction" : 185,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 190,
+  "StageFraction" : 190,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 195,
+  "StageFraction" : 195,
+  "Rewards" : "超级宝箱"
+}, {
+  "id" : 200,
+  "StageFraction" : 200,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 205,
+  "StageFraction" : 205,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 210,
+  "StageFraction" : 210,
+  "Rewards" : "超级宝箱"
+}, {
+  "id" : 215,
+  "StageFraction" : 215,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 220,
+  "StageFraction" : 220,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 225,
+  "StageFraction" : 225,
+  "Rewards" : "超级宝箱"
+}, {
+  "id" : 230,
+  "StageFraction" : 230,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 235,
+  "StageFraction" : 235,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 240,
+  "StageFraction" : 240,
+  "Rewards" : "超级宝箱"
+}, {
+  "id" : 245,
+  "StageFraction" : 245,
+  "Rewards" : "普通宝箱"
+}, {
+  "id" : 250,
+  "StageFraction" : 250,
+  "Rewards" : "普通宝箱"
+} ]

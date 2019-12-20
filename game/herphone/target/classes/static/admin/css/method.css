@@ -1,0 +1,372 @@
+.layui-layer-border {
+box-shadow: none;
+} 
+.Cpage {
+	position: absolute;
+	left: 80px;
+}
+/* 返回顶部样式 */
+.top {
+	width: 50px;
+	height: 100px;
+	background-color: rgba(0, 0, 255, 0.5);
+	border-radius: 10px;
+	position: fixed;
+	right: 15px;
+	bottom: 40%;
+}
+
+.top #topArrow {
+	width: 30px;
+	height: 30px;
+	border-top: 4px solid #fff; /*利用border和rotate绘制向上的箭头	*/
+	border-left: 4px solid #fff;
+	display: inline-block;
+	transform: translate(9px, 35px) rotate(45deg);
+	cursor: pointer;
+	z-index: 1000; /*避免被其他div遮盖*/
+}
+.top #topArrow:hover {
+	border-width: 5px;
+}
+#queryDrame {
+	position: absolute;
+	left: 710px;
+}
+#itemTiele {
+	position: absolute;
+	top:20px;
+	left: 710px;
+}
+.img-circle{
+	display:block;
+	height: 60px;
+	width: 60px;
+}
+#jinyan{
+  position: relative;
+  left: 480px;
+  top: -34px;
+}
+#pjinyan{
+  position: relative;
+  left: 550px;
+  top: -34px;
+}
+#custom{
+  position: relative;
+  left: 680px;
+  top: -68px;
+}
+#pcustom{
+  position: relative;
+  left: 750px;
+  top: -68px;
+}
+#shenfen{
+  position: relative;
+  left: 0px;
+  top: -50px;
+}
+#addData{
+  position: relative;
+  width: 1000px;
+  left: 330px;
+  border:1px solid #999;
+  padding:3px;
+  background:#F2F2F2; 
+}
+#sendData{
+  position: relative;
+  width: 1000px;
+  height:260px;
+  left: 330px;
+  border:1px solid #999;
+  border-top: none;
+  padding:3px;
+}
+#content{
+  position: relative;
+  left: 10px;
+}
+#inData{
+	display:block;
+	position: relative;
+	top:-28px;
+	left:62px;
+	width: 420px;
+	max-width: 100%;
+	height: 150px;
+	max-height: 100%;
+	border:1px solid #999;
+  	padding:3px;
+  	overflow:hidden;
+  	text-overflow:ellipsis;
+}
+#acceptPlayer{
+	position: relative;
+	top:-35px;
+	left:90px;
+	width: 500px;
+  	height:10px;
+}
+#textIds{
+	position:relative;
+	left:83px;
+	top:-21px;
+}
+#dbuIds{
+	position:relative;
+	left:258px;
+	top:-51px;
+}
+#assignIdBoxs{
+	position:relative;
+	left:120px;
+	top:10px;
+}
+#assignTimeBoxs{
+	position:relative;
+	left:-250px;
+	top:5px;
+}
+#assignTimeAndIdBoxs{
+	position:relative;
+	left:900px;
+}
+#assignTimeAndIds{
+	position:relative;
+	left:-230px;
+	top:-10px;
+	height: 20px;
+	width: 245px
+}
+#dataTimeAndIds{
+	position:relative;
+	left:-270px;
+	top:-12px;
+}
+#dataTimeAndIdss{
+	position:relative;
+	left:-265px;
+	top:-11px;
+}
+#dbuTimeAndIds{
+	position:relative;
+	left:-262px;
+	top:-17px;
+	height: 20px;
+	width: 100px
+}
+#morePlayers{
+	position: relative;
+	top:-35px;
+	left:860px;
+	width: 200px;
+  	height:10px;
+}
+#allPlayers{
+	position: relative;
+	top:-62px;
+	left:860px;
+	width: 200px;
+  	height:10px;
+}
+#chitchat{
+	width: 420px;
+	border:1px solid #999;
+    padding:3px;
+    background:#F2F2F2; 
+}
+#selects{
+	position: relative;
+	top:-260px;
+	width: 200px;
+  	height:10px;
+	left:500px;
+}
+#itemTieleTime{
+	position: relative;
+	left:50px;
+	top:-10px;
+}
+#itemTieleId{
+	position: relative;
+	left:50px;
+	top:40px;
+}
+#dataId{
+	position: relative;
+	left:80px;
+	top:-23px;
+}
+#dbuId{
+	position: relative;
+	width:50px;
+	left:256px;
+	top:-50px
+}
+#itemTieleIdAndTime{
+	position:relative;
+	left:800px;
+	top:25px;
+}
+#dataIdAndTime{
+	position:relative;
+	left:2px;
+	top:-2px;
+}
+#dataTimeAndId{
+	position:relative;
+	left:2px;
+	top:-3px;
+}
+#dbuIdAndTime{
+	position:relative;
+	left:3px;
+	top:-6px;	
+}
+/*----------------------------------------------------*/
+*{font-size: 14px; padding:0; margin:0;}
+.main{
+ position: relative;
+ margin: 20px auto;
+ border: 1px solid steelblue;
+ width: 430px;
+ height: 400px;
+}
+.msgInput{
+ display: block;
+ width: 406px;
+ height: 60px;
+ margin: 10px auto;
+ 
+}
+.sendbtn{
+ position: absolute;
+ width: 100px;
+ height: 29px;
+ bottom: 5px;
+ right: 10px;
+}
+.content{
+ list-style: none;
+ width: 410px;
+ height: 280px;
+ margin: 5px auto;
+ border: 1px dotted #D1D3D6;
+ overflow-y: scroll;
+}
+.msgContent{
+ width:auto;
+ max-width: 250px;
+ height: auto;
+ text-align: justify; 
+ word-break: break-all;
+ margin: 5px;
+ padding: 3px;
+ border-radius: 5px;
+}
+ 
+.content .left{
+ float: left;
+ text-align: left;
+ text-align: justify; 
+ background-color: lightgrey;
+}
+.content .right{
+ float: right;
+ text-align:left;
+ text-align: justify; 
+ background-color: yellowgreen;
+}
+#adminTime{
+position: relative;
+left:135px;
+width:140px;
+} 
+#userTime{
+position: relative;
+left:135px;
+width:140px;
+} 
+/*-----------------------------------------------------------------------*/
+#dialogBox{
+	width:250px;
+	height: 10px;
+	position: relative;
+	left: 350px;
+}
+#pageCss{
+	position: relative;
+	width:300px;
+	left:780px;
+}
+#td1,#td2,#td3,#td4{
+	cursor:pointer;
+}
+#dataTime{
+	position: relative;
+	top:-5px;
+	left:200px;
+	width: 50px;
+ 	height: 10px;
+}
+#assignTime{
+	position: relative;
+	top:12px;
+	left:100px;
+	width: 100px;
+ 	height: 15px;
+}
+#dbuTime{
+	position: relative;
+	top:-18px;
+	left:346px;
+	width: 50px;
+ 	height: 10px;
+}
+#dataTimes{
+	position: relative;
+	top:-12px;
+	left:748px;
+	width: 50px;
+ 	height: 10px;
+}
+#assignTimes{
+	position: relative;
+	top:5px;
+	left:650px;
+	width: 100px;
+ 	height: 15px;
+}
+#dbuTimes{
+	position: relative;
+	top:-26px;
+	left:894px;
+	width: 50px;
+ 	height: 10px;
+}
+#itemTitleBox{
+	position: relative;
+	top:-35px;
+}
+#videoId video{
+    max-width:300px;
+    max-height:100px;
+    display:blcok;
+    border: 3px dotted #D1D3D6;
+}
+#imgId1 img{
+    max-width:100px;
+    max-height:100px;
+    display:blcok;
+}
+#isdsiv{
+	position: relative;
+	width: 440px;
+ 	height: 330px;
+ 	left:80px;
+ 	top:80px;
+ 	border: 3px dotted #D1D3D6;
+}

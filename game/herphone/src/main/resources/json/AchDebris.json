@@ -1,0 +1,5482 @@
+[ {
+  "id" : 0,
+  "fragmentname" : "背水一战1",
+  "fragmentdescribe" : "你会为求得出路而作最后一次努力吗",
+  "gameid" : 65,
+  "chatid" : 9,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 1001
+}, {
+  "id" : 1,
+  "fragmentname" : "背水一战2",
+  "fragmentdescribe" : "你会为求得出路而作最后一次努力吗",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1001
+}, {
+  "id" : 2,
+  "fragmentname" : "背水一战3",
+  "fragmentdescribe" : "你会为求得出路而作最后一次努力吗",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1001
+}, {
+  "id" : 3,
+  "fragmentname" : "背水一战4",
+  "fragmentdescribe" : "你会为求得出路而作最后一次努力吗",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1001
+}, {
+  "id" : 4,
+  "fragmentname" : "背水一战5",
+  "fragmentdescribe" : "你会为求得出路而作最后一次努力吗",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1001
+}, {
+  "id" : 5,
+  "fragmentname" : "完壁归赵1",
+  "fragmentdescribe" : "凭着大智大勇；能不能完美的解决问题呢",
+  "gameid" : 65,
+  "chatid" : 13,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 1002
+}, {
+  "id" : 6,
+  "fragmentname" : "完壁归赵2",
+  "fragmentdescribe" : "凭着大智大勇；能不能完美的解决问题呢",
+  "gameid" : 65,
+  "chatid" : 15,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 1002
+}, {
+  "id" : 7,
+  "fragmentname" : "完壁归赵3",
+  "fragmentdescribe" : "凭着大智大勇；能不能完美的解决问题呢",
+  "gameid" : 65,
+  "chatid" : 21,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 1002
+}, {
+  "id" : 8,
+  "fragmentname" : "完壁归赵4",
+  "fragmentdescribe" : "凭着大智大勇；能不能完美的解决问题呢",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1002
+}, {
+  "id" : 9,
+  "fragmentname" : "完壁归赵5",
+  "fragmentdescribe" : "凭着大智大勇；能不能完美的解决问题呢",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1002
+}, {
+  "id" : 10,
+  "fragmentname" : "十面埋伏1",
+  "fragmentdescribe" : "一切都显得危机四伏，暴风雨来临了！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1003
+}, {
+  "id" : 11,
+  "fragmentname" : "十面埋伏2",
+  "fragmentdescribe" : "一切都显得危机四伏，暴风雨来临了！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1003
+}, {
+  "id" : 12,
+  "fragmentname" : "十面埋伏3",
+  "fragmentdescribe" : "一切都显得危机四伏，暴风雨来临了！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1003
+}, {
+  "id" : 13,
+  "fragmentname" : "十面埋伏4",
+  "fragmentdescribe" : "一切都显得危机四伏，暴风雨来临了！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1003
+}, {
+  "id" : 14,
+  "fragmentname" : "十面埋伏5",
+  "fragmentdescribe" : "一切都显得危机四伏，暴风雨来临了！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1003
+}, {
+  "id" : 15,
+  "fragmentname" : "多多益善1",
+  "fragmentdescribe" : "好人总会有好报",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1004
+}, {
+  "id" : 16,
+  "fragmentname" : "多多益善2",
+  "fragmentdescribe" : "好人总会有好报",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1004
+}, {
+  "id" : 17,
+  "fragmentname" : "多多益善3",
+  "fragmentdescribe" : "好人总会有好报",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1004
+}, {
+  "id" : 18,
+  "fragmentname" : "多多益善4",
+  "fragmentdescribe" : "好人总会有好报",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1004
+}, {
+  "id" : 19,
+  "fragmentname" : "多多益善5",
+  "fragmentdescribe" : "好人总会有好报",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1004
+}, {
+  "id" : 20,
+  "fragmentname" : "初出茅庐1",
+  "fragmentdescribe" : "开始缺乏经验不可怕，在于后天的学习。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1005
+}, {
+  "id" : 21,
+  "fragmentname" : "初出茅庐2",
+  "fragmentdescribe" : "开始缺乏经验不可怕，在于后天的学习。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1005
+}, {
+  "id" : 22,
+  "fragmentname" : "初出茅庐3",
+  "fragmentdescribe" : "开始缺乏经验不可怕，在于后天的学习。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1005
+}, {
+  "id" : 23,
+  "fragmentname" : "初出茅庐4",
+  "fragmentdescribe" : "开始缺乏经验不可怕，在于后天的学习。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1005
+}, {
+  "id" : 24,
+  "fragmentname" : "初出茅庐5",
+  "fragmentdescribe" : "开始缺乏经验不可怕，在于后天的学习。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1005
+}, {
+  "id" : 25,
+  "fragmentname" : "有备无患1",
+  "fragmentdescribe" : "居安思危。思则有备，有备而无患",
+  "gameid" : 65,
+  "chatid" : 11,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 1006
+}, {
+  "id" : 26,
+  "fragmentname" : "有备无患2",
+  "fragmentdescribe" : "居安思危。思则有备，有备而无患",
+  "gameid" : 65,
+  "chatid" : 19,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 1006
+}, {
+  "id" : 27,
+  "fragmentname" : "有备无患3",
+  "fragmentdescribe" : "居安思危。思则有备，有备而无患",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1006
+}, {
+  "id" : 28,
+  "fragmentname" : "有备无患4",
+  "fragmentdescribe" : "居安思危。思则有备，有备而无患",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1006
+}, {
+  "id" : 29,
+  "fragmentname" : "有备无患5",
+  "fragmentdescribe" : "居安思危。思则有备，有备而无患",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1006
+}, {
+  "id" : 30,
+  "fragmentname" : "凶多吉少1",
+  "fragmentdescribe" : "为什么事态会发展成这样，感觉不妙",
+  "gameid" : 65,
+  "chatid" : 17,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 1007
+}, {
+  "id" : 31,
+  "fragmentname" : "凶多吉少2",
+  "fragmentdescribe" : "为什么事态会发展成这样，感觉不妙",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1007
+}, {
+  "id" : 32,
+  "fragmentname" : "凶多吉少3",
+  "fragmentdescribe" : "为什么事态会发展成这样，感觉不妙",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1007
+}, {
+  "id" : 33,
+  "fragmentname" : "凶多吉少4",
+  "fragmentdescribe" : "为什么事态会发展成这样，感觉不妙",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1007
+}, {
+  "id" : 34,
+  "fragmentname" : "凶多吉少5",
+  "fragmentdescribe" : "为什么事态会发展成这样，感觉不妙",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1007
+}, {
+  "id" : 35,
+  "fragmentname" : "业精于勤1",
+  "fragmentdescribe" : "成就由于勤奋而精通，但它却能荒废在游戏玩耍中。",
+  "gameid" : 65,
+  "chatid" : 1,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 1008
+}, {
+  "id" : 36,
+  "fragmentname" : "业精于勤2",
+  "fragmentdescribe" : "成就由于勤奋而精通，但它却能荒废在游戏玩耍中。",
+  "gameid" : 65,
+  "chatid" : 3,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 1008
+}, {
+  "id" : 37,
+  "fragmentname" : "业精于勤3",
+  "fragmentdescribe" : "成就由于勤奋而精通，但它却能荒废在游戏玩耍中。",
+  "gameid" : 65,
+  "chatid" : 5,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 1008
+}, {
+  "id" : 38,
+  "fragmentname" : "业精于勤4",
+  "fragmentdescribe" : "成就由于勤奋而精通，但它却能荒废在游戏玩耍中。",
+  "gameid" : 65,
+  "chatid" : 7,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 1008
+}, {
+  "id" : 39,
+  "fragmentname" : "业精于勤5",
+  "fragmentdescribe" : "成就由于勤奋而精通，但它却能荒废在游戏玩耍中。",
+  "gameid" : 65,
+  "chatid" : 23,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 1008
+}, {
+  "id" : 40,
+  "fragmentname" : "尔虞我诈1",
+  "fragmentdescribe" : "我不想欺骗你，你可能也不想欺骗我",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1009
+}, {
+  "id" : 41,
+  "fragmentname" : "尔虞我诈2",
+  "fragmentdescribe" : "我不想欺骗你，你可能也不想欺骗我",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1009
+}, {
+  "id" : 42,
+  "fragmentname" : "尔虞我诈3",
+  "fragmentdescribe" : "我不想欺骗你，你可能也不想欺骗我",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1009
+}, {
+  "id" : 43,
+  "fragmentname" : "尔虞我诈4",
+  "fragmentdescribe" : "我不想欺骗你，你可能也不想欺骗我",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1009
+}, {
+  "id" : 44,
+  "fragmentname" : "尔虞我诈5",
+  "fragmentdescribe" : "我不想欺骗你，你可能也不想欺骗我",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 1009
+}, {
+  "id" : 45,
+  "fragmentname" : "霸气侧漏1",
+  "fragmentdescribe" : "高大英俊多金深情的总裁老板爱上女主角",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2001
+}, {
+  "id" : 46,
+  "fragmentname" : "霸气侧漏2",
+  "fragmentdescribe" : "高大英俊多金深情的总裁老板爱上女主角",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2001
+}, {
+  "id" : 47,
+  "fragmentname" : "霸气侧漏3",
+  "fragmentdescribe" : "高大英俊多金深情的总裁老板爱上女主角",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2001
+}, {
+  "id" : 48,
+  "fragmentname" : "霸气侧漏4",
+  "fragmentdescribe" : "高大英俊多金深情的总裁老板爱上女主角",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2001
+}, {
+  "id" : 49,
+  "fragmentname" : "霸气侧漏5",
+  "fragmentdescribe" : "高大英俊多金深情的总裁老板爱上女主角",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2001
+}, {
+  "id" : 50,
+  "fragmentname" : "拜金女杀手1",
+  "fragmentdescribe" : "持有金钱至上思想道德观念的女人。",
+  "gameid" : 51,
+  "chatid" : 0,
+  "cid" : 33,
+  "getfragment" : 1,
+  "fromBadgeId" : 2002
+}, {
+  "id" : 51,
+  "fragmentname" : "拜金女杀手2",
+  "fragmentdescribe" : "持有金钱至上思想道德观念的女人。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2002
+}, {
+  "id" : 52,
+  "fragmentname" : "拜金女杀手3",
+  "fragmentdescribe" : "持有金钱至上思想道德观念的女人。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2002
+}, {
+  "id" : 53,
+  "fragmentname" : "拜金女杀手4",
+  "fragmentdescribe" : "持有金钱至上思想道德观念的女人。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2002
+}, {
+  "id" : 54,
+  "fragmentname" : "拜金女杀手5",
+  "fragmentdescribe" : "持有金钱至上思想道德观念的女人。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2002
+}, {
+  "id" : 55,
+  "fragmentname" : "打情骂俏1",
+  "fragmentdescribe" : "就是男女调情啦。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2003
+}, {
+  "id" : 56,
+  "fragmentname" : "打情骂俏2",
+  "fragmentdescribe" : "就是男女调情啦。",
+  "gameid" : 50,
+  "chatid" : 0,
+  "cid" : 17,
+  "getfragment" : 1,
+  "fromBadgeId" : 2003
+}, {
+  "id" : 57,
+  "fragmentname" : "打情骂俏3",
+  "fragmentdescribe" : "就是男女调情啦。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2003
+}, {
+  "id" : 58,
+  "fragmentname" : "打情骂俏4",
+  "fragmentdescribe" : "就是男女调情啦。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2003
+}, {
+  "id" : 59,
+  "fragmentname" : "打情骂俏5",
+  "fragmentdescribe" : "就是男女调情啦。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2003
+}, {
+  "id" : 60,
+  "fragmentname" : "钢铁直男1",
+  "fragmentdescribe" : "性格直爽、不擅变通的异性恋男生。",
+  "gameid" : 50,
+  "chatid" : 0,
+  "cid" : 6,
+  "getfragment" : 1,
+  "fromBadgeId" : 2004
+}, {
+  "id" : 61,
+  "fragmentname" : "钢铁直男2",
+  "fragmentdescribe" : "性格直爽、不擅变通的异性恋男生。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2004
+}, {
+  "id" : 62,
+  "fragmentname" : "钢铁直男3",
+  "fragmentdescribe" : "性格直爽、不擅变通的异性恋男生。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2004
+}, {
+  "id" : 63,
+  "fragmentname" : "钢铁直男4",
+  "fragmentdescribe" : "性格直爽、不擅变通的异性恋男生。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2004
+}, {
+  "id" : 64,
+  "fragmentname" : "钢铁直男5",
+  "fragmentdescribe" : "性格直爽、不擅变通的异性恋男生。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2004
+}, {
+  "id" : 65,
+  "fragmentname" : "话题终结者1",
+  "fragmentdescribe" : "说话常常不经过大脑的直肠子。",
+  "gameid" : 50,
+  "chatid" : 0,
+  "cid" : 25,
+  "getfragment" : 1,
+  "fromBadgeId" : 2005
+}, {
+  "id" : 66,
+  "fragmentname" : "话题终结者2",
+  "fragmentdescribe" : "说话常常不经过大脑的直肠子。",
+  "gameid" : 51,
+  "chatid" : 0,
+  "cid" : 22,
+  "getfragment" : 1,
+  "fromBadgeId" : 2005
+}, {
+  "id" : 67,
+  "fragmentname" : "话题终结者3",
+  "fragmentdescribe" : "说话常常不经过大脑的直肠子。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2005
+}, {
+  "id" : 68,
+  "fragmentname" : "话题终结者4",
+  "fragmentdescribe" : "说话常常不经过大脑的直肠子。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2005
+}, {
+  "id" : 69,
+  "fragmentname" : "话题终结者5",
+  "fragmentdescribe" : "说话常常不经过大脑的直肠子。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2005
+}, {
+  "id" : 70,
+  "fragmentname" : "机智如我1",
+  "fragmentdescribe" : "聪明灵活，能随机应变。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2006
+}, {
+  "id" : 71,
+  "fragmentname" : "机智如我2",
+  "fragmentdescribe" : "聪明灵活，能随机应变。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2006
+}, {
+  "id" : 72,
+  "fragmentname" : "机智如我3",
+  "fragmentdescribe" : "聪明灵活，能随机应变。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2006
+}, {
+  "id" : 73,
+  "fragmentname" : "机智如我4",
+  "fragmentdescribe" : "聪明灵活，能随机应变。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2006
+}, {
+  "id" : 74,
+  "fragmentname" : "机智如我5",
+  "fragmentdescribe" : "聪明灵活，能随机应变。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2006
+}, {
+  "id" : 75,
+  "fragmentname" : "偷心盗贼1",
+  "fragmentdescribe" : "我真的很喜欢你，整个心都被你偷走了。",
+  "gameid" : 50,
+  "chatid" : 0,
+  "cid" : 30,
+  "getfragment" : 1,
+  "fromBadgeId" : 2007
+}, {
+  "id" : 76,
+  "fragmentname" : "偷心盗贼2",
+  "fragmentdescribe" : "我真的很喜欢你，整个心都被你偷走了。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2007
+}, {
+  "id" : 77,
+  "fragmentname" : "偷心盗贼3",
+  "fragmentdescribe" : "我真的很喜欢你，整个心都被你偷走了。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2007
+}, {
+  "id" : 78,
+  "fragmentname" : "偷心盗贼4",
+  "fragmentdescribe" : "我真的很喜欢你，整个心都被你偷走了。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2007
+}, {
+  "id" : 79,
+  "fragmentname" : "偷心盗贼5",
+  "fragmentdescribe" : "我真的很喜欢你，整个心都被你偷走了。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2007
+}, {
+  "id" : 80,
+  "fragmentname" : "喜新厌旧1",
+  "fragmentdescribe" : "喜欢新的，厌弃旧的，爱情不专一。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2008
+}, {
+  "id" : 81,
+  "fragmentname" : "喜新厌旧2",
+  "fragmentdescribe" : "喜欢新的，厌弃旧的，爱情不专一。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2008
+}, {
+  "id" : 82,
+  "fragmentname" : "喜新厌旧3",
+  "fragmentdescribe" : "喜欢新的，厌弃旧的，爱情不专一。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2008
+}, {
+  "id" : 83,
+  "fragmentname" : "喜新厌旧4",
+  "fragmentdescribe" : "喜欢新的，厌弃旧的，爱情不专一。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2008
+}, {
+  "id" : 84,
+  "fragmentname" : "喜新厌旧5",
+  "fragmentdescribe" : "喜欢新的，厌弃旧的，爱情不专一。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2008
+}, {
+  "id" : 85,
+  "fragmentname" : "一厢情愿1",
+  "fragmentdescribe" : "癞蛤蟆想吃天鹅肉的另一种说法。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2009
+}, {
+  "id" : 86,
+  "fragmentname" : "一厢情愿2",
+  "fragmentdescribe" : "癞蛤蟆想吃天鹅肉的另一种说法。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2009
+}, {
+  "id" : 87,
+  "fragmentname" : "一厢情愿3",
+  "fragmentdescribe" : "癞蛤蟆想吃天鹅肉的另一种说法。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2009
+}, {
+  "id" : 88,
+  "fragmentname" : "一厢情愿4",
+  "fragmentdescribe" : "癞蛤蟆想吃天鹅肉的另一种说法。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2009
+}, {
+  "id" : 89,
+  "fragmentname" : "一厢情愿5",
+  "fragmentdescribe" : "癞蛤蟆想吃天鹅肉的另一种说法。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 2009
+}, {
+  "id" : 90,
+  "fragmentname" : "解梦达人1",
+  "fragmentdescribe" : "专解疑难杂梦的解梦爱好者。",
+  "gameid" : 61,
+  "chatid" : 6,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3001
+}, {
+  "id" : 91,
+  "fragmentname" : "解梦达人2",
+  "fragmentdescribe" : "专解疑难杂梦的解梦爱好者。",
+  "gameid" : 61,
+  "chatid" : 8,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3001
+}, {
+  "id" : 92,
+  "fragmentname" : "解梦达人3",
+  "fragmentdescribe" : "专解疑难杂梦的解梦爱好者。",
+  "gameid" : 61,
+  "chatid" : 28,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3001
+}, {
+  "id" : 93,
+  "fragmentname" : "解梦达人4",
+  "fragmentdescribe" : "专解疑难杂梦的解梦爱好者。",
+  "gameid" : 61,
+  "chatid" : 42,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3001
+}, {
+  "id" : 94,
+  "fragmentname" : "解梦达人5",
+  "fragmentdescribe" : "专解疑难杂梦的解梦爱好者。",
+  "gameid" : 61,
+  "chatid" : 46,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3001
+}, {
+  "id" : 95,
+  "fragmentname" : "解梦达人6",
+  "fragmentdescribe" : "专解疑难杂梦的解梦爱好者。",
+  "gameid" : 61,
+  "chatid" : 64,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3001
+}, {
+  "id" : 96,
+  "fragmentname" : "解梦达人7",
+  "fragmentdescribe" : "专解疑难杂梦的解梦爱好者。",
+  "gameid" : 61,
+  "chatid" : 82,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3001
+}, {
+  "id" : 97,
+  "fragmentname" : "解梦达人8",
+  "fragmentdescribe" : "专解疑难杂梦的解梦爱好者。",
+  "gameid" : 61,
+  "chatid" : 100,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3001
+}, {
+  "id" : 98,
+  "fragmentname" : "解梦达人9",
+  "fragmentdescribe" : "专解疑难杂梦的解梦爱好者。",
+  "gameid" : 61,
+  "chatid" : 120,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3001
+}, {
+  "id" : 99,
+  "fragmentname" : "解梦达人10",
+  "fragmentdescribe" : "专解疑难杂梦的解梦爱好者。",
+  "gameid" : 61,
+  "chatid" : 140,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3001
+}, {
+  "id" : 100,
+  "fragmentname" : "解梦达人11",
+  "fragmentdescribe" : "专解疑难杂梦的解梦爱好者。",
+  "gameid" : 61,
+  "chatid" : 184,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3001
+}, {
+  "id" : 101,
+  "fragmentname" : "解梦达人12",
+  "fragmentdescribe" : "专解疑难杂梦的解梦爱好者。",
+  "gameid" : 61,
+  "chatid" : 204,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3001
+}, {
+  "id" : 102,
+  "fragmentname" : "解梦达人13",
+  "fragmentdescribe" : "专解疑难杂梦的解梦爱好者。",
+  "gameid" : 61,
+  "chatid" : 222,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3001
+}, {
+  "id" : 103,
+  "fragmentname" : "解梦达人14",
+  "fragmentdescribe" : "专解疑难杂梦的解梦爱好者。",
+  "gameid" : 61,
+  "chatid" : 224,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3001
+}, {
+  "id" : 104,
+  "fragmentname" : "解梦达人15",
+  "fragmentdescribe" : "专解疑难杂梦的解梦爱好者。",
+  "gameid" : 68,
+  "chatid" : 3,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3001
+}, {
+  "id" : 105,
+  "fragmentname" : "梦语者1",
+  "fragmentdescribe" : "其实就是说梦话的人。",
+  "gameid" : 61,
+  "chatid" : 2,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3002
+}, {
+  "id" : 106,
+  "fragmentname" : "梦语者2",
+  "fragmentdescribe" : "其实就是说梦话的人。",
+  "gameid" : 61,
+  "chatid" : 10,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3002
+}, {
+  "id" : 107,
+  "fragmentname" : "梦语者3",
+  "fragmentdescribe" : "其实就是说梦话的人。",
+  "gameid" : 61,
+  "chatid" : 24,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3002
+}, {
+  "id" : 108,
+  "fragmentname" : "梦语者4",
+  "fragmentdescribe" : "其实就是说梦话的人。",
+  "gameid" : 61,
+  "chatid" : 58,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3002
+}, {
+  "id" : 109,
+  "fragmentname" : "梦语者5",
+  "fragmentdescribe" : "其实就是说梦话的人。",
+  "gameid" : 61,
+  "chatid" : 66,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3002
+}, {
+  "id" : 110,
+  "fragmentname" : "梦语者6",
+  "fragmentdescribe" : "其实就是说梦话的人。",
+  "gameid" : 61,
+  "chatid" : 84,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3002
+}, {
+  "id" : 111,
+  "fragmentname" : "梦语者7",
+  "fragmentdescribe" : "其实就是说梦话的人。",
+  "gameid" : 61,
+  "chatid" : 102,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3002
+}, {
+  "id" : 112,
+  "fragmentname" : "梦语者8",
+  "fragmentdescribe" : "其实就是说梦话的人。",
+  "gameid" : 61,
+  "chatid" : 122,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3002
+}, {
+  "id" : 113,
+  "fragmentname" : "梦语者9",
+  "fragmentdescribe" : "其实就是说梦话的人。",
+  "gameid" : 61,
+  "chatid" : 124,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3002
+}, {
+  "id" : 114,
+  "fragmentname" : "梦语者10",
+  "fragmentdescribe" : "其实就是说梦话的人。",
+  "gameid" : 61,
+  "chatid" : 142,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3002
+}, {
+  "id" : 115,
+  "fragmentname" : "梦语者11",
+  "fragmentdescribe" : "其实就是说梦话的人。",
+  "gameid" : 61,
+  "chatid" : 186,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3002
+}, {
+  "id" : 116,
+  "fragmentname" : "梦语者12",
+  "fragmentdescribe" : "其实就是说梦话的人。",
+  "gameid" : 61,
+  "chatid" : 206,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3002
+}, {
+  "id" : 117,
+  "fragmentname" : "梦语者13",
+  "fragmentdescribe" : "其实就是说梦话的人。",
+  "gameid" : 61,
+  "chatid" : 226,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3002
+}, {
+  "id" : 118,
+  "fragmentname" : "梦语者14",
+  "fragmentdescribe" : "其实就是说梦话的人。",
+  "gameid" : 61,
+  "chatid" : 228,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3002
+}, {
+  "id" : 119,
+  "fragmentname" : "梦语者15",
+  "fragmentdescribe" : "其实就是说梦话的人。",
+  "gameid" : 68,
+  "chatid" : 5,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3002
+}, {
+  "id" : 120,
+  "fragmentname" : "无梦宝宝1",
+  "fragmentdescribe" : "居然还有从来不做梦的人。",
+  "gameid" : 61,
+  "chatid" : 20,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3003
+}, {
+  "id" : 121,
+  "fragmentname" : "无梦宝宝2",
+  "fragmentdescribe" : "居然还有从来不做梦的人。",
+  "gameid" : 61,
+  "chatid" : 54,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3003
+}, {
+  "id" : 122,
+  "fragmentname" : "无梦宝宝3",
+  "fragmentdescribe" : "居然还有从来不做梦的人。",
+  "gameid" : 61,
+  "chatid" : 60,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3003
+}, {
+  "id" : 123,
+  "fragmentname" : "无梦宝宝4",
+  "fragmentdescribe" : "居然还有从来不做梦的人。",
+  "gameid" : 61,
+  "chatid" : 68,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3003
+}, {
+  "id" : 124,
+  "fragmentname" : "无梦宝宝5",
+  "fragmentdescribe" : "居然还有从来不做梦的人。",
+  "gameid" : 61,
+  "chatid" : 86,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3003
+}, {
+  "id" : 125,
+  "fragmentname" : "无梦宝宝6",
+  "fragmentdescribe" : "居然还有从来不做梦的人。",
+  "gameid" : 61,
+  "chatid" : 104,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3003
+}, {
+  "id" : 126,
+  "fragmentname" : "无梦宝宝7",
+  "fragmentdescribe" : "居然还有从来不做梦的人。",
+  "gameid" : 61,
+  "chatid" : 126,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3003
+}, {
+  "id" : 127,
+  "fragmentname" : "无梦宝宝8",
+  "fragmentdescribe" : "居然还有从来不做梦的人。",
+  "gameid" : 61,
+  "chatid" : 128,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3003
+}, {
+  "id" : 128,
+  "fragmentname" : "无梦宝宝9",
+  "fragmentdescribe" : "居然还有从来不做梦的人。",
+  "gameid" : 61,
+  "chatid" : 132,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3003
+}, {
+  "id" : 129,
+  "fragmentname" : "无梦宝宝10",
+  "fragmentdescribe" : "居然还有从来不做梦的人。",
+  "gameid" : 61,
+  "chatid" : 144,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3003
+}, {
+  "id" : 130,
+  "fragmentname" : "无梦宝宝11",
+  "fragmentdescribe" : "居然还有从来不做梦的人。",
+  "gameid" : 61,
+  "chatid" : 188,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3003
+}, {
+  "id" : 131,
+  "fragmentname" : "无梦宝宝12",
+  "fragmentdescribe" : "居然还有从来不做梦的人。",
+  "gameid" : 61,
+  "chatid" : 208,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3003
+}, {
+  "id" : 132,
+  "fragmentname" : "无梦宝宝13",
+  "fragmentdescribe" : "居然还有从来不做梦的人。",
+  "gameid" : 61,
+  "chatid" : 230,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3003
+}, {
+  "id" : 133,
+  "fragmentname" : "无梦宝宝14",
+  "fragmentdescribe" : "居然还有从来不做梦的人。",
+  "gameid" : 61,
+  "chatid" : 232,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3003
+}, {
+  "id" : 134,
+  "fragmentname" : "无梦宝宝15",
+  "fragmentdescribe" : "居然还有从来不做梦的人。",
+  "gameid" : 68,
+  "chatid" : 7,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3003
+}, {
+  "id" : 135,
+  "fragmentname" : "无梦宝宝16",
+  "fragmentdescribe" : "居然还有从来不做梦的人。",
+  "gameid" : 68,
+  "chatid" : 29,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3003
+}, {
+  "id" : 136,
+  "fragmentname" : "梦中情人1",
+  "fragmentdescribe" : "你就是那个让别人日思夜想的人！",
+  "gameid" : 61,
+  "chatid" : 4,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3004
+}, {
+  "id" : 137,
+  "fragmentname" : "梦中情人2",
+  "fragmentdescribe" : "你就是那个让别人日思夜想的人！",
+  "gameid" : 61,
+  "chatid" : 70,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3004
+}, {
+  "id" : 138,
+  "fragmentname" : "梦中情人3",
+  "fragmentdescribe" : "你就是那个让别人日思夜想的人！",
+  "gameid" : 61,
+  "chatid" : 88,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3004
+}, {
+  "id" : 139,
+  "fragmentname" : "梦中情人4",
+  "fragmentdescribe" : "你就是那个让别人日思夜想的人！",
+  "gameid" : 61,
+  "chatid" : 106,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3004
+}, {
+  "id" : 140,
+  "fragmentname" : "梦中情人5",
+  "fragmentdescribe" : "你就是那个让别人日思夜想的人！",
+  "gameid" : 61,
+  "chatid" : 108,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3004
+}, {
+  "id" : 141,
+  "fragmentname" : "梦中情人6",
+  "fragmentdescribe" : "你就是那个让别人日思夜想的人！",
+  "gameid" : 61,
+  "chatid" : 130,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3004
+}, {
+  "id" : 142,
+  "fragmentname" : "梦中情人7",
+  "fragmentdescribe" : "你就是那个让别人日思夜想的人！",
+  "gameid" : 61,
+  "chatid" : 136,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3004
+}, {
+  "id" : 143,
+  "fragmentname" : "梦中情人8",
+  "fragmentdescribe" : "你就是那个让别人日思夜想的人！",
+  "gameid" : 61,
+  "chatid" : 146,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3004
+}, {
+  "id" : 144,
+  "fragmentname" : "梦中情人9",
+  "fragmentdescribe" : "你就是那个让别人日思夜想的人！",
+  "gameid" : 61,
+  "chatid" : 148,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3004
+}, {
+  "id" : 145,
+  "fragmentname" : "梦中情人10",
+  "fragmentdescribe" : "你就是那个让别人日思夜想的人！",
+  "gameid" : 61,
+  "chatid" : 154,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3004
+}, {
+  "id" : 146,
+  "fragmentname" : "梦中情人11",
+  "fragmentdescribe" : "你就是那个让别人日思夜想的人！",
+  "gameid" : 61,
+  "chatid" : 190,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3004
+}, {
+  "id" : 147,
+  "fragmentname" : "梦中情人12",
+  "fragmentdescribe" : "你就是那个让别人日思夜想的人！",
+  "gameid" : 61,
+  "chatid" : 210,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3004
+}, {
+  "id" : 148,
+  "fragmentname" : "梦中情人13",
+  "fragmentdescribe" : "你就是那个让别人日思夜想的人！",
+  "gameid" : 61,
+  "chatid" : 234,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3004
+}, {
+  "id" : 149,
+  "fragmentname" : "梦中情人14",
+  "fragmentdescribe" : "你就是那个让别人日思夜想的人！",
+  "gameid" : 61,
+  "chatid" : 236,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3004
+}, {
+  "id" : 150,
+  "fragmentname" : "梦中情人15",
+  "fragmentdescribe" : "你就是那个让别人日思夜想的人！",
+  "gameid" : 68,
+  "chatid" : 9,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3004
+}, {
+  "id" : 151,
+  "fragmentname" : "盗梦者1",
+  "fragmentdescribe" : "你是怎么知道他在想什么的？",
+  "gameid" : 61,
+  "chatid" : 22,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3005
+}, {
+  "id" : 152,
+  "fragmentname" : "盗梦者2",
+  "fragmentdescribe" : "你是怎么知道他在想什么的？",
+  "gameid" : 61,
+  "chatid" : 36,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3005
+}, {
+  "id" : 153,
+  "fragmentname" : "盗梦者3",
+  "fragmentdescribe" : "你是怎么知道他在想什么的？",
+  "gameid" : 61,
+  "chatid" : 38,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3005
+}, {
+  "id" : 154,
+  "fragmentname" : "盗梦者4",
+  "fragmentdescribe" : "你是怎么知道他在想什么的？",
+  "gameid" : 61,
+  "chatid" : 72,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3005
+}, {
+  "id" : 155,
+  "fragmentname" : "盗梦者5",
+  "fragmentdescribe" : "你是怎么知道他在想什么的？",
+  "gameid" : 61,
+  "chatid" : 90,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3005
+}, {
+  "id" : 156,
+  "fragmentname" : "盗梦者6",
+  "fragmentdescribe" : "你是怎么知道他在想什么的？",
+  "gameid" : 61,
+  "chatid" : 110,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3005
+}, {
+  "id" : 157,
+  "fragmentname" : "盗梦者7",
+  "fragmentdescribe" : "你是怎么知道他在想什么的？",
+  "gameid" : 61,
+  "chatid" : 138,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3005
+}, {
+  "id" : 158,
+  "fragmentname" : "盗梦者8",
+  "fragmentdescribe" : "你是怎么知道他在想什么的？",
+  "gameid" : 61,
+  "chatid" : 150,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3005
+}, {
+  "id" : 159,
+  "fragmentname" : "盗梦者9",
+  "fragmentdescribe" : "你是怎么知道他在想什么的？",
+  "gameid" : 61,
+  "chatid" : 152,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3005
+}, {
+  "id" : 160,
+  "fragmentname" : "盗梦者10",
+  "fragmentdescribe" : "你是怎么知道他在想什么的？",
+  "gameid" : 61,
+  "chatid" : 156,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3005
+}, {
+  "id" : 161,
+  "fragmentname" : "盗梦者11",
+  "fragmentdescribe" : "你是怎么知道他在想什么的？",
+  "gameid" : 61,
+  "chatid" : 192,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3005
+}, {
+  "id" : 162,
+  "fragmentname" : "盗梦者12",
+  "fragmentdescribe" : "你是怎么知道他在想什么的？",
+  "gameid" : 61,
+  "chatid" : 212,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3005
+}, {
+  "id" : 163,
+  "fragmentname" : "盗梦者13",
+  "fragmentdescribe" : "你是怎么知道他在想什么的？",
+  "gameid" : 61,
+  "chatid" : 238,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3005
+}, {
+  "id" : 164,
+  "fragmentname" : "盗梦者14",
+  "fragmentdescribe" : "你是怎么知道他在想什么的？",
+  "gameid" : 61,
+  "chatid" : 240,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3005
+}, {
+  "id" : 165,
+  "fragmentname" : "盗梦者15",
+  "fragmentdescribe" : "你是怎么知道他在想什么的？",
+  "gameid" : 68,
+  "chatid" : 27,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3005
+}, {
+  "id" : 166,
+  "fragmentname" : "造梦星人1",
+  "fragmentdescribe" : "真不敢相信做梦竟然是你的特长？",
+  "gameid" : 61,
+  "chatid" : 12,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3006
+}, {
+  "id" : 167,
+  "fragmentname" : "造梦星人2",
+  "fragmentdescribe" : "真不敢相信做梦竟然是你的特长？",
+  "gameid" : 61,
+  "chatid" : 26,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3006
+}, {
+  "id" : 168,
+  "fragmentname" : "造梦星人3",
+  "fragmentdescribe" : "真不敢相信做梦竟然是你的特长？",
+  "gameid" : 61,
+  "chatid" : 30,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3006
+}, {
+  "id" : 169,
+  "fragmentname" : "造梦星人4",
+  "fragmentdescribe" : "真不敢相信做梦竟然是你的特长？",
+  "gameid" : 61,
+  "chatid" : 44,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3006
+}, {
+  "id" : 170,
+  "fragmentname" : "造梦星人5",
+  "fragmentdescribe" : "真不敢相信做梦竟然是你的特长？",
+  "gameid" : 61,
+  "chatid" : 56,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3006
+}, {
+  "id" : 171,
+  "fragmentname" : "造梦星人6",
+  "fragmentdescribe" : "真不敢相信做梦竟然是你的特长？",
+  "gameid" : 61,
+  "chatid" : 74,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3006
+}, {
+  "id" : 172,
+  "fragmentname" : "造梦星人7",
+  "fragmentdescribe" : "真不敢相信做梦竟然是你的特长？",
+  "gameid" : 61,
+  "chatid" : 92,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3006
+}, {
+  "id" : 173,
+  "fragmentname" : "造梦星人8",
+  "fragmentdescribe" : "真不敢相信做梦竟然是你的特长？",
+  "gameid" : 61,
+  "chatid" : 112,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3006
+}, {
+  "id" : 174,
+  "fragmentname" : "造梦星人9",
+  "fragmentdescribe" : "真不敢相信做梦竟然是你的特长？",
+  "gameid" : 61,
+  "chatid" : 134,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3006
+}, {
+  "id" : 175,
+  "fragmentname" : "造梦星人10",
+  "fragmentdescribe" : "真不敢相信做梦竟然是你的特长？",
+  "gameid" : 61,
+  "chatid" : 158,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3006
+}, {
+  "id" : 176,
+  "fragmentname" : "造梦星人11",
+  "fragmentdescribe" : "真不敢相信做梦竟然是你的特长？",
+  "gameid" : 61,
+  "chatid" : 194,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3006
+}, {
+  "id" : 177,
+  "fragmentname" : "造梦星人12",
+  "fragmentdescribe" : "真不敢相信做梦竟然是你的特长？",
+  "gameid" : 61,
+  "chatid" : 214,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3006
+}, {
+  "id" : 178,
+  "fragmentname" : "造梦星人13",
+  "fragmentdescribe" : "真不敢相信做梦竟然是你的特长？",
+  "gameid" : 61,
+  "chatid" : 242,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3006
+}, {
+  "id" : 179,
+  "fragmentname" : "造梦星人14",
+  "fragmentdescribe" : "真不敢相信做梦竟然是你的特长？",
+  "gameid" : 61,
+  "chatid" : 244,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3006
+}, {
+  "id" : 180,
+  "fragmentname" : "造梦星人15",
+  "fragmentdescribe" : "真不敢相信做梦竟然是你的特长？",
+  "gameid" : 68,
+  "chatid" : 11,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3006
+}, {
+  "id" : 181,
+  "fragmentname" : "造梦星人16",
+  "fragmentdescribe" : "真不敢相信做梦竟然是你的特长？",
+  "gameid" : 68,
+  "chatid" : 25,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3006
+}, {
+  "id" : 182,
+  "fragmentname" : "梦婆1",
+  "fragmentdescribe" : "你是一个爱做梦的女孩子",
+  "gameid" : 61,
+  "chatid" : 18,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3007
+}, {
+  "id" : 183,
+  "fragmentname" : "梦婆2",
+  "fragmentdescribe" : "你是一个爱做梦的女孩子",
+  "gameid" : 61,
+  "chatid" : 48,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3007
+}, {
+  "id" : 184,
+  "fragmentname" : "梦婆3",
+  "fragmentdescribe" : "你是一个爱做梦的女孩子",
+  "gameid" : 61,
+  "chatid" : 50,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3007
+}, {
+  "id" : 185,
+  "fragmentname" : "梦婆4",
+  "fragmentdescribe" : "你是一个爱做梦的女孩子",
+  "gameid" : 61,
+  "chatid" : 62,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3007
+}, {
+  "id" : 186,
+  "fragmentname" : "梦婆5",
+  "fragmentdescribe" : "你是一个爱做梦的女孩子",
+  "gameid" : 61,
+  "chatid" : 76,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3007
+}, {
+  "id" : 187,
+  "fragmentname" : "梦婆6",
+  "fragmentdescribe" : "你是一个爱做梦的女孩子",
+  "gameid" : 61,
+  "chatid" : 94,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3007
+}, {
+  "id" : 188,
+  "fragmentname" : "梦婆7",
+  "fragmentdescribe" : "你是一个爱做梦的女孩子",
+  "gameid" : 61,
+  "chatid" : 114,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3007
+}, {
+  "id" : 189,
+  "fragmentname" : "梦婆8",
+  "fragmentdescribe" : "你是一个爱做梦的女孩子",
+  "gameid" : 61,
+  "chatid" : 160,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3007
+}, {
+  "id" : 190,
+  "fragmentname" : "梦婆9",
+  "fragmentdescribe" : "你是一个爱做梦的女孩子",
+  "gameid" : 61,
+  "chatid" : 162,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3007
+}, {
+  "id" : 191,
+  "fragmentname" : "梦婆10",
+  "fragmentdescribe" : "你是一个爱做梦的女孩子",
+  "gameid" : 61,
+  "chatid" : 164,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3007
+}, {
+  "id" : 192,
+  "fragmentname" : "梦婆11",
+  "fragmentdescribe" : "你是一个爱做梦的女孩子",
+  "gameid" : 61,
+  "chatid" : 196,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3007
+}, {
+  "id" : 193,
+  "fragmentname" : "梦婆12",
+  "fragmentdescribe" : "你是一个爱做梦的女孩子",
+  "gameid" : 61,
+  "chatid" : 216,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3007
+}, {
+  "id" : 194,
+  "fragmentname" : "梦婆13",
+  "fragmentdescribe" : "你是一个爱做梦的女孩子",
+  "gameid" : 61,
+  "chatid" : 246,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3007
+}, {
+  "id" : 195,
+  "fragmentname" : "梦婆14",
+  "fragmentdescribe" : "你是一个爱做梦的女孩子",
+  "gameid" : 61,
+  "chatid" : 248,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3007
+}, {
+  "id" : 196,
+  "fragmentname" : "梦婆15",
+  "fragmentdescribe" : "你是一个爱做梦的女孩子",
+  "gameid" : 68,
+  "chatid" : 1,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3007
+}, {
+  "id" : 197,
+  "fragmentname" : "梦婆16",
+  "fragmentdescribe" : "你是一个爱做梦的女孩子",
+  "gameid" : 68,
+  "chatid" : 13,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3007
+}, {
+  "id" : 198,
+  "fragmentname" : "梦婆17",
+  "fragmentdescribe" : "你是一个爱做梦的女孩子",
+  "gameid" : 68,
+  "chatid" : 23,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3007
+}, {
+  "id" : 199,
+  "fragmentname" : "梦男1",
+  "fragmentdescribe" : "你是不是眉毛特别粗的那个人？",
+  "gameid" : 61,
+  "chatid" : 14,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3008
+}, {
+  "id" : 200,
+  "fragmentname" : "梦男2",
+  "fragmentdescribe" : "你是不是眉毛特别粗的那个人？",
+  "gameid" : 61,
+  "chatid" : 32,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3008
+}, {
+  "id" : 201,
+  "fragmentname" : "梦男3",
+  "fragmentdescribe" : "你是不是眉毛特别粗的那个人？",
+  "gameid" : 61,
+  "chatid" : 52,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3008
+}, {
+  "id" : 202,
+  "fragmentname" : "梦男4",
+  "fragmentdescribe" : "你是不是眉毛特别粗的那个人？",
+  "gameid" : 61,
+  "chatid" : 78,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3008
+}, {
+  "id" : 203,
+  "fragmentname" : "梦男5",
+  "fragmentdescribe" : "你是不是眉毛特别粗的那个人？",
+  "gameid" : 61,
+  "chatid" : 96,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3008
+}, {
+  "id" : 204,
+  "fragmentname" : "梦男6",
+  "fragmentdescribe" : "你是不是眉毛特别粗的那个人？",
+  "gameid" : 61,
+  "chatid" : 116,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3008
+}, {
+  "id" : 205,
+  "fragmentname" : "梦男7",
+  "fragmentdescribe" : "你是不是眉毛特别粗的那个人？",
+  "gameid" : 61,
+  "chatid" : 166,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3008
+}, {
+  "id" : 206,
+  "fragmentname" : "梦男8",
+  "fragmentdescribe" : "你是不是眉毛特别粗的那个人？",
+  "gameid" : 61,
+  "chatid" : 170,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3008
+}, {
+  "id" : 207,
+  "fragmentname" : "梦男9",
+  "fragmentdescribe" : "你是不是眉毛特别粗的那个人？",
+  "gameid" : 61,
+  "chatid" : 174,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3008
+}, {
+  "id" : 208,
+  "fragmentname" : "梦男10",
+  "fragmentdescribe" : "你是不是眉毛特别粗的那个人？",
+  "gameid" : 61,
+  "chatid" : 178,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3008
+}, {
+  "id" : 209,
+  "fragmentname" : "梦男11",
+  "fragmentdescribe" : "你是不是眉毛特别粗的那个人？",
+  "gameid" : 61,
+  "chatid" : 198,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3008
+}, {
+  "id" : 210,
+  "fragmentname" : "梦男12",
+  "fragmentdescribe" : "你是不是眉毛特别粗的那个人？",
+  "gameid" : 61,
+  "chatid" : 218,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3008
+}, {
+  "id" : 211,
+  "fragmentname" : "梦男13",
+  "fragmentdescribe" : "你是不是眉毛特别粗的那个人？",
+  "gameid" : 61,
+  "chatid" : 250,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3008
+}, {
+  "id" : 212,
+  "fragmentname" : "梦男14",
+  "fragmentdescribe" : "你是不是眉毛特别粗的那个人？",
+  "gameid" : 61,
+  "chatid" : 252,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3008
+}, {
+  "id" : 213,
+  "fragmentname" : "梦男15",
+  "fragmentdescribe" : "你是不是眉毛特别粗的那个人？",
+  "gameid" : 68,
+  "chatid" : 15,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3008
+}, {
+  "id" : 214,
+  "fragmentname" : "梦男16",
+  "fragmentdescribe" : "你是不是眉毛特别粗的那个人？",
+  "gameid" : 68,
+  "chatid" : 21,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3008
+}, {
+  "id" : 215,
+  "fragmentname" : "梦货1",
+  "fragmentdescribe" : "你怎么一天迷迷瞪瞪的？",
+  "gameid" : 61,
+  "chatid" : 16,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3009
+}, {
+  "id" : 216,
+  "fragmentname" : "梦货2",
+  "fragmentdescribe" : "你怎么一天迷迷瞪瞪的？",
+  "gameid" : 61,
+  "chatid" : 34,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3009
+}, {
+  "id" : 217,
+  "fragmentname" : "梦货3",
+  "fragmentdescribe" : "你怎么一天迷迷瞪瞪的？",
+  "gameid" : 61,
+  "chatid" : 40,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3009
+}, {
+  "id" : 218,
+  "fragmentname" : "梦货4",
+  "fragmentdescribe" : "你怎么一天迷迷瞪瞪的？",
+  "gameid" : 61,
+  "chatid" : 80,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3009
+}, {
+  "id" : 219,
+  "fragmentname" : "梦货5",
+  "fragmentdescribe" : "你怎么一天迷迷瞪瞪的？",
+  "gameid" : 61,
+  "chatid" : 98,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3009
+}, {
+  "id" : 220,
+  "fragmentname" : "梦货6",
+  "fragmentdescribe" : "你怎么一天迷迷瞪瞪的？",
+  "gameid" : 61,
+  "chatid" : 118,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3009
+}, {
+  "id" : 221,
+  "fragmentname" : "梦货7",
+  "fragmentdescribe" : "你怎么一天迷迷瞪瞪的？",
+  "gameid" : 61,
+  "chatid" : 168,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3009
+}, {
+  "id" : 222,
+  "fragmentname" : "梦货8",
+  "fragmentdescribe" : "你怎么一天迷迷瞪瞪的？",
+  "gameid" : 61,
+  "chatid" : 172,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3009
+}, {
+  "id" : 223,
+  "fragmentname" : "梦货9",
+  "fragmentdescribe" : "你怎么一天迷迷瞪瞪的？",
+  "gameid" : 61,
+  "chatid" : 180,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3009
+}, {
+  "id" : 224,
+  "fragmentname" : "梦货10",
+  "fragmentdescribe" : "你怎么一天迷迷瞪瞪的？",
+  "gameid" : 61,
+  "chatid" : 182,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3009
+}, {
+  "id" : 225,
+  "fragmentname" : "梦货11",
+  "fragmentdescribe" : "你怎么一天迷迷瞪瞪的？",
+  "gameid" : 61,
+  "chatid" : 200,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3009
+}, {
+  "id" : 226,
+  "fragmentname" : "梦货12",
+  "fragmentdescribe" : "你怎么一天迷迷瞪瞪的？",
+  "gameid" : 61,
+  "chatid" : 220,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3009
+}, {
+  "id" : 227,
+  "fragmentname" : "梦货13",
+  "fragmentdescribe" : "你怎么一天迷迷瞪瞪的？",
+  "gameid" : 61,
+  "chatid" : 254,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3009
+}, {
+  "id" : 228,
+  "fragmentname" : "梦货14",
+  "fragmentdescribe" : "你怎么一天迷迷瞪瞪的？",
+  "gameid" : 61,
+  "chatid" : 256,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3009
+}, {
+  "id" : 229,
+  "fragmentname" : "梦货15",
+  "fragmentdescribe" : "你怎么一天迷迷瞪瞪的？",
+  "gameid" : 68,
+  "chatid" : 17,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3009
+}, {
+  "id" : 230,
+  "fragmentname" : "梦货16",
+  "fragmentdescribe" : "你怎么一天迷迷瞪瞪的？",
+  "gameid" : 68,
+  "chatid" : 19,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 3009
+}, {
+  "id" : 231,
+  "fragmentname" : "临危不惧1",
+  "fragmentdescribe" : "在困难面前，一点也不怕。",
+  "gameid" : 59,
+  "chatid" : 1,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4001
+}, {
+  "id" : 232,
+  "fragmentname" : "临危不惧2",
+  "fragmentdescribe" : "在困难面前，一点也不怕。",
+  "gameid" : 59,
+  "chatid" : 23,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4001
+}, {
+  "id" : 233,
+  "fragmentname" : "临危不惧3",
+  "fragmentdescribe" : "在困难面前，一点也不怕。",
+  "gameid" : 59,
+  "chatid" : 33,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4001
+}, {
+  "id" : 234,
+  "fragmentname" : "临危不惧4",
+  "fragmentdescribe" : "在困难面前，一点也不怕。",
+  "gameid" : 62,
+  "chatid" : 2,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4001
+}, {
+  "id" : 235,
+  "fragmentname" : "临危不惧5",
+  "fragmentdescribe" : "在困难面前，一点也不怕。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 4001
+}, {
+  "id" : 236,
+  "fragmentname" : "惊心动魄1",
+  "fragmentdescribe" : "感受到十分惊险、紧张",
+  "gameid" : 58,
+  "chatid" : 11,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4002
+}, {
+  "id" : 237,
+  "fragmentname" : "惊心动魄2",
+  "fragmentdescribe" : "感受到十分惊险、紧张",
+  "gameid" : 58,
+  "chatid" : 15,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4002
+}, {
+  "id" : 238,
+  "fragmentname" : "惊心动魄3",
+  "fragmentdescribe" : "感受到十分惊险、紧张",
+  "gameid" : 58,
+  "chatid" : 19,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4002
+}, {
+  "id" : 239,
+  "fragmentname" : "惊心动魄4",
+  "fragmentdescribe" : "感受到十分惊险、紧张",
+  "gameid" : 58,
+  "chatid" : 27,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4002
+}, {
+  "id" : 240,
+  "fragmentname" : "惊心动魄5",
+  "fragmentdescribe" : "感受到十分惊险、紧张",
+  "gameid" : 59,
+  "chatid" : 3,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4002
+}, {
+  "id" : 241,
+  "fragmentname" : "惊心动魄6",
+  "fragmentdescribe" : "感受到十分惊险、紧张",
+  "gameid" : 59,
+  "chatid" : 7,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4002
+}, {
+  "id" : 242,
+  "fragmentname" : "惊心动魄7",
+  "fragmentdescribe" : "感受到十分惊险、紧张",
+  "gameid" : 59,
+  "chatid" : 39,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4002
+}, {
+  "id" : 243,
+  "fragmentname" : "走投无路1",
+  "fragmentdescribe" : "无路可走，已到绝境。",
+  "gameid" : 58,
+  "chatid" : 21,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4003
+}, {
+  "id" : 244,
+  "fragmentname" : "走投无路2",
+  "fragmentdescribe" : "无路可走，已到绝境。",
+  "gameid" : 59,
+  "chatid" : 17,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4003
+}, {
+  "id" : 245,
+  "fragmentname" : "走投无路3",
+  "fragmentdescribe" : "无路可走，已到绝境。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 4003
+}, {
+  "id" : 246,
+  "fragmentname" : "走投无路4",
+  "fragmentdescribe" : "无路可走，已到绝境。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 4003
+}, {
+  "id" : 247,
+  "fragmentname" : "走投无路5",
+  "fragmentdescribe" : "无路可走，已到绝境。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 4003
+}, {
+  "id" : 248,
+  "fragmentname" : "救命稻草1",
+  "fragmentdescribe" : "困境中的唯一希望",
+  "gameid" : 58,
+  "chatid" : 25,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4004
+}, {
+  "id" : 249,
+  "fragmentname" : "救命稻草2",
+  "fragmentdescribe" : "困境中的唯一希望",
+  "gameid" : 59,
+  "chatid" : 13,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4004
+}, {
+  "id" : 250,
+  "fragmentname" : "救命稻草3",
+  "fragmentdescribe" : "困境中的唯一希望",
+  "gameid" : 59,
+  "chatid" : 43,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4004
+}, {
+  "id" : 251,
+  "fragmentname" : "救命稻草4",
+  "fragmentdescribe" : "困境中的唯一希望",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 4004
+}, {
+  "id" : 252,
+  "fragmentname" : "救命稻草5",
+  "fragmentdescribe" : "困境中的唯一希望",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 4004
+}, {
+  "id" : 253,
+  "fragmentname" : "重见天日1",
+  "fragmentdescribe" : "逃脱黑暗，逃出密室",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 4005
+}, {
+  "id" : 254,
+  "fragmentname" : "重见天日2",
+  "fragmentdescribe" : "逃脱黑暗，逃出密室",
+  "gameid" : 58,
+  "chatid" : 13,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4005
+}, {
+  "id" : 255,
+  "fragmentname" : "重见天日3",
+  "fragmentdescribe" : "逃脱黑暗，逃出密室",
+  "gameid" : 58,
+  "chatid" : 17,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4005
+}, {
+  "id" : 256,
+  "fragmentname" : "重见天日4",
+  "fragmentdescribe" : "逃脱黑暗，逃出密室",
+  "gameid" : 58,
+  "chatid" : 23,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4005
+}, {
+  "id" : 257,
+  "fragmentname" : "重见天日5",
+  "fragmentdescribe" : "逃脱黑暗，逃出密室",
+  "gameid" : 58,
+  "chatid" : 29,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4005
+}, {
+  "id" : 258,
+  "fragmentname" : "重见天日6",
+  "fragmentdescribe" : "逃脱黑暗，逃出密室",
+  "gameid" : 59,
+  "chatid" : 5,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4005
+}, {
+  "id" : 259,
+  "fragmentname" : "重见天日7",
+  "fragmentdescribe" : "逃脱黑暗，逃出密室",
+  "gameid" : 59,
+  "chatid" : 15,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4005
+}, {
+  "id" : 260,
+  "fragmentname" : "重见天日8",
+  "fragmentdescribe" : "逃脱黑暗，逃出密室",
+  "gameid" : 59,
+  "chatid" : 29,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4005
+}, {
+  "id" : 261,
+  "fragmentname" : "重见天日9",
+  "fragmentdescribe" : "逃脱黑暗，逃出密室",
+  "gameid" : 59,
+  "chatid" : 41,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4005
+}, {
+  "id" : 262,
+  "fragmentname" : "密室反转1",
+  "fragmentdescribe" : "被人坑了，其实是整蛊我",
+  "gameid" : 58,
+  "chatid" : 3,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4006
+}, {
+  "id" : 263,
+  "fragmentname" : "密室反转2",
+  "fragmentdescribe" : "被人坑了，其实是整蛊我",
+  "gameid" : 58,
+  "chatid" : 9,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4006
+}, {
+  "id" : 264,
+  "fragmentname" : "密室反转3",
+  "fragmentdescribe" : "被人坑了，其实是整蛊我",
+  "gameid" : 59,
+  "chatid" : 21,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4006
+}, {
+  "id" : 265,
+  "fragmentname" : "密室反转4",
+  "fragmentdescribe" : "被人坑了，其实是整蛊我",
+  "gameid" : 59,
+  "chatid" : 31,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4006
+}, {
+  "id" : 266,
+  "fragmentname" : "密室反转5",
+  "fragmentdescribe" : "被人坑了，其实是整蛊我",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 4006
+}, {
+  "id" : 267,
+  "fragmentname" : "患难见真情1",
+  "fragmentdescribe" : "经过共同的患难才看出自己的知心朋友",
+  "gameid" : 58,
+  "chatid" : 31,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4007
+}, {
+  "id" : 268,
+  "fragmentname" : "患难见真情2",
+  "fragmentdescribe" : "经过共同的患难才看出自己的知心朋友",
+  "gameid" : 59,
+  "chatid" : 25,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4007
+}, {
+  "id" : 269,
+  "fragmentname" : "患难见真情3",
+  "fragmentdescribe" : "经过共同的患难才看出自己的知心朋友",
+  "gameid" : 59,
+  "chatid" : 35,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4007
+}, {
+  "id" : 270,
+  "fragmentname" : "患难见真情4",
+  "fragmentdescribe" : "经过共同的患难才看出自己的知心朋友",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 4007
+}, {
+  "id" : 271,
+  "fragmentname" : "患难见真情5",
+  "fragmentdescribe" : "经过共同的患难才看出自己的知心朋友",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 4007
+}, {
+  "id" : 272,
+  "fragmentname" : "背后捅刀1",
+  "fragmentdescribe" : "表面对你好，暗中却坑害你",
+  "gameid" : 58,
+  "chatid" : 5,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4008
+}, {
+  "id" : 273,
+  "fragmentname" : "背后捅刀2",
+  "fragmentdescribe" : "表面对你好，暗中却坑害你",
+  "gameid" : 59,
+  "chatid" : 19,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4008
+}, {
+  "id" : 274,
+  "fragmentname" : "背后捅刀3",
+  "fragmentdescribe" : "表面对你好，暗中却坑害你",
+  "gameid" : 59,
+  "chatid" : 27,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4008
+}, {
+  "id" : 275,
+  "fragmentname" : "背后捅刀4",
+  "fragmentdescribe" : "表面对你好，暗中却坑害你",
+  "gameid" : 59,
+  "chatid" : 37,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4008
+}, {
+  "id" : 276,
+  "fragmentname" : "背后捅刀5",
+  "fragmentdescribe" : "表面对你好，暗中却坑害你",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 4008
+}, {
+  "id" : 277,
+  "fragmentname" : "悔不当初1",
+  "fragmentdescribe" : "后悔开始不该这样做",
+  "gameid" : 58,
+  "chatid" : 7,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4009
+}, {
+  "id" : 278,
+  "fragmentname" : "悔不当初2",
+  "fragmentdescribe" : "后悔开始不该这样做",
+  "gameid" : 58,
+  "chatid" : 1,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4009
+}, {
+  "id" : 279,
+  "fragmentname" : "悔不当初3",
+  "fragmentdescribe" : "后悔开始不该这样做",
+  "gameid" : 59,
+  "chatid" : 9,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4009
+}, {
+  "id" : 280,
+  "fragmentname" : "悔不当初4",
+  "fragmentdescribe" : "后悔开始不该这样做",
+  "gameid" : 59,
+  "chatid" : 11,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 4009
+}, {
+  "id" : 281,
+  "fragmentname" : "悔不当初5",
+  "fragmentdescribe" : "后悔开始不该这样做",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 4009
+}, {
+  "id" : 282,
+  "fragmentname" : "铁面无私1",
+  "fragmentdescribe" : "无论真凶是谁，都一定追查到底",
+  "gameid" : 64,
+  "chatid" : 35,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5001
+}, {
+  "id" : 283,
+  "fragmentname" : "铁面无私2",
+  "fragmentdescribe" : "无论真凶是谁，都一定追查到底",
+  "gameid" : 64,
+  "chatid" : 53,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5001
+}, {
+  "id" : 284,
+  "fragmentname" : "铁面无私3",
+  "fragmentdescribe" : "无论真凶是谁，都一定追查到底",
+  "gameid" : 64,
+  "chatid" : 65,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5001
+}, {
+  "id" : 285,
+  "fragmentname" : "铁面无私4",
+  "fragmentdescribe" : "无论真凶是谁，都一定追查到底",
+  "gameid" : 64,
+  "chatid" : 67,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5001
+}, {
+  "id" : 286,
+  "fragmentname" : "铁面无私5",
+  "fragmentdescribe" : "无论真凶是谁，都一定追查到底",
+  "gameid" : 64,
+  "chatid" : 73,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5001
+}, {
+  "id" : 287,
+  "fragmentname" : "铁面无私6",
+  "fragmentdescribe" : "无论真凶是谁，都一定追查到底",
+  "gameid" : 64,
+  "chatid" : 93,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5001
+}, {
+  "id" : 288,
+  "fragmentname" : "铁面无私7",
+  "fragmentdescribe" : "无论真凶是谁，都一定追查到底",
+  "gameid" : 64,
+  "chatid" : 95,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5001
+}, {
+  "id" : 289,
+  "fragmentname" : "命犯桃花1",
+  "fragmentdescribe" : "知识积累丰富，可以解答各类科目的问题",
+  "gameid" : 64,
+  "chatid" : 5,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5002
+}, {
+  "id" : 290,
+  "fragmentname" : "命犯桃花2",
+  "fragmentdescribe" : "知识积累丰富，可以解答各类科目的问题",
+  "gameid" : 64,
+  "chatid" : 39,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5002
+}, {
+  "id" : 291,
+  "fragmentname" : "命犯桃花3",
+  "fragmentdescribe" : "知识积累丰富，可以解答各类科目的问题",
+  "gameid" : 64,
+  "chatid" : 43,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5002
+}, {
+  "id" : 292,
+  "fragmentname" : "命犯桃花4",
+  "fragmentdescribe" : "知识积累丰富，可以解答各类科目的问题",
+  "gameid" : 64,
+  "chatid" : 45,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5002
+}, {
+  "id" : 293,
+  "fragmentname" : "命犯桃花5",
+  "fragmentdescribe" : "知识积累丰富，可以解答各类科目的问题",
+  "gameid" : 64,
+  "chatid" : 51,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5002
+}, {
+  "id" : 294,
+  "fragmentname" : "命犯桃花6",
+  "fragmentdescribe" : "知识积累丰富，可以解答各类科目的问题",
+  "gameid" : 64,
+  "chatid" : 81,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5002
+}, {
+  "id" : 295,
+  "fragmentname" : "命犯桃花7",
+  "fragmentdescribe" : "知识积累丰富，可以解答各类科目的问题",
+  "gameid" : 64,
+  "chatid" : 87,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5002
+}, {
+  "id" : 296,
+  "fragmentname" : "命犯桃花8",
+  "fragmentdescribe" : "知识积累丰富，可以解答各类科目的问题",
+  "gameid" : 64,
+  "chatid" : 103,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5002
+}, {
+  "id" : 297,
+  "fragmentname" : "命犯桃花9",
+  "fragmentdescribe" : "知识积累丰富，可以解答各类科目的问题",
+  "gameid" : 64,
+  "chatid" : 107,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5002
+}, {
+  "id" : 298,
+  "fragmentname" : "命犯桃花10",
+  "fragmentdescribe" : "知识积累丰富，可以解答各类科目的问题",
+  "gameid" : 64,
+  "chatid" : 109,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5002
+}, {
+  "id" : 299,
+  "fragmentname" : "学富五车1",
+  "fragmentdescribe" : "在选择回复中选择到表达思想更详细的选项",
+  "gameid" : 64,
+  "chatid" : 1,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5003
+}, {
+  "id" : 300,
+  "fragmentname" : "学富五车2",
+  "fragmentdescribe" : "在选择回复中选择到表达思想更详细的选项",
+  "gameid" : 64,
+  "chatid" : 3,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5003
+}, {
+  "id" : 301,
+  "fragmentname" : "学富五车3",
+  "fragmentdescribe" : "在选择回复中选择到表达思想更详细的选项",
+  "gameid" : 64,
+  "chatid" : 29,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5003
+}, {
+  "id" : 302,
+  "fragmentname" : "学富五车4",
+  "fragmentdescribe" : "在选择回复中选择到表达思想更详细的选项",
+  "gameid" : 64,
+  "chatid" : 33,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5003
+}, {
+  "id" : 303,
+  "fragmentname" : "学富五车5",
+  "fragmentdescribe" : "在选择回复中选择到表达思想更详细的选项",
+  "gameid" : 64,
+  "chatid" : 57,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5003
+}, {
+  "id" : 304,
+  "fragmentname" : "学富五车6",
+  "fragmentdescribe" : "在选择回复中选择到表达思想更详细的选项",
+  "gameid" : 64,
+  "chatid" : 83,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5003
+}, {
+  "id" : 305,
+  "fragmentname" : "学富五车7",
+  "fragmentdescribe" : "在选择回复中选择到表达思想更详细的选项",
+  "gameid" : 64,
+  "chatid" : 85,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5003
+}, {
+  "id" : 306,
+  "fragmentname" : "学富五车8",
+  "fragmentdescribe" : "在选择回复中选择到表达思想更详细的选项",
+  "gameid" : 64,
+  "chatid" : 101,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5003
+}, {
+  "id" : 307,
+  "fragmentname" : "学富五车9",
+  "fragmentdescribe" : "在选择回复中选择到表达思想更详细的选项",
+  "gameid" : 64,
+  "chatid" : 109,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5003
+}, {
+  "id" : 308,
+  "fragmentname" : "学富五车10",
+  "fragmentdescribe" : "在选择回复中选择到表达思想更详细的选项",
+  "gameid" : 64,
+  "chatid" : 115,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5003
+}, {
+  "id" : 309,
+  "fragmentname" : "能说会道1",
+  "fragmentdescribe" : "在选择回复中选择到表达思想更详细的选项",
+  "gameid" : 64,
+  "chatid" : 37,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5004
+}, {
+  "id" : 310,
+  "fragmentname" : "能说会道2",
+  "fragmentdescribe" : "在选择回复中选择到表达思想更详细的选项",
+  "gameid" : 64,
+  "chatid" : 69,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5004
+}, {
+  "id" : 311,
+  "fragmentname" : "能说会道3",
+  "fragmentdescribe" : "在选择回复中选择到表达思想更详细的选项",
+  "gameid" : 64,
+  "chatid" : 105,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5004
+}, {
+  "id" : 312,
+  "fragmentname" : "能说会道4",
+  "fragmentdescribe" : "在选择回复中选择到表达思想更详细的选项",
+  "gameid" : 64,
+  "chatid" : 111,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5004
+}, {
+  "id" : 313,
+  "fragmentname" : "能说会道5",
+  "fragmentdescribe" : "在选择回复中选择到表达思想更详细的选项",
+  "gameid" : 64,
+  "chatid" : 121,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5004
+}, {
+  "id" : 314,
+  "fragmentname" : "谈判专家1",
+  "fragmentdescribe" : "在危机的情况下，成功解救了人质",
+  "gameid" : 64,
+  "chatid" : 11,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5005
+}, {
+  "id" : 315,
+  "fragmentname" : "谈判专家2",
+  "fragmentdescribe" : "在危机的情况下，成功解救了人质",
+  "gameid" : 64,
+  "chatid" : 25,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5005
+}, {
+  "id" : 316,
+  "fragmentname" : "谈判专家3",
+  "fragmentdescribe" : "在危机的情况下，成功解救了人质",
+  "gameid" : 64,
+  "chatid" : 27,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5005
+}, {
+  "id" : 317,
+  "fragmentname" : "谈判专家4",
+  "fragmentdescribe" : "在危机的情况下，成功解救了人质",
+  "gameid" : 64,
+  "chatid" : 55,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5005
+}, {
+  "id" : 318,
+  "fragmentname" : "谈判专家5",
+  "fragmentdescribe" : "在危机的情况下，成功解救了人质",
+  "gameid" : 64,
+  "chatid" : 89,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5005
+}, {
+  "id" : 319,
+  "fragmentname" : "谈判专家6",
+  "fragmentdescribe" : "在危机的情况下，成功解救了人质",
+  "gameid" : 64,
+  "chatid" : 113,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5005
+}, {
+  "id" : 320,
+  "fragmentname" : "正义之士1",
+  "fragmentdescribe" : "无论曾经有过多大的矛盾，也要用正义的方法去解决",
+  "gameid" : 47,
+  "chatid" : 4,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5006
+}, {
+  "id" : 321,
+  "fragmentname" : "正义之士2",
+  "fragmentdescribe" : "无论曾经有过多大的矛盾，也要用正义的方法去解决",
+  "gameid" : 64,
+  "chatid" : 13,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5006
+}, {
+  "id" : 322,
+  "fragmentname" : "正义之士3",
+  "fragmentdescribe" : "无论曾经有过多大的矛盾，也要用正义的方法去解决",
+  "gameid" : 64,
+  "chatid" : 17,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5006
+}, {
+  "id" : 323,
+  "fragmentname" : "正义之士4",
+  "fragmentdescribe" : "无论曾经有过多大的矛盾，也要用正义的方法去解决",
+  "gameid" : 64,
+  "chatid" : 41,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5006
+}, {
+  "id" : 324,
+  "fragmentname" : "正义之士5",
+  "fragmentdescribe" : "无论曾经有过多大的矛盾，也要用正义的方法去解决",
+  "gameid" : 64,
+  "chatid" : 77,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5006
+}, {
+  "id" : 325,
+  "fragmentname" : "正义之士6",
+  "fragmentdescribe" : "无论曾经有过多大的矛盾，也要用正义的方法去解决",
+  "gameid" : 64,
+  "chatid" : 123,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5006
+}, {
+  "id" : 326,
+  "fragmentname" : "善于搞怪1",
+  "fragmentdescribe" : "虽然情况很紧急，但是过程中也要很放松",
+  "gameid" : 47,
+  "chatid" : 2,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5007
+}, {
+  "id" : 327,
+  "fragmentname" : "善于搞怪2",
+  "fragmentdescribe" : "虽然情况很紧急，但是过程中也要很放松",
+  "gameid" : 64,
+  "chatid" : 7,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5007
+}, {
+  "id" : 328,
+  "fragmentname" : "善于搞怪3",
+  "fragmentdescribe" : "虽然情况很紧急，但是过程中也要很放松",
+  "gameid" : 64,
+  "chatid" : 9,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5007
+}, {
+  "id" : 329,
+  "fragmentname" : "善于搞怪4",
+  "fragmentdescribe" : "虽然情况很紧急，但是过程中也要很放松",
+  "gameid" : 64,
+  "chatid" : 19,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5007
+}, {
+  "id" : 330,
+  "fragmentname" : "善于搞怪5",
+  "fragmentdescribe" : "虽然情况很紧急，但是过程中也要很放松",
+  "gameid" : 64,
+  "chatid" : 47,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5007
+}, {
+  "id" : 331,
+  "fragmentname" : "善于搞怪6",
+  "fragmentdescribe" : "虽然情况很紧急，但是过程中也要很放松",
+  "gameid" : 64,
+  "chatid" : 97,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5007
+}, {
+  "id" : 332,
+  "fragmentname" : "善于搞怪7",
+  "fragmentdescribe" : "虽然情况很紧急，但是过程中也要很放松",
+  "gameid" : 64,
+  "chatid" : 99,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5007
+}, {
+  "id" : 333,
+  "fragmentname" : "脾气暴躁1",
+  "fragmentdescribe" : "既然正义已经迟到，那就弥补一下迟到",
+  "gameid" : 64,
+  "chatid" : 61,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5008
+}, {
+  "id" : 334,
+  "fragmentname" : "脾气暴躁2",
+  "fragmentdescribe" : "既然正义已经迟到，那就弥补一下迟到",
+  "gameid" : 64,
+  "chatid" : 63,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 5008
+}, {
+  "id" : 335,
+  "fragmentname" : "脾气暴躁3",
+  "fragmentdescribe" : "既然正义已经迟到，那就弥补一下迟到",
+  "gameid" : 64,
+  "chatid" : 71,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5008
+}, {
+  "id" : 336,
+  "fragmentname" : "脾气暴躁4",
+  "fragmentdescribe" : "既然正义已经迟到，那就弥补一下迟到",
+  "gameid" : 64,
+  "chatid" : 75,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5008
+}, {
+  "id" : 337,
+  "fragmentname" : "脾气暴躁5",
+  "fragmentdescribe" : "既然正义已经迟到，那就弥补一下迟到",
+  "gameid" : 64,
+  "chatid" : 79,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5008
+}, {
+  "id" : 338,
+  "fragmentname" : "执着的人1",
+  "fragmentdescribe" : "沿着一个方向追寻，一定能找到真相",
+  "gameid" : 64,
+  "chatid" : 15,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5009
+}, {
+  "id" : 339,
+  "fragmentname" : "执着的人2",
+  "fragmentdescribe" : "沿着一个方向追寻，一定能找到真相",
+  "gameid" : 64,
+  "chatid" : 21,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5009
+}, {
+  "id" : 340,
+  "fragmentname" : "执着的人3",
+  "fragmentdescribe" : "沿着一个方向追寻，一定能找到真相",
+  "gameid" : 64,
+  "chatid" : 23,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5009
+}, {
+  "id" : 341,
+  "fragmentname" : "执着的人4",
+  "fragmentdescribe" : "沿着一个方向追寻，一定能找到真相",
+  "gameid" : 64,
+  "chatid" : 49,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5009
+}, {
+  "id" : 342,
+  "fragmentname" : "执着的人5",
+  "fragmentdescribe" : "沿着一个方向追寻，一定能找到真相",
+  "gameid" : 64,
+  "chatid" : 59,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 5009
+}, {
+  "id" : 343,
+  "fragmentname" : "执着的人6",
+  "fragmentdescribe" : "沿着一个方向追寻，一定能找到真相",
+  "gameid" : 64,
+  "chatid" : 91,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5009
+}, {
+  "id" : 344,
+  "fragmentname" : "执着的人7",
+  "fragmentdescribe" : "沿着一个方向追寻，一定能找到真相",
+  "gameid" : 64,
+  "chatid" : 125,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 5009
+}, {
+  "id" : 345,
+  "fragmentname" : "察言观色1",
+  "fragmentdescribe" : "观察细微的动作，通过分析表情会更无限的接近真相",
+  "gameid" : 60,
+  "chatid" : 6,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6001
+}, {
+  "id" : 346,
+  "fragmentname" : "察言观色2",
+  "fragmentdescribe" : "观察细微的动作，通过分析表情会更无限的接近真相",
+  "gameid" : 63,
+  "chatid" : 22,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6001
+}, {
+  "id" : 347,
+  "fragmentname" : "察言观色3",
+  "fragmentdescribe" : "观察细微的动作，通过分析表情会更无限的接近真相",
+  "gameid" : 63,
+  "chatid" : 24,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6001
+}, {
+  "id" : 348,
+  "fragmentname" : "察言观色4",
+  "fragmentdescribe" : "观察细微的动作，通过分析表情会更无限的接近真相",
+  "gameid" : 63,
+  "chatid" : 28,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6001
+}, {
+  "id" : 349,
+  "fragmentname" : "察言观色5",
+  "fragmentdescribe" : "观察细微的动作，通过分析表情会更无限的接近真相",
+  "gameid" : 63,
+  "chatid" : 42,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6001
+}, {
+  "id" : 350,
+  "fragmentname" : "察言观色6",
+  "fragmentdescribe" : "观察细微的动作，通过分析表情会更无限的接近真相",
+  "gameid" : 60,
+  "chatid" : 46,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6001
+}, {
+  "id" : 351,
+  "fragmentname" : "察言观色7",
+  "fragmentdescribe" : "观察细微的动作，通过分析表情会更无限的接近真相",
+  "gameid" : 67,
+  "chatid" : 1,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6001
+}, {
+  "id" : 352,
+  "fragmentname" : "察言观色8",
+  "fragmentdescribe" : "观察细微的动作，通过分析表情会更无限的接近真相",
+  "gameid" : 67,
+  "chatid" : 3,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6001
+}, {
+  "id" : 353,
+  "fragmentname" : "发散思维1",
+  "fragmentdescribe" : "运用你发散的思维，把众多看似没有关联的线索关联起来",
+  "gameid" : 44,
+  "chatid" : 0,
+  "cid" : 88,
+  "getfragment" : 1,
+  "fromBadgeId" : 6002
+}, {
+  "id" : 354,
+  "fragmentname" : "发散思维2",
+  "fragmentdescribe" : "运用你发散的思维，把众多看似没有关联的线索关联起来",
+  "gameid" : 63,
+  "chatid" : 30,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6002
+}, {
+  "id" : 355,
+  "fragmentname" : "发散思维3",
+  "fragmentdescribe" : "运用你发散的思维，把众多看似没有关联的线索关联起来",
+  "gameid" : 42,
+  "chatid" : 2,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6002
+}, {
+  "id" : 356,
+  "fragmentname" : "发散思维4",
+  "fragmentdescribe" : "运用你发散的思维，把众多看似没有关联的线索关联起来",
+  "gameid" : 42,
+  "chatid" : 10,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6002
+}, {
+  "id" : 357,
+  "fragmentname" : "发散思维5",
+  "fragmentdescribe" : "运用你发散的思维，把众多看似没有关联的线索关联起来",
+  "gameid" : 55,
+  "chatid" : 7,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6002
+}, {
+  "id" : 358,
+  "fragmentname" : "发散思维6",
+  "fragmentdescribe" : "运用你发散的思维，把众多看似没有关联的线索关联起来",
+  "gameid" : 55,
+  "chatid" : 13,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6002
+}, {
+  "id" : 359,
+  "fragmentname" : "发散思维7",
+  "fragmentdescribe" : "运用你发散的思维，把众多看似没有关联的线索关联起来",
+  "gameid" : 55,
+  "chatid" : 21,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6002
+}, {
+  "id" : 360,
+  "fragmentname" : "发散思维8",
+  "fragmentdescribe" : "运用你发散的思维，把众多看似没有关联的线索关联起来",
+  "gameid" : 49,
+  "chatid" : 0,
+  "cid" : 9,
+  "getfragment" : 1,
+  "fromBadgeId" : 6002
+}, {
+  "id" : 361,
+  "fragmentname" : "发散思维9",
+  "fragmentdescribe" : "运用你发散的思维，把众多看似没有关联的线索关联起来",
+  "gameid" : 60,
+  "chatid" : 12,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6002
+}, {
+  "id" : 362,
+  "fragmentname" : "发散思维10",
+  "fragmentdescribe" : "运用你发散的思维，把众多看似没有关联的线索关联起来",
+  "gameid" : 67,
+  "chatid" : 5,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6002
+}, {
+  "id" : 363,
+  "fragmentname" : "发散思维11",
+  "fragmentdescribe" : "运用你发散的思维，把众多看似没有关联的线索关联起来",
+  "gameid" : 67,
+  "chatid" : 7,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6002
+}, {
+  "id" : 364,
+  "fragmentname" : "图形思维1",
+  "fragmentdescribe" : "观察图片，更容易找到重要的线索",
+  "gameid" : 42,
+  "chatid" : 12,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 6003
+}, {
+  "id" : 365,
+  "fragmentname" : "图形思维2",
+  "fragmentdescribe" : "观察图片，更容易找到重要的线索",
+  "gameid" : 55,
+  "chatid" : 5,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6003
+}, {
+  "id" : 366,
+  "fragmentname" : "图形思维3",
+  "fragmentdescribe" : "观察图片，更容易找到重要的线索",
+  "gameid" : 60,
+  "chatid" : 2,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6003
+}, {
+  "id" : 367,
+  "fragmentname" : "图形思维4",
+  "fragmentdescribe" : "观察图片，更容易找到重要的线索",
+  "gameid" : 63,
+  "chatid" : 26,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6003
+}, {
+  "id" : 368,
+  "fragmentname" : "图形思维5",
+  "fragmentdescribe" : "观察图片，更容易找到重要的线索",
+  "gameid" : 63,
+  "chatid" : 34,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6003
+}, {
+  "id" : 369,
+  "fragmentname" : "图形思维6",
+  "fragmentdescribe" : "观察图片，更容易找到重要的线索",
+  "gameid" : 63,
+  "chatid" : 36,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6003
+}, {
+  "id" : 370,
+  "fragmentname" : "图形思维7",
+  "fragmentdescribe" : "观察图片，更容易找到重要的线索",
+  "gameid" : 67,
+  "chatid" : 9,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6003
+}, {
+  "id" : 371,
+  "fragmentname" : "图形思维8",
+  "fragmentdescribe" : "观察图片，更容易找到重要的线索",
+  "gameid" : 67,
+  "chatid" : 11,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6003
+}, {
+  "id" : 372,
+  "fragmentname" : "图形思维9",
+  "fragmentdescribe" : "观察图片，更容易找到重要的线索",
+  "gameid" : 67,
+  "chatid" : 39,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6003
+}, {
+  "id" : 373,
+  "fragmentname" : "形象思维1",
+  "fragmentdescribe" : "将一切形象化，会更好的找到线索",
+  "gameid" : 55,
+  "chatid" : 15,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6004
+}, {
+  "id" : 374,
+  "fragmentname" : "形象思维2",
+  "fragmentdescribe" : "将一切形象化，会更好的找到线索",
+  "gameid" : 55,
+  "chatid" : 23,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6004
+}, {
+  "id" : 375,
+  "fragmentname" : "形象思维3",
+  "fragmentdescribe" : "将一切形象化，会更好的找到线索",
+  "gameid" : 60,
+  "chatid" : 14,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6004
+}, {
+  "id" : 376,
+  "fragmentname" : "形象思维4",
+  "fragmentdescribe" : "将一切形象化，会更好的找到线索",
+  "gameid" : 63,
+  "chatid" : 2,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6004
+}, {
+  "id" : 377,
+  "fragmentname" : "形象思维5",
+  "fragmentdescribe" : "将一切形象化，会更好的找到线索",
+  "gameid" : 63,
+  "chatid" : 10,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6004
+}, {
+  "id" : 378,
+  "fragmentname" : "形象思维6",
+  "fragmentdescribe" : "将一切形象化，会更好的找到线索",
+  "gameid" : 63,
+  "chatid" : 38,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6004
+}, {
+  "id" : 379,
+  "fragmentname" : "形象思维7",
+  "fragmentdescribe" : "将一切形象化，会更好的找到线索",
+  "gameid" : 60,
+  "chatid" : 30,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6004
+}, {
+  "id" : 380,
+  "fragmentname" : "形象思维8",
+  "fragmentdescribe" : "将一切形象化，会更好的找到线索",
+  "gameid" : 60,
+  "chatid" : 32,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6004
+}, {
+  "id" : 381,
+  "fragmentname" : "形象思维9",
+  "fragmentdescribe" : "将一切形象化，会更好的找到线索",
+  "gameid" : 67,
+  "chatid" : 13,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6004
+}, {
+  "id" : 382,
+  "fragmentname" : "形象思维10",
+  "fragmentdescribe" : "将一切形象化，会更好的找到线索",
+  "gameid" : 67,
+  "chatid" : 15,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6004
+}, {
+  "id" : 383,
+  "fragmentname" : "形象思维11",
+  "fragmentdescribe" : "将一切形象化，会更好的找到线索",
+  "gameid" : 67,
+  "chatid" : 37,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6004
+}, {
+  "id" : 384,
+  "fragmentname" : "逻辑推理1",
+  "fragmentdescribe" : "通过强大的逻辑推理能力，找寻事实真相",
+  "gameid" : 60,
+  "chatid" : 22,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6005
+}, {
+  "id" : 385,
+  "fragmentname" : "逻辑推理2",
+  "fragmentdescribe" : "通过强大的逻辑推理能力，找寻事实真相",
+  "gameid" : 42,
+  "chatid" : 16,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6005
+}, {
+  "id" : 386,
+  "fragmentname" : "逻辑推理3",
+  "fragmentdescribe" : "通过强大的逻辑推理能力，找寻事实真相",
+  "gameid" : 55,
+  "chatid" : 1,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6005
+}, {
+  "id" : 387,
+  "fragmentname" : "逻辑推理4",
+  "fragmentdescribe" : "通过强大的逻辑推理能力，找寻事实真相",
+  "gameid" : 55,
+  "chatid" : 3,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6005
+}, {
+  "id" : 388,
+  "fragmentname" : "逻辑推理5",
+  "fragmentdescribe" : "通过强大的逻辑推理能力，找寻事实真相",
+  "gameid" : 60,
+  "chatid" : 4,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6005
+}, {
+  "id" : 389,
+  "fragmentname" : "逻辑推理6",
+  "fragmentdescribe" : "通过强大的逻辑推理能力，找寻事实真相",
+  "gameid" : 60,
+  "chatid" : 24,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6005
+}, {
+  "id" : 390,
+  "fragmentname" : "逻辑推理7",
+  "fragmentdescribe" : "通过强大的逻辑推理能力，找寻事实真相",
+  "gameid" : 60,
+  "chatid" : 34,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6005
+}, {
+  "id" : 391,
+  "fragmentname" : "逻辑推理8",
+  "fragmentdescribe" : "通过强大的逻辑推理能力，找寻事实真相",
+  "gameid" : 60,
+  "chatid" : 42,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6005
+}, {
+  "id" : 392,
+  "fragmentname" : "逻辑推理9",
+  "fragmentdescribe" : "通过强大的逻辑推理能力，找寻事实真相",
+  "gameid" : 60,
+  "chatid" : 44,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6005
+}, {
+  "id" : 393,
+  "fragmentname" : "逻辑推理10",
+  "fragmentdescribe" : "通过强大的逻辑推理能力，找寻事实真相",
+  "gameid" : 67,
+  "chatid" : 17,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6005
+}, {
+  "id" : 394,
+  "fragmentname" : "逻辑推理11",
+  "fragmentdescribe" : "通过强大的逻辑推理能力，找寻事实真相",
+  "gameid" : 67,
+  "chatid" : 19,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6005
+}, {
+  "id" : 395,
+  "fragmentname" : "科学逻辑1",
+  "fragmentdescribe" : "由实践检验并无限趋近真理的方法",
+  "gameid" : 55,
+  "chatid" : 11,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6006
+}, {
+  "id" : 396,
+  "fragmentname" : "科学逻辑2",
+  "fragmentdescribe" : "由实践检验并无限趋近真理的方法",
+  "gameid" : 60,
+  "chatid" : 10,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6006
+}, {
+  "id" : 397,
+  "fragmentname" : "科学逻辑3",
+  "fragmentdescribe" : "由实践检验并无限趋近真理的方法",
+  "gameid" : 63,
+  "chatid" : 8,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6006
+}, {
+  "id" : 398,
+  "fragmentname" : "科学逻辑4",
+  "fragmentdescribe" : "由实践检验并无限趋近真理的方法",
+  "gameid" : 63,
+  "chatid" : 12,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6006
+}, {
+  "id" : 399,
+  "fragmentname" : "科学逻辑5",
+  "fragmentdescribe" : "由实践检验并无限趋近真理的方法",
+  "gameid" : 63,
+  "chatid" : 18,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6006
+}, {
+  "id" : 400,
+  "fragmentname" : "科学逻辑6",
+  "fragmentdescribe" : "由实践检验并无限趋近真理的方法",
+  "gameid" : 63,
+  "chatid" : 40,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6006
+}, {
+  "id" : 401,
+  "fragmentname" : "科学逻辑7",
+  "fragmentdescribe" : "由实践检验并无限趋近真理的方法",
+  "gameid" : 60,
+  "chatid" : 26,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6006
+}, {
+  "id" : 402,
+  "fragmentname" : "科学逻辑8",
+  "fragmentdescribe" : "由实践检验并无限趋近真理的方法",
+  "gameid" : 60,
+  "chatid" : 50,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6006
+}, {
+  "id" : 403,
+  "fragmentname" : "科学逻辑9",
+  "fragmentdescribe" : "由实践检验并无限趋近真理的方法",
+  "gameid" : 60,
+  "chatid" : 52,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6006
+}, {
+  "id" : 404,
+  "fragmentname" : "科学逻辑10",
+  "fragmentdescribe" : "由实践检验并无限趋近真理的方法",
+  "gameid" : 67,
+  "chatid" : 21,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6006
+}, {
+  "id" : 405,
+  "fragmentname" : "科学逻辑11",
+  "fragmentdescribe" : "由实践检验并无限趋近真理的方法",
+  "gameid" : 67,
+  "chatid" : 23,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6006
+}, {
+  "id" : 406,
+  "fragmentname" : "蛛丝马迹1",
+  "fragmentdescribe" : "从任何相关细节中找到线索，并靠近真相",
+  "gameid" : 43,
+  "chatid" : 0,
+  "cid" : 83,
+  "getfragment" : 1,
+  "fromBadgeId" : 6007
+}, {
+  "id" : 407,
+  "fragmentname" : "蛛丝马迹2",
+  "fragmentdescribe" : "从任何相关细节中找到线索，并靠近真相",
+  "gameid" : 42,
+  "chatid" : 6,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6007
+}, {
+  "id" : 408,
+  "fragmentname" : "蛛丝马迹3",
+  "fragmentdescribe" : "从任何相关细节中找到线索，并靠近真相",
+  "gameid" : 55,
+  "chatid" : 9,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6007
+}, {
+  "id" : 409,
+  "fragmentname" : "蛛丝马迹4",
+  "fragmentdescribe" : "从任何相关细节中找到线索，并靠近真相",
+  "gameid" : 55,
+  "chatid" : 17,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6007
+}, {
+  "id" : 410,
+  "fragmentname" : "蛛丝马迹5",
+  "fragmentdescribe" : "从任何相关细节中找到线索，并靠近真相",
+  "gameid" : 60,
+  "chatid" : 16,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6007
+}, {
+  "id" : 411,
+  "fragmentname" : "蛛丝马迹6",
+  "fragmentdescribe" : "从任何相关细节中找到线索，并靠近真相",
+  "gameid" : 60,
+  "chatid" : 18,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6007
+}, {
+  "id" : 412,
+  "fragmentname" : "蛛丝马迹7",
+  "fragmentdescribe" : "从任何相关细节中找到线索，并靠近真相",
+  "gameid" : 63,
+  "chatid" : 14,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6007
+}, {
+  "id" : 413,
+  "fragmentname" : "蛛丝马迹8",
+  "fragmentdescribe" : "从任何相关细节中找到线索，并靠近真相",
+  "gameid" : 60,
+  "chatid" : 40,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6007
+}, {
+  "id" : 414,
+  "fragmentname" : "蛛丝马迹9",
+  "fragmentdescribe" : "从任何相关细节中找到线索，并靠近真相",
+  "gameid" : 60,
+  "chatid" : 54,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6007
+}, {
+  "id" : 415,
+  "fragmentname" : "蛛丝马迹10",
+  "fragmentdescribe" : "从任何相关细节中找到线索，并靠近真相",
+  "gameid" : 67,
+  "chatid" : 25,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6007
+}, {
+  "id" : 416,
+  "fragmentname" : "蛛丝马迹11",
+  "fragmentdescribe" : "从任何相关细节中找到线索，并靠近真相",
+  "gameid" : 67,
+  "chatid" : 27,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6007
+}, {
+  "id" : 417,
+  "fragmentname" : "独具慧眼1",
+  "fragmentdescribe" : "从复杂的事件中看穿事情的真相",
+  "gameid" : 60,
+  "chatid" : 8,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6008
+}, {
+  "id" : 418,
+  "fragmentname" : "独具慧眼2",
+  "fragmentdescribe" : "从复杂的事件中看穿事情的真相",
+  "gameid" : 55,
+  "chatid" : 19,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6008
+}, {
+  "id" : 419,
+  "fragmentname" : "独具慧眼3",
+  "fragmentdescribe" : "从复杂的事件中看穿事情的真相",
+  "gameid" : 42,
+  "chatid" : 8,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6008
+}, {
+  "id" : 420,
+  "fragmentname" : "独具慧眼4",
+  "fragmentdescribe" : "从复杂的事件中看穿事情的真相",
+  "gameid" : 63,
+  "chatid" : 4,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6008
+}, {
+  "id" : 421,
+  "fragmentname" : "独具慧眼5",
+  "fragmentdescribe" : "从复杂的事件中看穿事情的真相",
+  "gameid" : 63,
+  "chatid" : 6,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6008
+}, {
+  "id" : 422,
+  "fragmentname" : "独具慧眼6",
+  "fragmentdescribe" : "从复杂的事件中看穿事情的真相",
+  "gameid" : 63,
+  "chatid" : 20,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6008
+}, {
+  "id" : 423,
+  "fragmentname" : "独具慧眼7",
+  "fragmentdescribe" : "从复杂的事件中看穿事情的真相",
+  "gameid" : 42,
+  "chatid" : 4,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6008
+}, {
+  "id" : 424,
+  "fragmentname" : "独具慧眼8",
+  "fragmentdescribe" : "从复杂的事件中看穿事情的真相",
+  "gameid" : 42,
+  "chatid" : 18,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6008
+}, {
+  "id" : 425,
+  "fragmentname" : "独具慧眼9",
+  "fragmentdescribe" : "从复杂的事件中看穿事情的真相",
+  "gameid" : 60,
+  "chatid" : 48,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6008
+}, {
+  "id" : 426,
+  "fragmentname" : "独具慧眼10",
+  "fragmentdescribe" : "从复杂的事件中看穿事情的真相",
+  "gameid" : 67,
+  "chatid" : 29,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6008
+}, {
+  "id" : 427,
+  "fragmentname" : "独具慧眼11",
+  "fragmentdescribe" : "从复杂的事件中看穿事情的真相",
+  "gameid" : 67,
+  "chatid" : 31,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6008
+}, {
+  "id" : 428,
+  "fragmentname" : "抽丝剥茧1",
+  "fragmentdescribe" : "拨开事件的层层迷雾，一环一环找寻最终的结局",
+  "gameid" : 43,
+  "chatid" : 0,
+  "cid" : 63,
+  "getfragment" : 1,
+  "fromBadgeId" : 6009
+}, {
+  "id" : 429,
+  "fragmentname" : "抽丝剥茧2",
+  "fragmentdescribe" : "拨开事件的层层迷雾，一环一环找寻最终的结局",
+  "gameid" : 42,
+  "chatid" : 20,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6009
+}, {
+  "id" : 430,
+  "fragmentname" : "抽丝剥茧3",
+  "fragmentdescribe" : "拨开事件的层层迷雾，一环一环找寻最终的结局",
+  "gameid" : 60,
+  "chatid" : 20,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6009
+}, {
+  "id" : 431,
+  "fragmentname" : "抽丝剥茧4",
+  "fragmentdescribe" : "拨开事件的层层迷雾，一环一环找寻最终的结局",
+  "gameid" : 63,
+  "chatid" : 16,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6009
+}, {
+  "id" : 432,
+  "fragmentname" : "抽丝剥茧5",
+  "fragmentdescribe" : "拨开事件的层层迷雾，一环一环找寻最终的结局",
+  "gameid" : 63,
+  "chatid" : 32,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6009
+}, {
+  "id" : 433,
+  "fragmentname" : "抽丝剥茧6",
+  "fragmentdescribe" : "拨开事件的层层迷雾，一环一环找寻最终的结局",
+  "gameid" : 60,
+  "chatid" : 28,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6009
+}, {
+  "id" : 434,
+  "fragmentname" : "抽丝剥茧7",
+  "fragmentdescribe" : "拨开事件的层层迷雾，一环一环找寻最终的结局",
+  "gameid" : 60,
+  "chatid" : 36,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6009
+}, {
+  "id" : 435,
+  "fragmentname" : "抽丝剥茧8",
+  "fragmentdescribe" : "拨开事件的层层迷雾，一环一环找寻最终的结局",
+  "gameid" : 60,
+  "chatid" : 38,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6009
+}, {
+  "id" : 436,
+  "fragmentname" : "抽丝剥茧9",
+  "fragmentdescribe" : "拨开事件的层层迷雾，一环一环找寻最终的结局",
+  "gameid" : 67,
+  "chatid" : 33,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6009
+}, {
+  "id" : 437,
+  "fragmentname" : "抽丝剥茧10",
+  "fragmentdescribe" : "拨开事件的层层迷雾，一环一环找寻最终的结局",
+  "gameid" : 67,
+  "chatid" : 35,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 6009
+}, {
+  "id" : 438,
+  "fragmentname" : "作业风波1",
+  "fragmentdescribe" : "关于抄作业闹出的风波，没有结束之日",
+  "gameid" : 52,
+  "chatid" : 9,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 7001
+}, {
+  "id" : 439,
+  "fragmentname" : "作业风波2",
+  "fragmentdescribe" : "关于抄作业闹出的风波，没有结束之日",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7001
+}, {
+  "id" : 440,
+  "fragmentname" : "作业风波3",
+  "fragmentdescribe" : "关于抄作业闹出的风波，没有结束之日",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7001
+}, {
+  "id" : 441,
+  "fragmentname" : "作业风波4",
+  "fragmentdescribe" : "关于抄作业闹出的风波，没有结束之日",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7001
+}, {
+  "id" : 442,
+  "fragmentname" : "作业风波5",
+  "fragmentdescribe" : "关于抄作业闹出的风波，没有结束之日",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7001
+}, {
+  "id" : 443,
+  "fragmentname" : "老师的难题1",
+  "fragmentdescribe" : "你们的老师做过什么惊为天人的事情",
+  "gameid" : 52,
+  "chatid" : 5,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 7002
+}, {
+  "id" : 444,
+  "fragmentname" : "老师的难题2",
+  "fragmentdescribe" : "你们的老师做过什么惊为天人的事情",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7002
+}, {
+  "id" : 445,
+  "fragmentname" : "老师的难题3",
+  "fragmentdescribe" : "你们的老师做过什么惊为天人的事情",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7002
+}, {
+  "id" : 446,
+  "fragmentname" : "老师的难题4",
+  "fragmentdescribe" : "你们的老师做过什么惊为天人的事情",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7002
+}, {
+  "id" : 447,
+  "fragmentname" : "老师的难题5",
+  "fragmentdescribe" : "你们的老师做过什么惊为天人的事情",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7002
+}, {
+  "id" : 448,
+  "fragmentname" : "暗恋的女生1",
+  "fragmentdescribe" : "最理性的暗恋，就是努力让暗恋成真吧",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7003
+}, {
+  "id" : 449,
+  "fragmentname" : "暗恋的女生2",
+  "fragmentdescribe" : "最理性的暗恋，就是努力让暗恋成真吧",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7003
+}, {
+  "id" : 450,
+  "fragmentname" : "暗恋的女生3",
+  "fragmentdescribe" : "最理性的暗恋，就是努力让暗恋成真吧",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7003
+}, {
+  "id" : 451,
+  "fragmentname" : "暗恋的女生4",
+  "fragmentdescribe" : "最理性的暗恋，就是努力让暗恋成真吧",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7003
+}, {
+  "id" : 452,
+  "fragmentname" : "暗恋的女生5",
+  "fragmentdescribe" : "最理性的暗恋，就是努力让暗恋成真吧",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7003
+}, {
+  "id" : 453,
+  "fragmentname" : "同学的友谊1",
+  "fragmentdescribe" : "同学之间的友谊，在你内心里觉得有多重要",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7004
+}, {
+  "id" : 454,
+  "fragmentname" : "同学的友谊2",
+  "fragmentdescribe" : "同学之间的友谊，在你内心里觉得有多重要",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7004
+}, {
+  "id" : 455,
+  "fragmentname" : "同学的友谊3",
+  "fragmentdescribe" : "同学之间的友谊，在你内心里觉得有多重要",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7004
+}, {
+  "id" : 456,
+  "fragmentname" : "同学的友谊4",
+  "fragmentdescribe" : "同学之间的友谊，在你内心里觉得有多重要",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7004
+}, {
+  "id" : 457,
+  "fragmentname" : "同学的友谊5",
+  "fragmentdescribe" : "同学之间的友谊，在你内心里觉得有多重要",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7004
+}, {
+  "id" : 458,
+  "fragmentname" : "考试的成绩1",
+  "fragmentdescribe" : "考试的时候总有些人不按套路出牌",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7005
+}, {
+  "id" : 459,
+  "fragmentname" : "考试的成绩2",
+  "fragmentdescribe" : "考试的时候总有些人不按套路出牌",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7005
+}, {
+  "id" : 460,
+  "fragmentname" : "考试的成绩3",
+  "fragmentdescribe" : "考试的时候总有些人不按套路出牌",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7005
+}, {
+  "id" : 461,
+  "fragmentname" : "考试的成绩4",
+  "fragmentdescribe" : "考试的时候总有些人不按套路出牌",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7005
+}, {
+  "id" : 462,
+  "fragmentname" : "考试的成绩5",
+  "fragmentdescribe" : "考试的时候总有些人不按套路出牌",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7005
+}, {
+  "id" : 463,
+  "fragmentname" : "纸条的故事1",
+  "fragmentdescribe" : "上学时你传的小纸条，都写的啥",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7006
+}, {
+  "id" : 464,
+  "fragmentname" : "纸条的故事2",
+  "fragmentdescribe" : "上学时你传的小纸条，都写的啥",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7006
+}, {
+  "id" : 465,
+  "fragmentname" : "纸条的故事3",
+  "fragmentdescribe" : "上学时你传的小纸条，都写的啥",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7006
+}, {
+  "id" : 466,
+  "fragmentname" : "纸条的故事4",
+  "fragmentdescribe" : "上学时你传的小纸条，都写的啥",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7006
+}, {
+  "id" : 467,
+  "fragmentname" : "纸条的故事5",
+  "fragmentdescribe" : "上学时你传的小纸条，都写的啥",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7006
+}, {
+  "id" : 468,
+  "fragmentname" : "难忘的食堂1",
+  "fragmentdescribe" : "每次放学会想到的地方，是这里吗",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7007
+}, {
+  "id" : 469,
+  "fragmentname" : "难忘的食堂2",
+  "fragmentdescribe" : "每次放学会想到的地方，是这里吗",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7007
+}, {
+  "id" : 470,
+  "fragmentname" : "难忘的食堂3",
+  "fragmentdescribe" : "每次放学会想到的地方，是这里吗",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7007
+}, {
+  "id" : 471,
+  "fragmentname" : "难忘的食堂4",
+  "fragmentdescribe" : "每次放学会想到的地方，是这里吗",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7007
+}, {
+  "id" : 472,
+  "fragmentname" : "难忘的食堂5",
+  "fragmentdescribe" : "每次放学会想到的地方，是这里吗",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7007
+}, {
+  "id" : 473,
+  "fragmentname" : "宿舍的秘密1",
+  "fragmentdescribe" : "一个宿舍，一群人，总会伴随着辛酸苦辣",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7008
+}, {
+  "id" : 474,
+  "fragmentname" : "宿舍的秘密2",
+  "fragmentdescribe" : "一个宿舍，一群人，总会伴随着辛酸苦辣",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7008
+}, {
+  "id" : 475,
+  "fragmentname" : "宿舍的秘密3",
+  "fragmentdescribe" : "一个宿舍，一群人，总会伴随着辛酸苦辣",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7008
+}, {
+  "id" : 476,
+  "fragmentname" : "宿舍的秘密4",
+  "fragmentdescribe" : "一个宿舍，一群人，总会伴随着辛酸苦辣",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7008
+}, {
+  "id" : 477,
+  "fragmentname" : "宿舍的秘密5",
+  "fragmentdescribe" : "一个宿舍，一群人，总会伴随着辛酸苦辣",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7008
+}, {
+  "id" : 478,
+  "fragmentname" : "教室里的事1",
+  "fragmentdescribe" : "若是事事都完美，人生岂不了无生趣？",
+  "gameid" : 52,
+  "chatid" : 1,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 7009
+}, {
+  "id" : 479,
+  "fragmentname" : "教室里的事2",
+  "fragmentdescribe" : "若是事事都完美，人生岂不了无生趣？",
+  "gameid" : 52,
+  "chatid" : 3,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 7009
+}, {
+  "id" : 480,
+  "fragmentname" : "教室里的事3",
+  "fragmentdescribe" : "若是事事都完美，人生岂不了无生趣？",
+  "gameid" : 52,
+  "chatid" : 7,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 7009
+}, {
+  "id" : 481,
+  "fragmentname" : "教室里的事4",
+  "fragmentdescribe" : "若是事事都完美，人生岂不了无生趣？",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7009
+}, {
+  "id" : 482,
+  "fragmentname" : "教室里的事5",
+  "fragmentdescribe" : "若是事事都完美，人生岂不了无生趣？",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 7009
+}, {
+  "id" : 483,
+  "fragmentname" : "抑郁症1",
+  "fragmentdescribe" : "你是不是长期处于抑郁、压抑、悲伤的情绪中呢",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8001
+}, {
+  "id" : 484,
+  "fragmentname" : "抑郁症2",
+  "fragmentdescribe" : "你是不是长期处于抑郁、压抑、悲伤的情绪中呢",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8001
+}, {
+  "id" : 485,
+  "fragmentname" : "抑郁症3",
+  "fragmentdescribe" : "你是不是长期处于抑郁、压抑、悲伤的情绪中呢",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8001
+}, {
+  "id" : 486,
+  "fragmentname" : "抑郁症4",
+  "fragmentdescribe" : "你是不是长期处于抑郁、压抑、悲伤的情绪中呢",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8001
+}, {
+  "id" : 487,
+  "fragmentname" : "抑郁症5",
+  "fragmentdescribe" : "你是不是长期处于抑郁、压抑、悲伤的情绪中呢",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8001
+}, {
+  "id" : 488,
+  "fragmentname" : "韦奇定律1",
+  "fragmentdescribe" : "不要让闲话动摇了你的信念",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8002
+}, {
+  "id" : 489,
+  "fragmentname" : "韦奇定律2",
+  "fragmentdescribe" : "不要让闲话动摇了你的信念",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8002
+}, {
+  "id" : 490,
+  "fragmentname" : "韦奇定律3",
+  "fragmentdescribe" : "不要让闲话动摇了你的信念",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8002
+}, {
+  "id" : 491,
+  "fragmentname" : "韦奇定律4",
+  "fragmentdescribe" : "不要让闲话动摇了你的信念",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8002
+}, {
+  "id" : 492,
+  "fragmentname" : "韦奇定律5",
+  "fragmentdescribe" : "不要让闲话动摇了你的信念",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8002
+}, {
+  "id" : 493,
+  "fragmentname" : "人格分裂1",
+  "fragmentdescribe" : "人格还能分裂？你还是你吗？",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8003
+}, {
+  "id" : 494,
+  "fragmentname" : "人格分裂2",
+  "fragmentdescribe" : "人格还能分裂？你还是你吗？",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8003
+}, {
+  "id" : 495,
+  "fragmentname" : "人格分裂3",
+  "fragmentdescribe" : "人格还能分裂？你还是你吗？",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8003
+}, {
+  "id" : 496,
+  "fragmentname" : "人格分裂4",
+  "fragmentdescribe" : "人格还能分裂？你还是你吗？",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8003
+}, {
+  "id" : 497,
+  "fragmentname" : "人格分裂5",
+  "fragmentdescribe" : "人格还能分裂？你还是你吗？",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8003
+}, {
+  "id" : 498,
+  "fragmentname" : "控制情绪1",
+  "fragmentdescribe" : "做事前考虑周全，能够平静，去接受哪些不可控的；",
+  "gameid" : 66,
+  "chatid" : 3,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 8004
+}, {
+  "id" : 499,
+  "fragmentname" : "控制情绪2",
+  "fragmentdescribe" : "做事前考虑周全，能够平静，去接受哪些不可控的；",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8004
+}, {
+  "id" : 500,
+  "fragmentname" : "控制情绪3",
+  "fragmentdescribe" : "做事前考虑周全，能够平静，去接受哪些不可控的；",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8004
+}, {
+  "id" : 501,
+  "fragmentname" : "控制情绪4",
+  "fragmentdescribe" : "做事前考虑周全，能够平静，去接受哪些不可控的；",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8004
+}, {
+  "id" : 502,
+  "fragmentname" : "控制情绪5",
+  "fragmentdescribe" : "做事前考虑周全，能够平静，去接受哪些不可控的；",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8004
+}, {
+  "id" : 503,
+  "fragmentname" : "细心谨慎1",
+  "fragmentdescribe" : "人生观的形成应该鼓励思考，对人对事细细入微的思考感悟",
+  "gameid" : 66,
+  "chatid" : 1,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 8005
+}, {
+  "id" : 504,
+  "fragmentname" : "细心谨慎2",
+  "fragmentdescribe" : "人生观的形成应该鼓励思考，对人对事细细入微的思考感悟",
+  "gameid" : 66,
+  "chatid" : 5,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 8005
+}, {
+  "id" : 505,
+  "fragmentname" : "细心谨慎3",
+  "fragmentdescribe" : "人生观的形成应该鼓励思考，对人对事细细入微的思考感悟",
+  "gameid" : 66,
+  "chatid" : 7,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 8005
+}, {
+  "id" : 506,
+  "fragmentname" : "细心谨慎4",
+  "fragmentdescribe" : "人生观的形成应该鼓励思考，对人对事细细入微的思考感悟",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8005
+}, {
+  "id" : 507,
+  "fragmentname" : "细心谨慎5",
+  "fragmentdescribe" : "人生观的形成应该鼓励思考，对人对事细细入微的思考感悟",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8005
+}, {
+  "id" : 508,
+  "fragmentname" : "性格多疑1",
+  "fragmentdescribe" : "没有安全感的人都会性格多疑，而你呢",
+  "gameid" : 66,
+  "chatid" : 9,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 8006
+}, {
+  "id" : 509,
+  "fragmentname" : "性格多疑2",
+  "fragmentdescribe" : "没有安全感的人都会性格多疑，而你呢",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8006
+}, {
+  "id" : 510,
+  "fragmentname" : "性格多疑3",
+  "fragmentdescribe" : "没有安全感的人都会性格多疑，而你呢",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8006
+}, {
+  "id" : 511,
+  "fragmentname" : "性格多疑4",
+  "fragmentdescribe" : "没有安全感的人都会性格多疑，而你呢",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8006
+}, {
+  "id" : 512,
+  "fragmentname" : "性格多疑5",
+  "fragmentdescribe" : "没有安全感的人都会性格多疑，而你呢",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8006
+}, {
+  "id" : 513,
+  "fragmentname" : "色彩人格1",
+  "fragmentdescribe" : "这是一个五彩缤纷的社会，每一种性格都是一种色彩",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8007
+}, {
+  "id" : 514,
+  "fragmentname" : "色彩人格2",
+  "fragmentdescribe" : "这是一个五彩缤纷的社会，每一种性格都是一种色彩",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8007
+}, {
+  "id" : 515,
+  "fragmentname" : "色彩人格3",
+  "fragmentdescribe" : "这是一个五彩缤纷的社会，每一种性格都是一种色彩",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8007
+}, {
+  "id" : 516,
+  "fragmentname" : "色彩人格4",
+  "fragmentdescribe" : "这是一个五彩缤纷的社会，每一种性格都是一种色彩",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8007
+}, {
+  "id" : 517,
+  "fragmentname" : "色彩人格5",
+  "fragmentdescribe" : "这是一个五彩缤纷的社会，每一种性格都是一种色彩",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8007
+}, {
+  "id" : 518,
+  "fragmentname" : "马蝇效应1",
+  "fragmentdescribe" : "再懒惰的马，只要身上有马蝇叮咬，它也会精神抖擞，飞快奔跑。有正确的刺激，才会有正确的反应。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8008
+}, {
+  "id" : 519,
+  "fragmentname" : "马蝇效应2",
+  "fragmentdescribe" : "再懒惰的马，只要身上有马蝇叮咬，它也会精神抖擞，飞快奔跑。有正确的刺激，才会有正确的反应。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8008
+}, {
+  "id" : 520,
+  "fragmentname" : "马蝇效应3",
+  "fragmentdescribe" : "再懒惰的马，只要身上有马蝇叮咬，它也会精神抖擞，飞快奔跑。有正确的刺激，才会有正确的反应。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8008
+}, {
+  "id" : 521,
+  "fragmentname" : "马蝇效应4",
+  "fragmentdescribe" : "再懒惰的马，只要身上有马蝇叮咬，它也会精神抖擞，飞快奔跑。有正确的刺激，才会有正确的反应。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8008
+}, {
+  "id" : 522,
+  "fragmentname" : "马蝇效应5",
+  "fragmentdescribe" : "再懒惰的马，只要身上有马蝇叮咬，它也会精神抖擞，飞快奔跑。有正确的刺激，才会有正确的反应。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8008
+}, {
+  "id" : 523,
+  "fragmentname" : "刺猬理论1",
+  "fragmentdescribe" : "刺猬在天冷时彼此靠拢取暖，但保持一定距离，以免互相刺伤。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8009
+}, {
+  "id" : 524,
+  "fragmentname" : "刺猬理论2",
+  "fragmentdescribe" : "刺猬在天冷时彼此靠拢取暖，但保持一定距离，以免互相刺伤。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8009
+}, {
+  "id" : 525,
+  "fragmentname" : "刺猬理论3",
+  "fragmentdescribe" : "刺猬在天冷时彼此靠拢取暖，但保持一定距离，以免互相刺伤。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8009
+}, {
+  "id" : 526,
+  "fragmentname" : "刺猬理论4",
+  "fragmentdescribe" : "刺猬在天冷时彼此靠拢取暖，但保持一定距离，以免互相刺伤。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8009
+}, {
+  "id" : 527,
+  "fragmentname" : "刺猬理论5",
+  "fragmentdescribe" : "刺猬在天冷时彼此靠拢取暖，但保持一定距离，以免互相刺伤。",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 8009
+}, {
+  "id" : 528,
+  "fragmentname" : "老油条1",
+  "fragmentdescribe" : "老练又狡猾说的就是你！",
+  "gameid" : 53,
+  "chatid" : 6,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9001
+}, {
+  "id" : 529,
+  "fragmentname" : "老油条2",
+  "fragmentdescribe" : "老练又狡猾说的就是你！",
+  "gameid" : 53,
+  "chatid" : 12,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9001
+}, {
+  "id" : 530,
+  "fragmentname" : "老油条3",
+  "fragmentdescribe" : "老练又狡猾说的就是你！",
+  "gameid" : 53,
+  "chatid" : 14,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9001
+}, {
+  "id" : 531,
+  "fragmentname" : "老油条4",
+  "fragmentdescribe" : "老练又狡猾说的就是你！",
+  "gameid" : 53,
+  "chatid" : 20,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9001
+}, {
+  "id" : 532,
+  "fragmentname" : "老油条5",
+  "fragmentdescribe" : "老练又狡猾说的就是你！",
+  "gameid" : 54,
+  "chatid" : 13,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9001
+}, {
+  "id" : 533,
+  "fragmentname" : "老油条6",
+  "fragmentdescribe" : "老练又狡猾说的就是你！",
+  "gameid" : 54,
+  "chatid" : 33,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9001
+}, {
+  "id" : 534,
+  "fragmentname" : "老油条7",
+  "fragmentdescribe" : "老练又狡猾说的就是你！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9001
+}, {
+  "id" : 535,
+  "fragmentname" : "老油条8",
+  "fragmentdescribe" : "老练又狡猾说的就是你！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9001
+}, {
+  "id" : 536,
+  "fragmentname" : "老油条9",
+  "fragmentdescribe" : "老练又狡猾说的就是你！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9001
+}, {
+  "id" : 537,
+  "fragmentname" : "老油条10",
+  "fragmentdescribe" : "老练又狡猾说的就是你！",
+  "gameid" : 10001,
+  "chatid" : 27,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9001
+}, {
+  "id" : 538,
+  "fragmentname" : "老油条11",
+  "fragmentdescribe" : "老练又狡猾说的就是你！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9001
+}, {
+  "id" : 539,
+  "fragmentname" : "老油条12",
+  "fragmentdescribe" : "老练又狡猾说的就是你！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9001
+}, {
+  "id" : 540,
+  "fragmentname" : "老油条13",
+  "fragmentdescribe" : "老练又狡猾说的就是你！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9001
+}, {
+  "id" : 541,
+  "fragmentname" : "老油条14",
+  "fragmentdescribe" : "老练又狡猾说的就是你！",
+  "gameid" : 10001,
+  "chatid" : 1,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9001
+}, {
+  "id" : 542,
+  "fragmentname" : "替罪羊1",
+  "fragmentdescribe" : "为什么受伤的又是你？",
+  "gameid" : 8,
+  "chatid" : 1,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9002
+}, {
+  "id" : 543,
+  "fragmentname" : "替罪羊2",
+  "fragmentdescribe" : "为什么受伤的又是你？",
+  "gameid" : 53,
+  "chatid" : 8,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9002
+}, {
+  "id" : 544,
+  "fragmentname" : "替罪羊3",
+  "fragmentdescribe" : "为什么受伤的又是你？",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9002
+}, {
+  "id" : 545,
+  "fragmentname" : "替罪羊4",
+  "fragmentdescribe" : "为什么受伤的又是你？",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9002
+}, {
+  "id" : 546,
+  "fragmentname" : "替罪羊5",
+  "fragmentdescribe" : "为什么受伤的又是你？",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9002
+}, {
+  "id" : 547,
+  "fragmentname" : "耿直Boy1",
+  "fragmentdescribe" : "比你还耿直的都被开除了",
+  "gameid" : 53,
+  "chatid" : 4,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9003
+}, {
+  "id" : 548,
+  "fragmentname" : "耿直Boy2",
+  "fragmentdescribe" : "比你还耿直的都被开除了",
+  "gameid" : 53,
+  "chatid" : 16,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9003
+}, {
+  "id" : 549,
+  "fragmentname" : "耿直Boy3",
+  "fragmentdescribe" : "比你还耿直的都被开除了",
+  "gameid" : 53,
+  "chatid" : 22,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9003
+}, {
+  "id" : 550,
+  "fragmentname" : "耿直Boy4",
+  "fragmentdescribe" : "比你还耿直的都被开除了",
+  "gameid" : 54,
+  "chatid" : 27,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9003
+}, {
+  "id" : 551,
+  "fragmentname" : "耿直Boy5",
+  "fragmentdescribe" : "比你还耿直的都被开除了",
+  "gameid" : 48,
+  "chatid" : 0,
+  "cid" : 153,
+  "getfragment" : 1,
+  "fromBadgeId" : 9003
+}, {
+  "id" : 552,
+  "fragmentname" : "职场精英1",
+  "fragmentdescribe" : "一个人就是一个团队！",
+  "gameid" : 53,
+  "chatid" : 18,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9004
+}, {
+  "id" : 553,
+  "fragmentname" : "职场精英2",
+  "fragmentdescribe" : "一个人就是一个团队！",
+  "gameid" : 53,
+  "chatid" : 28,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9004
+}, {
+  "id" : 554,
+  "fragmentname" : "职场精英3",
+  "fragmentdescribe" : "一个人就是一个团队！",
+  "gameid" : 53,
+  "chatid" : 30,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9004
+}, {
+  "id" : 555,
+  "fragmentname" : "职场精英4",
+  "fragmentdescribe" : "一个人就是一个团队！",
+  "gameid" : 54,
+  "chatid" : 3,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9004
+}, {
+  "id" : 556,
+  "fragmentname" : "职场精英5",
+  "fragmentdescribe" : "一个人就是一个团队！",
+  "gameid" : 54,
+  "chatid" : 17,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9004
+}, {
+  "id" : 557,
+  "fragmentname" : "职场精英6",
+  "fragmentdescribe" : "一个人就是一个团队！",
+  "gameid" : 54,
+  "chatid" : 19,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9004
+}, {
+  "id" : 558,
+  "fragmentname" : "职场精英7",
+  "fragmentdescribe" : "一个人就是一个团队！",
+  "gameid" : 54,
+  "chatid" : 23,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9004
+}, {
+  "id" : 559,
+  "fragmentname" : "职场精英8",
+  "fragmentdescribe" : "一个人就是一个团队！",
+  "gameid" : 54,
+  "chatid" : 29,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9004
+}, {
+  "id" : 560,
+  "fragmentname" : "职场精英9",
+  "fragmentdescribe" : "一个人就是一个团队！",
+  "gameid" : 54,
+  "chatid" : 31,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9004
+}, {
+  "id" : 561,
+  "fragmentname" : "职场精英10",
+  "fragmentdescribe" : "一个人就是一个团队！",
+  "gameid" : 57,
+  "chatid" : 0,
+  "cid" : 163,
+  "getfragment" : 1,
+  "fromBadgeId" : 9004
+}, {
+  "id" : 562,
+  "fragmentname" : "职场精英11",
+  "fragmentdescribe" : "一个人就是一个团队！",
+  "gameid" : 54,
+  "chatid" : 3,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9004
+}, {
+  "id" : 563,
+  "fragmentname" : "职场精英12",
+  "fragmentdescribe" : "一个人就是一个团队！",
+  "gameid" : 54,
+  "chatid" : 9,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9004
+}, {
+  "id" : 564,
+  "fragmentname" : "职场精英13",
+  "fragmentdescribe" : "一个人就是一个团队！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9004
+}, {
+  "id" : 565,
+  "fragmentname" : "职场精英14",
+  "fragmentdescribe" : "一个人就是一个团队！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9004
+}, {
+  "id" : 566,
+  "fragmentname" : "职场精英15",
+  "fragmentdescribe" : "一个人就是一个团队！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9004
+}, {
+  "id" : 567,
+  "fragmentname" : "职场精英16",
+  "fragmentdescribe" : "一个人就是一个团队！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9004
+}, {
+  "id" : 568,
+  "fragmentname" : "职场精英17",
+  "fragmentdescribe" : "一个人就是一个团队！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9004
+}, {
+  "id" : 569,
+  "fragmentname" : "职场精英18",
+  "fragmentdescribe" : "一个人就是一个团队！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9004
+}, {
+  "id" : 570,
+  "fragmentname" : "心太黑1",
+  "fragmentdescribe" : "你们玩套路的心都脏！",
+  "gameid" : 53,
+  "chatid" : 24,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9005
+}, {
+  "id" : 571,
+  "fragmentname" : "心太黑2",
+  "fragmentdescribe" : "你们玩套路的心都脏！",
+  "gameid" : 54,
+  "chatid" : 37,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9005
+}, {
+  "id" : 572,
+  "fragmentname" : "心太黑3",
+  "fragmentdescribe" : "你们玩套路的心都脏！",
+  "gameid" : 56,
+  "chatid" : 0,
+  "cid" : 82,
+  "getfragment" : 1,
+  "fromBadgeId" : 9005
+}, {
+  "id" : 573,
+  "fragmentname" : "心太黑4",
+  "fragmentdescribe" : "你们玩套路的心都脏！",
+  "gameid" : 54,
+  "chatid" : 1,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9005
+}, {
+  "id" : 574,
+  "fragmentname" : "心太黑5",
+  "fragmentdescribe" : "你们玩套路的心都脏！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9005
+}, {
+  "id" : 575,
+  "fragmentname" : "心太黑6",
+  "fragmentdescribe" : "你们玩套路的心都脏！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9005
+}, {
+  "id" : 576,
+  "fragmentname" : "无知的小白1",
+  "fragmentdescribe" : "节奏大师，带崩全场",
+  "gameid" : 54,
+  "chatid" : 15,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9006
+}, {
+  "id" : 577,
+  "fragmentname" : "无知的小白2",
+  "fragmentdescribe" : "节奏大师，带崩全场",
+  "gameid" : 54,
+  "chatid" : 21,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9006
+}, {
+  "id" : 578,
+  "fragmentname" : "无知的小白3",
+  "fragmentdescribe" : "节奏大师，带崩全场",
+  "gameid" : 53,
+  "chatid" : 2,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9006
+}, {
+  "id" : 579,
+  "fragmentname" : "无知的小白4",
+  "fragmentdescribe" : "节奏大师，带崩全场",
+  "gameid" : 53,
+  "chatid" : 32,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9006
+}, {
+  "id" : 580,
+  "fragmentname" : "无知的小白5",
+  "fragmentdescribe" : "节奏大师，带崩全场",
+  "gameid" : 48,
+  "chatid" : 0,
+  "cid" : 72,
+  "getfragment" : 1,
+  "fromBadgeId" : 9006
+}, {
+  "id" : 581,
+  "fragmentname" : "无知的小白6",
+  "fragmentdescribe" : "节奏大师，带崩全场",
+  "gameid" : 57,
+  "chatid" : 0,
+  "cid" : 82,
+  "getfragment" : 1,
+  "fromBadgeId" : 9006
+}, {
+  "id" : 582,
+  "fragmentname" : "无知的小白7",
+  "fragmentdescribe" : "节奏大师，带崩全场",
+  "gameid" : 54,
+  "chatid" : 5,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9006
+}, {
+  "id" : 583,
+  "fragmentname" : "祸从口出1",
+  "fragmentdescribe" : "少说一句话，少挨一顿骂",
+  "gameid" : 56,
+  "chatid" : 0,
+  "cid" : 132,
+  "getfragment" : 1,
+  "fromBadgeId" : 9007
+}, {
+  "id" : 584,
+  "fragmentname" : "祸从口出2",
+  "fragmentdescribe" : "少说一句话，少挨一顿骂",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9007
+}, {
+  "id" : 585,
+  "fragmentname" : "祸从口出3",
+  "fragmentdescribe" : "少说一句话，少挨一顿骂",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9007
+}, {
+  "id" : 586,
+  "fragmentname" : "祸从口出4",
+  "fragmentdescribe" : "少说一句话，少挨一顿骂",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9007
+}, {
+  "id" : 587,
+  "fragmentname" : "祸从口出5",
+  "fragmentdescribe" : "少说一句话，少挨一顿骂",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9007
+}, {
+  "id" : 588,
+  "fragmentname" : "老好人1",
+  "fragmentdescribe" : "职场暖男就是你？",
+  "gameid" : 53,
+  "chatid" : 26,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9008
+}, {
+  "id" : 589,
+  "fragmentname" : "老好人2",
+  "fragmentdescribe" : "职场暖男就是你？",
+  "gameid" : 54,
+  "chatid" : 25,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9008
+}, {
+  "id" : 590,
+  "fragmentname" : "老好人3",
+  "fragmentdescribe" : "职场暖男就是你？",
+  "gameid" : 54,
+  "chatid" : 35,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9008
+}, {
+  "id" : 591,
+  "fragmentname" : "老好人4",
+  "fragmentdescribe" : "职场暖男就是你？",
+  "gameid" : 54,
+  "chatid" : 7,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9008
+}, {
+  "id" : 592,
+  "fragmentname" : "老好人5",
+  "fragmentdescribe" : "职场暖男就是你？",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9008
+}, {
+  "id" : 593,
+  "fragmentname" : "老好人6",
+  "fragmentdescribe" : "职场暖男就是你？",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9008
+}, {
+  "id" : 594,
+  "fragmentname" : "混钱一族1",
+  "fragmentdescribe" : "钱不是用来赚的，是用来混的！",
+  "gameid" : 53,
+  "chatid" : 10,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9009
+}, {
+  "id" : 595,
+  "fragmentname" : "混钱一族2",
+  "fragmentdescribe" : "钱不是用来赚的，是用来混的！",
+  "gameid" : 54,
+  "chatid" : 11,
+  "cid" : 1,
+  "getfragment" : 1,
+  "fromBadgeId" : 9009
+}, {
+  "id" : 596,
+  "fragmentname" : "混钱一族3",
+  "fragmentdescribe" : "钱不是用来赚的，是用来混的！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9009
+}, {
+  "id" : 597,
+  "fragmentname" : "混钱一族4",
+  "fragmentdescribe" : "钱不是用来赚的，是用来混的！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9009
+}, {
+  "id" : 598,
+  "fragmentname" : "混钱一族5",
+  "fragmentdescribe" : "钱不是用来赚的，是用来混的！",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 9009
+}, {
+  "id" : 599,
+  "fragmentname" : "内测专属1",
+  "fragmentdescribe" : "经典重现，感恩有你",
+  "gameid" : 9,
+  "chatid" : 0,
+  "cid" : 231,
+  "getfragment" : 1,
+  "fromBadgeId" : 10001
+}, {
+  "id" : 600,
+  "fragmentname" : "内测专属2",
+  "fragmentdescribe" : "经典重现，感恩有你",
+  "gameid" : 12,
+  "chatid" : 1,
+  "cid" : 121,
+  "getfragment" : 1,
+  "fromBadgeId" : 10001
+}, {
+  "id" : 601,
+  "fragmentname" : "内测专属3",
+  "fragmentdescribe" : "经典重现，感恩有你",
+  "gameid" : 20,
+  "chatid" : 0,
+  "cid" : 101,
+  "getfragment" : 1,
+  "fromBadgeId" : 10001
+}, {
+  "id" : 602,
+  "fragmentname" : "内测专属4",
+  "fragmentdescribe" : "经典重现，感恩有你",
+  "gameid" : 23,
+  "chatid" : 1,
+  "cid" : 14,
+  "getfragment" : 1,
+  "fromBadgeId" : 10001
+}, {
+  "id" : 603,
+  "fragmentname" : "内测专属5",
+  "fragmentdescribe" : "经典重现，感恩有你",
+  "gameid" : 25,
+  "chatid" : 1,
+  "cid" : 95,
+  "getfragment" : 1,
+  "fromBadgeId" : 10001
+}, {
+  "id" : 604,
+  "fragmentname" : "新人徽章1",
+  "fragmentdescribe" : "一颗侦探界的新星冉冉升起",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 110001
+}, {
+  "id" : 605,
+  "fragmentname" : "新人徽章2",
+  "fragmentdescribe" : "一颗侦探界的新星冉冉升起",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 110001
+}, {
+  "id" : 606,
+  "fragmentname" : "新人徽章3",
+  "fragmentdescribe" : "一颗侦探界的新星冉冉升起",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 110001
+}, {
+  "id" : 607,
+  "fragmentname" : "新人徽章4",
+  "fragmentdescribe" : "一颗侦探界的新星冉冉升起",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 110001
+}, {
+  "id" : 608,
+  "fragmentname" : "新人徽章5",
+  "fragmentdescribe" : "一颗侦探界的新星冉冉升起",
+  "gameid" : 10001,
+  "chatid" : 0,
+  "cid" : 0,
+  "getfragment" : 1,
+  "fromBadgeId" : 110001
+} ]

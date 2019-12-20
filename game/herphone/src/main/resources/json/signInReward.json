@@ -1,0 +1,66 @@
+[ {
+  "id" : 1,
+  "day" : 1,
+  "list" : [ {
+    "key" : 2001,
+    "value" : 2
+  } ],
+  "url" : "/bzyappclub/badge/badge12.png"
+}, {
+  "id" : 2,
+  "day" : 2,
+  "list" : [ {
+    "key" : 2001,
+    "value" : 5
+  }, {
+    "key" : 3003,
+    "value" : 1
+  } ],
+  "url" : "/bzyappclub/badge/badge06.png"
+}, {
+  "id" : 3,
+  "day" : 3,
+  "list" : [ {
+    "key" : 2001,
+    "value" : 8
+  } ],
+  "url" : "/bzyappclub/badge/badge12.png"
+}, {
+  "id" : 4,
+  "day" : 4,
+  "list" : [ {
+    "key" : 2001,
+    "value" : 10
+  }, {
+    "key" : 3001,
+    "value" : 1
+  } ],
+  "url" : "/bzyappclub/badge/badge04.png"
+}, {
+  "id" : 5,
+  "day" : 5,
+  "list" : [ {
+    "key" : 2001,
+    "value" : 12
+  } ],
+  "url" : "/bzyappclub/badge/badge12.png"
+}, {
+  "id" : 6,
+  "day" : 6,
+  "list" : [ {
+    "key" : 2001,
+    "value" : 15
+  } ],
+  "url" : "/bzyappclub/badge/badge12.png"
+}, {
+  "id" : 7,
+  "day" : 7,
+  "list" : [ {
+    "key" : 2001,
+    "value" : 18
+  }, {
+    "key" : 4001,
+    "value" : 1
+  } ],
+  "url" : "/bzyappclub/badge/badge09.png"
+} ]

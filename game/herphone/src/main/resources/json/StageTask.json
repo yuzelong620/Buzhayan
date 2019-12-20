@@ -1,0 +1,217 @@
+[ {
+  "id" : 1,
+  "stage" : 1,
+  "taskAward" : [ {
+    "key" : 2002,
+    "value" : 70
+  }, {
+    "key" : 2001,
+    "value" : 5
+  } ],
+  "sunSchedule" : 1,
+  "relative" : 1
+}, {
+  "id" : 2,
+  "stage" : 1,
+  "taskAward" : [ {
+    "key" : 2002,
+    "value" : 70
+  }, {
+    "key" : 2001,
+    "value" : 5
+  } ],
+  "sunSchedule" : 1,
+  "relative" : 2
+}, {
+  "id" : 3,
+  "stage" : 1,
+  "taskAward" : [ {
+    "key" : 2002,
+    "value" : 70
+  }, {
+    "key" : 2001,
+    "value" : 5
+  } ],
+  "sunSchedule" : 1,
+  "relative" : 3
+}, {
+  "id" : 4,
+  "stage" : 1,
+  "taskAward" : [ {
+    "key" : 2002,
+    "value" : 40
+  }, {
+    "key" : 2001,
+    "value" : 2
+  } ],
+  "sunSchedule" : 1,
+  "relative" : 4
+}, {
+  "id" : 5,
+  "stage" : 1,
+  "taskAward" : [ {
+    "key" : 2002,
+    "value" : 40
+  }, {
+    "key" : 2001,
+    "value" : 2
+  } ],
+  "sunSchedule" : 1,
+  "relative" : 5
+}, {
+  "id" : 6,
+  "stage" : 1,
+  "taskAward" : [ {
+    "key" : 2002,
+    "value" : 120
+  }, {
+    "key" : 2001,
+    "value" : 10
+  } ],
+  "sunSchedule" : 1,
+  "relative" : 6
+}, {
+  "id" : 7,
+  "stage" : 2,
+  "taskAward" : [ {
+    "key" : 2002,
+    "value" : 270
+  }, {
+    "key" : 2001,
+    "value" : 25
+  } ],
+  "sunSchedule" : 5,
+  "relative" : 1
+}, {
+  "id" : 8,
+  "stage" : 2,
+  "taskAward" : [ {
+    "key" : 2002,
+    "value" : 270
+  }, {
+    "key" : 2001,
+    "value" : 25
+  } ],
+  "sunSchedule" : 5,
+  "relative" : 2
+}, {
+  "id" : 9,
+  "stage" : 2,
+  "taskAward" : [ {
+    "key" : 2002,
+    "value" : 270
+  }, {
+    "key" : 2001,
+    "value" : 25
+  } ],
+  "sunSchedule" : 3,
+  "relative" : 3
+}, {
+  "id" : 10,
+  "stage" : 2,
+  "taskAward" : [ {
+    "key" : 2002,
+    "value" : 170
+  }, {
+    "key" : 2001,
+    "value" : 15
+  } ],
+  "sunSchedule" : 10,
+  "relative" : 4
+}, {
+  "id" : 11,
+  "stage" : 2,
+  "taskAward" : [ {
+    "key" : 2002,
+    "value" : 120
+  }, {
+    "key" : 2001,
+    "value" : 20
+  } ],
+  "sunSchedule" : 3,
+  "relative" : 5
+}, {
+  "id" : 12,
+  "stage" : 2,
+  "taskAward" : [ {
+    "key" : 1002,
+    "value" : 270
+  }, {
+    "key" : 1001,
+    "value" : 20
+  } ],
+  "sunSchedule" : 3,
+  "relative" : 6
+}, {
+  "id" : 13,
+  "stage" : 3,
+  "taskAward" : [ {
+    "key" : 1002,
+    "value" : 2500
+  }, {
+    "key" : 1001,
+    "value" : 120
+  } ],
+  "sunSchedule" : 20,
+  "relative" : 1
+}, {
+  "id" : 14,
+  "stage" : 3,
+  "taskAward" : [ {
+    "key" : 1002,
+    "value" : 5500
+  }, {
+    "key" : 1001,
+    "value" : 200
+  } ],
+  "sunSchedule" : 1,
+  "relative" : 2
+}, {
+  "id" : 15,
+  "stage" : 3,
+  "taskAward" : [ {
+    "key" : 1002,
+    "value" : 3000
+  }, {
+    "key" : 1001,
+    "value" : 200
+  } ],
+  "sunSchedule" : 30,
+  "relative" : 3
+}, {
+  "id" : 16,
+  "stage" : 3,
+  "taskAward" : [ {
+    "key" : 1002,
+    "value" : 1800
+  }, {
+    "key" : 1001,
+    "value" : 100
+  } ],
+  "sunSchedule" : 50,
+  "relative" : 4
+}, {
+  "id" : 17,
+  "stage" : 3,
+  "taskAward" : [ {
+    "key" : 1002,
+    "value" : 2500
+  }, {
+    "key" : 1001,
+    "value" : 150
+  } ],
+  "sunSchedule" : 7,
+  "relative" : 5
+}, {
+  "id" : 18,
+  "stage" : 3,
+  "taskAward" : [ {
+    "key" : 1002,
+    "value" : 3000
+  }, {
+    "key" : 1001,
+    "value" : 200
+  } ],
+  "sunSchedule" : 2000,
+  "relative" : 6
+} ]

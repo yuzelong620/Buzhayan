@@ -1,0 +1,144 @@
+server:
+  port: 9994
+
+kratos:
+  heartbeatTick: 600
+  gamePort: 9699
+
+spring:
+  application:
+    name: game-herphone-server
+  profiles:
+    active: dev
+
+---
+spring:
+  centerServerHost: http://127.0.0.1:9992
+  profiles: dev
+  jpa:
+    database: MYSQL
+    show-sql: false
+    generate-ddl: true
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5Dialect
+  datasource:
+    url: jdbc:mysql://192.168.1.195:3306/herphone_test?autoReconnect=true&useSSL=false&characterEncoding=UTF-8
+    username: root
+    password: 123456
+    tomcat:
+      default-auto-commit: true
+      initial-size: 2
+      max-active: 4
+      max-wait: 60000
+      min-idle: 2
+      test-on-borrow: true
+      test-on-return: true
+      test-while-idle: true
+      validation-query: SELECT 1
+      validation-query-timeout: 3
+      time-between-eviction-runs-millis: 60000
+      min-evictable-idle-time-millis: 300000
+      remove-abandoned: true
+      remove-abandoned-timeout: 180
+      pool-prepared-statements: true
+      max-pool-prepared-statement-per-connection-size: 20
+  redis:
+    expiration: 3600
+    host: 127.0.0.1
+    port: 6379
+    password:
+    namespace: herphone
+kratos:
+  config:
+    serverId: 10001
+---
+spring:
+  profiles: test
+  centerServerHost: http://localhost:9992
+  jpa:
+    database: MYSQL
+    show-sql: false
+    generate-ddl: true
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5Dialect
+  datasource:
+    username: crxl2018
+    password: ASDasd19981018
+    url: jdbc:mysql://rm-m5e8930io3917v3nk.mysql.rds.aliyuncs.com:3306/herphone_test?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&characterEncoding=UTF-8
+    tomcat:
+      default-auto-commit: true
+      initial-size: 300
+      max-active: 600
+      max-wait: 60000
+      min-idle: 300
+      test-on-borrow: true
+      test-on-return: true
+      test-while-idle: true
+      validation-query: SELECT 1
+      validation-query-timeout: 3
+      time-between-eviction-runs-millis: 60000
+      min-evictable-idle-time-millis: 300000
+      remove-abandoned: true
+      remove-abandoned-timeout: 180
+      pool-prepared-statements: true
+      max-pool-prepared-statement-per-connection-size: 20
+  redis:
+    expiration: 3600
+    host: r-m5e1afb96f73a5a4.redis.rds.aliyuncs.com
+    port: 6379
+    password: ASDasd19981018
+    namespace: herphone_test
+kratos:
+  config:
+    serverId: 10001 #用来生成主键
+---
+spring:
+  profiles: prod
+  jpa:
+    database: MYSQL
+    show-sql: true
+    generate-ddl: true
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5Dialect
+  datasource:
+    username: crxl2018
+    password: ASDasd19981018
+    url: jdbc:mysql://rm-m5e8930io3917v3nk.mysql.rds.aliyuncs.com:3306/herphone?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&characterEncoding=UTF-8
+    tomcat:
+      default-auto-commit: true
+      initial-size: 300
+      max-active: 600
+      max-wait: 60000
+      min-idle: 300
+      test-on-borrow: true
+      test-on-return: true
+      test-while-idle: true
+      validation-query: SELECT 1
+      validation-query-timeout: 3
+      time-between-eviction-runs-millis: 60000
+      min-evictable-idle-time-millis: 300000
+      remove-abandoned: true
+      remove-abandoned-timeout: 180
+      pool-prepared-statements: true
+      max-pool-prepared-statement-per-connection-size: 20
+  redis:
+    expiration: 3600
+    host: r-m5e1afb96f73a5a4.redis.rds.aliyuncs.com
+    port: 6379
+    password: ASDasd19981018
+    namespace: herphone
+kratos:
+  config:
+    serverId: 10001 #用来生成主键
+---
+spring:
+  profiles: test
