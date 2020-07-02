@@ -40,7 +40,7 @@
         <lombok.version>1.18.0</lombok.version>
         <swagger2.version>2.9.2</swagger2.version>
         <fastjson>1.2.30</fastjson>
-        <mysql.version>5.1.46</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
         <commons-lang3>3.5</commons-lang3>
         <commons-io.version>2.5</commons-io.version>
         <kaptcha.version>0.0.9</kaptcha.version>
