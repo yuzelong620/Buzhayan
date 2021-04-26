@@ -42,7 +42,7 @@
         <fastjson>1.2.30</fastjson>
         <mysql.version>5.1.46</mysql.version>
         <commons-lang3>3.5</commons-lang3>
-        <commons-io.version>2.5</commons-io.version>
+        <commons-io.version>2.7</commons-io.version>
         <kaptcha.version>0.0.9</kaptcha.version>
         <hibernate.validator.version>5.3.6.Final</hibernate.validator.version>
         <hibernate.core.version>5.0.12.Final</hibernate.core.version>
