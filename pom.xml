@@ -45,7 +45,7 @@
         <commons-io.version>2.5</commons-io.version>
         <kaptcha.version>0.0.9</kaptcha.version>
         <hibernate.validator.version>5.3.6.Final</hibernate.validator.version>
-        <hibernate.core.version>5.0.12.Final</hibernate.core.version>
+        <hibernate.core.version>5.3.20.Final</hibernate.core.version>
 	    <netty.version>4.1.11.Final</netty.version>
         <guava.version>19.0</guava.version>
         <freemarker.version>2.3.19</freemarker.version>
